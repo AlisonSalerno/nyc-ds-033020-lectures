@@ -1,0 +1,2401 @@
+,id,name,alias,rating,review_count,price
+0,j1S3NUrkB3BVT49n_e76NQ,Best Bagel & Coffee,best-bagel-and-coffee-new-york,4.5,3305,1.0
+1,VrCCr45dhN-RRM107iptdg,Russ & Daughters,russ-and-daughters-new-york,4.5,2210,2.0
+2,JV5oa5-KGdiWnqrKPoxSug,Absolute Bagels,absolute-bagels-new-york,4.5,1391,1.0
+3,c3eMI4_o4dPDDhPV_ibBYQ,Ess-a-Bagel,ess-a-bagel-new-york,4.0,3581,1.0
+4,oi39VAwo4-KGm_gSkWPCsQ,Tompkins Square Bagels - Avenue A,tompkins-square-bagels-avenue-a-new-york,4.0,1091,1.0
+5,Gpc2-sPCXlIQUrkfi4bpzw,Court Street Bagels,court-street-bagels-brooklyn,4.0,201,1.0
+6,Ys9iYSjuFDpZj7B1X07v5g,Liberty Bagels Midtown,liberty-bagels-midtown-new-york-3,4.5,482,1.0
+7,U43uuWwSyH95gXsUhejd4w,La Bagel Delight at Dumbo,la-bagel-delight-at-dumbo-brooklyn,3.5,145,1.0
+8,lQ7H-COT5duZQQ0XqGFPDg,Smith St Bagels,smith-st-bagels-brooklyn,4.0,373,2.0
+9,pb_ryc8FYHpUPV56eV2Eyg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-2,4.0,1429,1.0
+10,foO2N-TrdPBO-dFn6M35TA,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-8,4.5,111,1.0
+11,u9zVZH0liQu9skIz1kGrMA,Heaven's Hot Bagel,heavens-hot-bagel-new-york,4.0,199,1.0
+12,GLf8_rOnkszkGmPAiMzO9Q,Bread & Spread,bread-and-spread-dumbo,4.5,144,2.0
+13,7eNqRj9iCdxcORVTxexvuw,Greenberg’s Bagels,greenberg-s-bagels-brooklyn,4.5,6,
+14,SCornvTSCMQ2SvWGq8Z_Mw,Ess-A-Bagel,ess-a-bagel-new-york-5,4.0,855,1.0
+15,bb4TLfMexv3XPy864A09ug,H&H Bagels,h-and-h-bagels-new-york-6,4.0,786,1.0
+16,2D7orDrXzflLL1TRmWGPMw,Utopia Bagels,utopia-bagels-whitestone-2,4.5,574,1.0
+17,BIFbVuIDJFS_2u_8vJxnwA,Tompkins Square Bagels -  2nd Ave,tompkins-square-bagels-2nd-ave-new-york,4.0,216,1.0
+18,P91q647NhgyIf7nLc4wYsQ,Frankel's Delicatessen,frankels-delicatessen-brooklyn,4.0,244,2.0
+19,VImctKXnwzT_zrsc1ssvbg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria,4.5,677,1.0
+20,7HP9pH30Ha7xJsxsdVJBrg,Bagelsmith,bagelsmith-brooklyn,3.5,500,1.0
+21,PiAU4BCl5d9P-NWDvkNY4A,Bergen Bagels,bergen-bagels-brooklyn-2,4.0,369,1.0
+22,s-Fg5eHqv4VCAn2ANkHiZA,Leo's Bagels,leos-bagels-new-york,3.5,867,1.0
+23,tJWQnagxMYkFZXKrdiO3gg,Bagel Hole,bagel-hole-brooklyn-3,3.5,263,1.0
+24,0rQz8mkleT62eUkiAVs4UA,Russ & Daughters Cafe,russ-and-daughters-cafe-new-york-5,4.0,1002,2.0
+25,64i-2H8rLLs55RP89Ole4A,Bagel Pub,bagel-pub-brooklyn,4.0,457,1.0
+26,1s95hIhSQhLroVtp-4uOtw,Black Seed Bagels,black-seed-bagels-new-york-9,3.0,696,2.0
+27,UgTfFaQ_NAyne5OwLtTpXQ,Bagels & Schmear,bagels-and-schmear-new-york,4.0,504,1.0
+28,rdgOCFe30sIaAo6tkXkJ-A,Shelsky's of Brooklyn Appetizing & Delicateseen,shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn,4.0,186,3.0
+29,PWDSfW-c8198UegLtaTR1A,Russ & Daughters - Brooklyn,russ-and-daughters-brooklyn-brooklyn,3.0,53,2.0
+30,OtqShhp-cOByPzzdTMZu6w,Knickerbocker Bagel,knickerbocker-bagel-brooklyn,4.0,225,1.0
+31,XKWvRI7WI4LotDLUboUUGA,Barney Greengrass,barney-greengrass-new-york,4.0,748,2.0
+32,SSMCUb9erxbOkz6XUgHfKA,Andrew's Classic BKLYN Bagels by Hard Times Sundaes,andrews-classic-bklyn-bagels-by-hard-times-sundaes-brooklyn,3.5,12,
+33,i6UIu3QC2aESANgOR9aycA,Lula Bagel,lula-bagel-brooklyn,4.0,229,1.0
+34,6XX2Ytf8nYqh8dRhz9Kk_g,Mike's Bagels,mikes-bagels-new-york,4.0,198,1.0
+35,2buX7P8YIqcrHSKtqwm92g,Kossar's,kossars-new-york,3.5,514,1.0
+36,QdmvRfJb86BVvk6A-J5gAg,Modern Bread and Bagel,modern-bread-and-bagel-new-york,4.0,148,2.0
+37,WBNXo3byv64a0hn40c9Zuw,Montague Street Bagels,montague-street-bagels-brooklyn,3.0,200,1.0
+38,PIn-UUN953k8K9_Hffef6w,Cranberry's,cranberrys-brooklyn,4.0,131,1.0
+39,l6lg4lqJSkGDFE6Svl5wnw,The Bagel Shop,the-bagel-shop-new-york-2,4.0,120,2.0
+40,FkBFKwF9bDl3BCt3vebHbw,Williamsburg Bagel,williamsburg-bagel-brooklyn,3.5,27,1.0
+41,XTa5infpecABoyLZ86EH2w,Bagel Bob's,bagel-bobs-new-york,4.0,178,1.0
+42,n8AfzNmqZUfXZzHtieea_A,Murray's Bagels,murrays-bagels-new-york,3.0,843,1.0
+43,m6FV9h1mMJ9_LZetNOjNjg,Bagelworks,bagelworks-new-york-5,4.0,378,1.0
+44,Xs8jqmmjqm0foupgGFBO_w,New York City Bagel Coffee House,new-york-city-bagel-coffee-house-astoria,4.0,357,2.0
+45,fZYymv8linCo2id7wIokwQ,Bagel Boy,bagel-boy-brooklyn,4.0,250,1.0
+46,Rc9_uzaTwqFTG1LGlbTPxQ,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-2,4.0,239,2.0
+47,w8eAlTI-8pbVecPsWMrEMw,Baked In Brooklyn Bakery Store,baked-in-brooklyn-bakery-store-brooklyn,4.0,233,1.0
+48,T-JA9h3BIZfFNvjwHAAj9Q,Terrace Bagels,terrace-bagels-brooklyn,3.5,353,1.0
+49,Fx_zqaXVgc8BzwIfcbEKkw,BO's Bagels,bos-bagels-new-york,4.5,313,1.0
+0,H6NbVY8wxBL916q3GXBdVg,Tasty Bagels,tasty-bagels-brooklyn-2,4.0,97,1.0
+1,7pqZ3lpAtinvJ6QKOzSXxg,Yorkville Bagel & Cafe,yorkville-bagel-and-cafe-new-york-4,4.0,91,1.0
+2,psx14GCq03cuRCWJIs0CuQ,Bagel Oasis,bagel-oasis-fresh-meadows,4.0,351,1.0
+3,S0QgzOvaw5COMRnKWlVGnA,Baz Bagel and Restaurant,baz-bagel-and-restaurant-new-york-2,3.5,385,2.0
+4,ZP2uwlP0s21sh0wlPR-9Sw,Catherine  Deli and Bagel,catherine-deli-and-bagel-new-york,4.5,2,
+5,u_NC3WVKFelz-PGZ7a97AQ,District bagels,district-bagels-new-york,3.0,71,
+6,S_XtZplc6Gkf1AmsgACryw,Catskill Bagels,catskill-bagels-brooklyn-2,3.0,209,1.0
+7,EfhCZ3CiZeVzFt5E5N0n3w,Bergen Bagels,bergen-bagels-brooklyn-3,3.0,225,1.0
+8,MzSsxuBwJBlHmNFgEiOOeA,Have-A-Bagel,have-a-bagel-brooklyn,3.5,90,1.0
+9,4v5lbiExMocWoG7iKnYWrQ,Black Seed Bagels,black-seed-bagels-new-york-11,3.0,231,2.0
+10,l29pVn4RfU9xYMggiIVOcg,R & R Coffee,r-and-r-coffee-new-york,4.0,209,1.0
+11,mOL7TxRDJGutaEtVA8_hUg,Sadelle's,sadelles-new-york,3.5,627,3.0
+12,h94df8mReXmkPgk2aKt6fQ,The Bagel Factory - 17th St,the-bagel-factory-17th-st-brooklyn,3.5,123,1.0
+13,x3RfohtUQPWHS1l1VfAMTQ,Pick A Bagel,pick-a-bagel-new-york-15,3.5,870,2.0
+14,H_V8VZtIv34atqpI-Z86CQ,Bagel Pub,bagel-pub-brooklyn-2,3.5,303,1.0
+15,kuKSvCZDFrgOrY-dcrOefg,Round K,round-k-new-york,4.5,368,2.0
+16,tRys0z0O4EE8sivXLFZ3kQ,David's Bagels,davids-bagels-new-york,4.0,340,1.0
+17,mnrGTFfV8uZJYdDwl3Mynw,Glendale Bagels & Quality Deli,glendale-bagels-and-quality-deli-glendale,4.0,110,1.0
+18,Sq-1bmvA_jypgubzakledA,Konditori,konditori-new-york-8,4.0,53,1.0
+19,TynT1ykBkQhXd6nuTK6JUQ,Rego Bagels,rego-bagels-rego-park-2,4.0,142,1.0
+20,Eed-9O8xP80b4L9zYJ_WOA,Pio Bagel,pio-bagel-brooklyn,3.5,134,1.0
+21,oLYnY3SKNqIwERzZXOc63A,Myrtle Bagel,myrtle-bagel-brooklyn,3.5,78,1.0
+22,pqLyL98DC8daWZofpQQKbg,Toast & Roast Bagels and Coffee,toast-and-roast-bagels-and-coffee-astoria,4.0,68,1.0
+23,bvIXVgn_Do7K7qnqcJmWhA,Tal Bagels,tal-bagels-new-york-7,3.5,126,1.0
+24,TNM-nVhLdoxo_gcpm940Jg,Baker's Dozen Bagels,bakers-dozen-bagels-kew-gardens,4.0,232,1.0
+25,sW9iYflRa6dMyDxKzXP3CQ,Bagel Boy,bagel-boy-brooklyn-2,3.5,315,2.0
+26,k3Dn19cNxNuLlO0lebtDUg,La Bagel Delight,la-bagel-delight-brooklyn-4,4.0,292,1.0
+27,rGfDX_ors68i8LnuG55NQA,Bagel Buffet,bagel-buffet-new-york-116,4.0,54,1.0
+28,aM8SCVt3APBw1kE5Zg0kkQ,Native Bean,native-bean-new-york-2,4.5,91,1.0
+29,Phuu76JEhGysnwfkPTq7kQ,Bagel Bob's on York,bagel-bobs-on-york-new-york,3.5,247,1.0
+30,drSJJWL7lsG8dSRYI--6wQ,NY Bagels & Cafe,ny-bagels-and-cafe-new-york,4.0,206,1.0
+31,lgndZLoGNjS8gSBx-fS-Uw,La Bagel Delight at Court St,la-bagel-delight-at-court-st-brooklyn-2,3.5,159,1.0
+32,gwo5ci1qtZZhOURn81ddhg,Greenberg's Bagels,greenbergs-bagels-brooklyn,3.5,18,
+33,kL9XCbKLaNYOix8YjL4VWw,Hot Bialys & Bagels,hot-bialys-and-bagels-forest-hills,4.0,82,1.0
+34,TbiFZCNAySD5rYauM1IWlA,NY Jumbo Bagels,ny-jumbo-bagels-new-york,4.0,303,1.0
+35,fRvMiQFYJTc41KFltinpcA,Bagel World,bagel-world-brooklyn-4,3.5,72,1.0
+36,SP6PP2FBAVT6gGQXqf4tkw,Bk Bagels,bk-bagels-brooklyn-2,3.5,122,1.0
+37,Fm8l6uRzRY75hR-cBMAaFg,Middle Village Bagels,middle-village-bagels-middle-village,3.5,46,
+38,TCPkVG3SPMVz8FcXg26ZDA,Cropsey Bagels & Deli,cropsey-bagels-and-deli-brooklyn,4.0,39,1.0
+39,owvn3TwI2oweLWh4D7strA,Comfortland,comfortland-astoria-2,4.0,141,
+40,tQIC8V5c9vwaakcOSv62ig,Hudson Bagels,hudson-bagels-new-york,3.0,127,1.0
+41,2xxX3t7ykIlyoaOXZdRZNw,Bagel World,bagel-world-brooklyn-3,4.0,207,1.0
+42,lLsEzgmXwCoP6OK5ACT1Ig,Ess-a-Bagel,ess-a-bagel-new-york-6,3.5,123,2.0
+43,UcXNrGQqmBtd8f2Lfhhp2g,Bagel Villa,bagel-villa-brooklyn,4.0,53,1.0
+44,gNuIdQMEddQUHUTiFXxZGg,Brownstone Bagel & Bread,brownstone-bagel-and-bread-brooklyn,3.5,237,1.0
+45,RAWYd6j97buZz2DKaDCvVA,Crown Bagel & Deli,crown-bagel-and-deli-brooklyn,4.5,11,2.0
+46,CxGc34Qnqy7U3qyMmt6fFA,Bagel House IV,bagel-house-iv-jackson-heights,3.5,72,1.0
+47,AZIxbXMnIDkGU2P7pOhHkg,Tribeca Bagels,tribeca-bagels-new-york,3.0,147,1.0
+48,0NM2tVB297RZjZrvuTZTvA,The Bad Bagel,the-bad-bagel-brooklyn,3.0,86,1.0
+49,VXB2v7QVe2APSgeSqpmdGw,Bagel Bazaar,bagel-bazaar-brooklyn,4.0,68,1.0
+0,j1S3NUrkB3BVT49n_e76NQ,Best Bagel & Coffee,best-bagel-and-coffee-new-york,4.5,3305,1.0
+1,VrCCr45dhN-RRM107iptdg,Russ & Daughters,russ-and-daughters-new-york,4.5,2210,2.0
+2,JV5oa5-KGdiWnqrKPoxSug,Absolute Bagels,absolute-bagels-new-york,4.5,1391,1.0
+3,c3eMI4_o4dPDDhPV_ibBYQ,Ess-a-Bagel,ess-a-bagel-new-york,4.0,3581,1.0
+4,oi39VAwo4-KGm_gSkWPCsQ,Tompkins Square Bagels - Avenue A,tompkins-square-bagels-avenue-a-new-york,4.0,1091,1.0
+5,Gpc2-sPCXlIQUrkfi4bpzw,Court Street Bagels,court-street-bagels-brooklyn,4.0,201,1.0
+6,Ys9iYSjuFDpZj7B1X07v5g,Liberty Bagels Midtown,liberty-bagels-midtown-new-york-3,4.5,482,1.0
+7,U43uuWwSyH95gXsUhejd4w,La Bagel Delight at Dumbo,la-bagel-delight-at-dumbo-brooklyn,3.5,145,1.0
+8,lQ7H-COT5duZQQ0XqGFPDg,Smith St Bagels,smith-st-bagels-brooklyn,4.0,373,2.0
+9,pb_ryc8FYHpUPV56eV2Eyg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-2,4.0,1429,1.0
+10,foO2N-TrdPBO-dFn6M35TA,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-8,4.5,111,1.0
+11,u9zVZH0liQu9skIz1kGrMA,Heaven's Hot Bagel,heavens-hot-bagel-new-york,4.0,199,1.0
+12,GLf8_rOnkszkGmPAiMzO9Q,Bread & Spread,bread-and-spread-dumbo,4.5,144,2.0
+13,7eNqRj9iCdxcORVTxexvuw,Greenberg’s Bagels,greenberg-s-bagels-brooklyn,4.5,6,
+14,SCornvTSCMQ2SvWGq8Z_Mw,Ess-A-Bagel,ess-a-bagel-new-york-5,4.0,855,1.0
+15,bb4TLfMexv3XPy864A09ug,H&H Bagels,h-and-h-bagels-new-york-6,4.0,786,1.0
+16,2D7orDrXzflLL1TRmWGPMw,Utopia Bagels,utopia-bagels-whitestone-2,4.5,574,1.0
+17,BIFbVuIDJFS_2u_8vJxnwA,Tompkins Square Bagels -  2nd Ave,tompkins-square-bagels-2nd-ave-new-york,4.0,216,1.0
+18,P91q647NhgyIf7nLc4wYsQ,Frankel's Delicatessen,frankels-delicatessen-brooklyn,4.0,244,2.0
+19,VImctKXnwzT_zrsc1ssvbg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria,4.5,677,1.0
+20,7HP9pH30Ha7xJsxsdVJBrg,Bagelsmith,bagelsmith-brooklyn,3.5,500,1.0
+21,PiAU4BCl5d9P-NWDvkNY4A,Bergen Bagels,bergen-bagels-brooklyn-2,4.0,369,1.0
+22,s-Fg5eHqv4VCAn2ANkHiZA,Leo's Bagels,leos-bagels-new-york,3.5,867,1.0
+23,tJWQnagxMYkFZXKrdiO3gg,Bagel Hole,bagel-hole-brooklyn-3,3.5,263,1.0
+24,0rQz8mkleT62eUkiAVs4UA,Russ & Daughters Cafe,russ-and-daughters-cafe-new-york-5,4.0,1002,2.0
+25,64i-2H8rLLs55RP89Ole4A,Bagel Pub,bagel-pub-brooklyn,4.0,457,1.0
+26,1s95hIhSQhLroVtp-4uOtw,Black Seed Bagels,black-seed-bagels-new-york-9,3.0,696,2.0
+27,UgTfFaQ_NAyne5OwLtTpXQ,Bagels & Schmear,bagels-and-schmear-new-york,4.0,504,1.0
+28,rdgOCFe30sIaAo6tkXkJ-A,Shelsky's of Brooklyn Appetizing & Delicateseen,shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn,4.0,186,3.0
+29,PWDSfW-c8198UegLtaTR1A,Russ & Daughters - Brooklyn,russ-and-daughters-brooklyn-brooklyn,3.0,53,2.0
+30,OtqShhp-cOByPzzdTMZu6w,Knickerbocker Bagel,knickerbocker-bagel-brooklyn,4.0,225,1.0
+31,XKWvRI7WI4LotDLUboUUGA,Barney Greengrass,barney-greengrass-new-york,4.0,748,2.0
+32,SSMCUb9erxbOkz6XUgHfKA,Andrew's Classic BKLYN Bagels by Hard Times Sundaes,andrews-classic-bklyn-bagels-by-hard-times-sundaes-brooklyn,3.5,12,
+33,i6UIu3QC2aESANgOR9aycA,Lula Bagel,lula-bagel-brooklyn,4.0,229,1.0
+34,6XX2Ytf8nYqh8dRhz9Kk_g,Mike's Bagels,mikes-bagels-new-york,4.0,198,1.0
+35,2buX7P8YIqcrHSKtqwm92g,Kossar's,kossars-new-york,3.5,514,1.0
+36,QdmvRfJb86BVvk6A-J5gAg,Modern Bread and Bagel,modern-bread-and-bagel-new-york,4.0,148,2.0
+37,WBNXo3byv64a0hn40c9Zuw,Montague Street Bagels,montague-street-bagels-brooklyn,3.0,200,1.0
+38,PIn-UUN953k8K9_Hffef6w,Cranberry's,cranberrys-brooklyn,4.0,131,1.0
+39,l6lg4lqJSkGDFE6Svl5wnw,The Bagel Shop,the-bagel-shop-new-york-2,4.0,120,2.0
+40,FkBFKwF9bDl3BCt3vebHbw,Williamsburg Bagel,williamsburg-bagel-brooklyn,3.5,27,1.0
+41,XTa5infpecABoyLZ86EH2w,Bagel Bob's,bagel-bobs-new-york,4.0,178,1.0
+42,n8AfzNmqZUfXZzHtieea_A,Murray's Bagels,murrays-bagels-new-york,3.0,843,1.0
+43,m6FV9h1mMJ9_LZetNOjNjg,Bagelworks,bagelworks-new-york-5,4.0,378,1.0
+44,Xs8jqmmjqm0foupgGFBO_w,New York City Bagel Coffee House,new-york-city-bagel-coffee-house-astoria,4.0,357,2.0
+45,fZYymv8linCo2id7wIokwQ,Bagel Boy,bagel-boy-brooklyn,4.0,250,1.0
+46,Rc9_uzaTwqFTG1LGlbTPxQ,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-2,4.0,239,2.0
+47,w8eAlTI-8pbVecPsWMrEMw,Baked In Brooklyn Bakery Store,baked-in-brooklyn-bakery-store-brooklyn,4.0,233,1.0
+48,T-JA9h3BIZfFNvjwHAAj9Q,Terrace Bagels,terrace-bagels-brooklyn,3.5,353,1.0
+49,Fx_zqaXVgc8BzwIfcbEKkw,BO's Bagels,bos-bagels-new-york,4.5,313,1.0
+0,H6NbVY8wxBL916q3GXBdVg,Tasty Bagels,tasty-bagels-brooklyn-2,4.0,97,1.0
+1,7pqZ3lpAtinvJ6QKOzSXxg,Yorkville Bagel & Cafe,yorkville-bagel-and-cafe-new-york-4,4.0,91,1.0
+2,psx14GCq03cuRCWJIs0CuQ,Bagel Oasis,bagel-oasis-fresh-meadows,4.0,351,1.0
+3,S0QgzOvaw5COMRnKWlVGnA,Baz Bagel and Restaurant,baz-bagel-and-restaurant-new-york-2,3.5,385,2.0
+4,ZP2uwlP0s21sh0wlPR-9Sw,Catherine  Deli and Bagel,catherine-deli-and-bagel-new-york,4.5,2,
+5,u_NC3WVKFelz-PGZ7a97AQ,District bagels,district-bagels-new-york,3.0,71,
+6,S_XtZplc6Gkf1AmsgACryw,Catskill Bagels,catskill-bagels-brooklyn-2,3.0,209,1.0
+7,EfhCZ3CiZeVzFt5E5N0n3w,Bergen Bagels,bergen-bagels-brooklyn-3,3.0,225,1.0
+8,MzSsxuBwJBlHmNFgEiOOeA,Have-A-Bagel,have-a-bagel-brooklyn,3.5,90,1.0
+9,4v5lbiExMocWoG7iKnYWrQ,Black Seed Bagels,black-seed-bagels-new-york-11,3.0,231,2.0
+10,l29pVn4RfU9xYMggiIVOcg,R & R Coffee,r-and-r-coffee-new-york,4.0,209,1.0
+11,mOL7TxRDJGutaEtVA8_hUg,Sadelle's,sadelles-new-york,3.5,627,3.0
+12,h94df8mReXmkPgk2aKt6fQ,The Bagel Factory - 17th St,the-bagel-factory-17th-st-brooklyn,3.5,123,1.0
+13,x3RfohtUQPWHS1l1VfAMTQ,Pick A Bagel,pick-a-bagel-new-york-15,3.5,870,2.0
+14,H_V8VZtIv34atqpI-Z86CQ,Bagel Pub,bagel-pub-brooklyn-2,3.5,303,1.0
+15,kuKSvCZDFrgOrY-dcrOefg,Round K,round-k-new-york,4.5,368,2.0
+16,tRys0z0O4EE8sivXLFZ3kQ,David's Bagels,davids-bagels-new-york,4.0,340,1.0
+17,mnrGTFfV8uZJYdDwl3Mynw,Glendale Bagels & Quality Deli,glendale-bagels-and-quality-deli-glendale,4.0,110,1.0
+18,Sq-1bmvA_jypgubzakledA,Konditori,konditori-new-york-8,4.0,53,1.0
+19,TynT1ykBkQhXd6nuTK6JUQ,Rego Bagels,rego-bagels-rego-park-2,4.0,142,1.0
+20,Eed-9O8xP80b4L9zYJ_WOA,Pio Bagel,pio-bagel-brooklyn,3.5,134,1.0
+21,oLYnY3SKNqIwERzZXOc63A,Myrtle Bagel,myrtle-bagel-brooklyn,3.5,78,1.0
+22,pqLyL98DC8daWZofpQQKbg,Toast & Roast Bagels and Coffee,toast-and-roast-bagels-and-coffee-astoria,4.0,68,1.0
+23,bvIXVgn_Do7K7qnqcJmWhA,Tal Bagels,tal-bagels-new-york-7,3.5,126,1.0
+24,TNM-nVhLdoxo_gcpm940Jg,Baker's Dozen Bagels,bakers-dozen-bagels-kew-gardens,4.0,232,1.0
+25,sW9iYflRa6dMyDxKzXP3CQ,Bagel Boy,bagel-boy-brooklyn-2,3.5,315,2.0
+26,k3Dn19cNxNuLlO0lebtDUg,La Bagel Delight,la-bagel-delight-brooklyn-4,4.0,292,1.0
+27,rGfDX_ors68i8LnuG55NQA,Bagel Buffet,bagel-buffet-new-york-116,4.0,54,1.0
+28,aM8SCVt3APBw1kE5Zg0kkQ,Native Bean,native-bean-new-york-2,4.5,91,1.0
+29,Phuu76JEhGysnwfkPTq7kQ,Bagel Bob's on York,bagel-bobs-on-york-new-york,3.5,247,1.0
+30,drSJJWL7lsG8dSRYI--6wQ,NY Bagels & Cafe,ny-bagels-and-cafe-new-york,4.0,206,1.0
+31,lgndZLoGNjS8gSBx-fS-Uw,La Bagel Delight at Court St,la-bagel-delight-at-court-st-brooklyn-2,3.5,159,1.0
+32,gwo5ci1qtZZhOURn81ddhg,Greenberg's Bagels,greenbergs-bagels-brooklyn,3.5,18,
+33,kL9XCbKLaNYOix8YjL4VWw,Hot Bialys & Bagels,hot-bialys-and-bagels-forest-hills,4.0,82,1.0
+34,TbiFZCNAySD5rYauM1IWlA,NY Jumbo Bagels,ny-jumbo-bagels-new-york,4.0,303,1.0
+35,fRvMiQFYJTc41KFltinpcA,Bagel World,bagel-world-brooklyn-4,3.5,72,1.0
+36,SP6PP2FBAVT6gGQXqf4tkw,Bk Bagels,bk-bagels-brooklyn-2,3.5,122,1.0
+37,Fm8l6uRzRY75hR-cBMAaFg,Middle Village Bagels,middle-village-bagels-middle-village,3.5,46,
+38,TCPkVG3SPMVz8FcXg26ZDA,Cropsey Bagels & Deli,cropsey-bagels-and-deli-brooklyn,4.0,39,1.0
+39,owvn3TwI2oweLWh4D7strA,Comfortland,comfortland-astoria-2,4.0,141,
+40,tQIC8V5c9vwaakcOSv62ig,Hudson Bagels,hudson-bagels-new-york,3.0,127,1.0
+41,2xxX3t7ykIlyoaOXZdRZNw,Bagel World,bagel-world-brooklyn-3,4.0,207,1.0
+42,lLsEzgmXwCoP6OK5ACT1Ig,Ess-a-Bagel,ess-a-bagel-new-york-6,3.5,123,2.0
+43,UcXNrGQqmBtd8f2Lfhhp2g,Bagel Villa,bagel-villa-brooklyn,4.0,53,1.0
+44,gNuIdQMEddQUHUTiFXxZGg,Brownstone Bagel & Bread,brownstone-bagel-and-bread-brooklyn,3.5,237,1.0
+45,RAWYd6j97buZz2DKaDCvVA,Crown Bagel & Deli,crown-bagel-and-deli-brooklyn,4.5,11,2.0
+46,CxGc34Qnqy7U3qyMmt6fFA,Bagel House IV,bagel-house-iv-jackson-heights,3.5,72,1.0
+47,AZIxbXMnIDkGU2P7pOhHkg,Tribeca Bagels,tribeca-bagels-new-york,3.0,147,1.0
+48,0NM2tVB297RZjZrvuTZTvA,The Bad Bagel,the-bad-bagel-brooklyn,3.0,86,1.0
+49,VXB2v7QVe2APSgeSqpmdGw,Bagel Bazaar,bagel-bazaar-brooklyn,4.0,68,1.0
+0,j1S3NUrkB3BVT49n_e76NQ,Best Bagel & Coffee,best-bagel-and-coffee-new-york,4.5,3305,1.0
+1,VrCCr45dhN-RRM107iptdg,Russ & Daughters,russ-and-daughters-new-york,4.5,2210,2.0
+2,JV5oa5-KGdiWnqrKPoxSug,Absolute Bagels,absolute-bagels-new-york,4.5,1391,1.0
+3,c3eMI4_o4dPDDhPV_ibBYQ,Ess-a-Bagel,ess-a-bagel-new-york,4.0,3581,1.0
+4,oi39VAwo4-KGm_gSkWPCsQ,Tompkins Square Bagels - Avenue A,tompkins-square-bagels-avenue-a-new-york,4.0,1091,1.0
+5,Gpc2-sPCXlIQUrkfi4bpzw,Court Street Bagels,court-street-bagels-brooklyn,4.0,201,1.0
+6,Ys9iYSjuFDpZj7B1X07v5g,Liberty Bagels Midtown,liberty-bagels-midtown-new-york-3,4.5,482,1.0
+7,U43uuWwSyH95gXsUhejd4w,La Bagel Delight at Dumbo,la-bagel-delight-at-dumbo-brooklyn,3.5,145,1.0
+8,lQ7H-COT5duZQQ0XqGFPDg,Smith St Bagels,smith-st-bagels-brooklyn,4.0,373,2.0
+9,pb_ryc8FYHpUPV56eV2Eyg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-2,4.0,1429,1.0
+10,foO2N-TrdPBO-dFn6M35TA,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-8,4.5,111,1.0
+11,u9zVZH0liQu9skIz1kGrMA,Heaven's Hot Bagel,heavens-hot-bagel-new-york,4.0,199,1.0
+12,GLf8_rOnkszkGmPAiMzO9Q,Bread & Spread,bread-and-spread-dumbo,4.5,144,2.0
+13,7eNqRj9iCdxcORVTxexvuw,Greenberg’s Bagels,greenberg-s-bagels-brooklyn,4.5,6,
+14,SCornvTSCMQ2SvWGq8Z_Mw,Ess-A-Bagel,ess-a-bagel-new-york-5,4.0,855,1.0
+15,bb4TLfMexv3XPy864A09ug,H&H Bagels,h-and-h-bagels-new-york-6,4.0,786,1.0
+16,2D7orDrXzflLL1TRmWGPMw,Utopia Bagels,utopia-bagels-whitestone-2,4.5,574,1.0
+17,BIFbVuIDJFS_2u_8vJxnwA,Tompkins Square Bagels -  2nd Ave,tompkins-square-bagels-2nd-ave-new-york,4.0,216,1.0
+18,P91q647NhgyIf7nLc4wYsQ,Frankel's Delicatessen,frankels-delicatessen-brooklyn,4.0,244,2.0
+19,VImctKXnwzT_zrsc1ssvbg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria,4.5,677,1.0
+20,7HP9pH30Ha7xJsxsdVJBrg,Bagelsmith,bagelsmith-brooklyn,3.5,500,1.0
+21,PiAU4BCl5d9P-NWDvkNY4A,Bergen Bagels,bergen-bagels-brooklyn-2,4.0,369,1.0
+22,s-Fg5eHqv4VCAn2ANkHiZA,Leo's Bagels,leos-bagels-new-york,3.5,867,1.0
+23,tJWQnagxMYkFZXKrdiO3gg,Bagel Hole,bagel-hole-brooklyn-3,3.5,263,1.0
+24,0rQz8mkleT62eUkiAVs4UA,Russ & Daughters Cafe,russ-and-daughters-cafe-new-york-5,4.0,1002,2.0
+25,64i-2H8rLLs55RP89Ole4A,Bagel Pub,bagel-pub-brooklyn,4.0,457,1.0
+26,1s95hIhSQhLroVtp-4uOtw,Black Seed Bagels,black-seed-bagels-new-york-9,3.0,696,2.0
+27,UgTfFaQ_NAyne5OwLtTpXQ,Bagels & Schmear,bagels-and-schmear-new-york,4.0,504,1.0
+28,rdgOCFe30sIaAo6tkXkJ-A,Shelsky's of Brooklyn Appetizing & Delicateseen,shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn,4.0,186,3.0
+29,PWDSfW-c8198UegLtaTR1A,Russ & Daughters - Brooklyn,russ-and-daughters-brooklyn-brooklyn,3.0,53,2.0
+30,OtqShhp-cOByPzzdTMZu6w,Knickerbocker Bagel,knickerbocker-bagel-brooklyn,4.0,225,1.0
+31,XKWvRI7WI4LotDLUboUUGA,Barney Greengrass,barney-greengrass-new-york,4.0,748,2.0
+32,SSMCUb9erxbOkz6XUgHfKA,Andrew's Classic BKLYN Bagels by Hard Times Sundaes,andrews-classic-bklyn-bagels-by-hard-times-sundaes-brooklyn,3.5,12,
+33,i6UIu3QC2aESANgOR9aycA,Lula Bagel,lula-bagel-brooklyn,4.0,229,1.0
+34,6XX2Ytf8nYqh8dRhz9Kk_g,Mike's Bagels,mikes-bagels-new-york,4.0,198,1.0
+35,2buX7P8YIqcrHSKtqwm92g,Kossar's,kossars-new-york,3.5,514,1.0
+36,QdmvRfJb86BVvk6A-J5gAg,Modern Bread and Bagel,modern-bread-and-bagel-new-york,4.0,148,2.0
+37,WBNXo3byv64a0hn40c9Zuw,Montague Street Bagels,montague-street-bagels-brooklyn,3.0,200,1.0
+38,PIn-UUN953k8K9_Hffef6w,Cranberry's,cranberrys-brooklyn,4.0,131,1.0
+39,l6lg4lqJSkGDFE6Svl5wnw,The Bagel Shop,the-bagel-shop-new-york-2,4.0,120,2.0
+40,FkBFKwF9bDl3BCt3vebHbw,Williamsburg Bagel,williamsburg-bagel-brooklyn,3.5,27,1.0
+41,XTa5infpecABoyLZ86EH2w,Bagel Bob's,bagel-bobs-new-york,4.0,178,1.0
+42,n8AfzNmqZUfXZzHtieea_A,Murray's Bagels,murrays-bagels-new-york,3.0,843,1.0
+43,m6FV9h1mMJ9_LZetNOjNjg,Bagelworks,bagelworks-new-york-5,4.0,378,1.0
+44,Xs8jqmmjqm0foupgGFBO_w,New York City Bagel Coffee House,new-york-city-bagel-coffee-house-astoria,4.0,357,2.0
+45,fZYymv8linCo2id7wIokwQ,Bagel Boy,bagel-boy-brooklyn,4.0,250,1.0
+46,Rc9_uzaTwqFTG1LGlbTPxQ,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-2,4.0,239,2.0
+47,w8eAlTI-8pbVecPsWMrEMw,Baked In Brooklyn Bakery Store,baked-in-brooklyn-bakery-store-brooklyn,4.0,233,1.0
+48,T-JA9h3BIZfFNvjwHAAj9Q,Terrace Bagels,terrace-bagels-brooklyn,3.5,353,1.0
+49,Fx_zqaXVgc8BzwIfcbEKkw,BO's Bagels,bos-bagels-new-york,4.5,313,1.0
+0,H6NbVY8wxBL916q3GXBdVg,Tasty Bagels,tasty-bagels-brooklyn-2,4.0,97,1.0
+1,7pqZ3lpAtinvJ6QKOzSXxg,Yorkville Bagel & Cafe,yorkville-bagel-and-cafe-new-york-4,4.0,91,1.0
+2,psx14GCq03cuRCWJIs0CuQ,Bagel Oasis,bagel-oasis-fresh-meadows,4.0,351,1.0
+3,S0QgzOvaw5COMRnKWlVGnA,Baz Bagel and Restaurant,baz-bagel-and-restaurant-new-york-2,3.5,385,2.0
+4,ZP2uwlP0s21sh0wlPR-9Sw,Catherine  Deli and Bagel,catherine-deli-and-bagel-new-york,4.5,2,
+5,u_NC3WVKFelz-PGZ7a97AQ,District bagels,district-bagels-new-york,3.0,71,
+6,S_XtZplc6Gkf1AmsgACryw,Catskill Bagels,catskill-bagels-brooklyn-2,3.0,209,1.0
+7,EfhCZ3CiZeVzFt5E5N0n3w,Bergen Bagels,bergen-bagels-brooklyn-3,3.0,225,1.0
+8,MzSsxuBwJBlHmNFgEiOOeA,Have-A-Bagel,have-a-bagel-brooklyn,3.5,90,1.0
+9,4v5lbiExMocWoG7iKnYWrQ,Black Seed Bagels,black-seed-bagels-new-york-11,3.0,231,2.0
+10,l29pVn4RfU9xYMggiIVOcg,R & R Coffee,r-and-r-coffee-new-york,4.0,209,1.0
+11,mOL7TxRDJGutaEtVA8_hUg,Sadelle's,sadelles-new-york,3.5,627,3.0
+12,h94df8mReXmkPgk2aKt6fQ,The Bagel Factory - 17th St,the-bagel-factory-17th-st-brooklyn,3.5,123,1.0
+13,x3RfohtUQPWHS1l1VfAMTQ,Pick A Bagel,pick-a-bagel-new-york-15,3.5,870,2.0
+14,H_V8VZtIv34atqpI-Z86CQ,Bagel Pub,bagel-pub-brooklyn-2,3.5,303,1.0
+15,kuKSvCZDFrgOrY-dcrOefg,Round K,round-k-new-york,4.5,368,2.0
+16,tRys0z0O4EE8sivXLFZ3kQ,David's Bagels,davids-bagels-new-york,4.0,340,1.0
+17,mnrGTFfV8uZJYdDwl3Mynw,Glendale Bagels & Quality Deli,glendale-bagels-and-quality-deli-glendale,4.0,110,1.0
+18,Sq-1bmvA_jypgubzakledA,Konditori,konditori-new-york-8,4.0,53,1.0
+19,TynT1ykBkQhXd6nuTK6JUQ,Rego Bagels,rego-bagels-rego-park-2,4.0,142,1.0
+20,Eed-9O8xP80b4L9zYJ_WOA,Pio Bagel,pio-bagel-brooklyn,3.5,134,1.0
+21,oLYnY3SKNqIwERzZXOc63A,Myrtle Bagel,myrtle-bagel-brooklyn,3.5,78,1.0
+22,pqLyL98DC8daWZofpQQKbg,Toast & Roast Bagels and Coffee,toast-and-roast-bagels-and-coffee-astoria,4.0,68,1.0
+23,bvIXVgn_Do7K7qnqcJmWhA,Tal Bagels,tal-bagels-new-york-7,3.5,126,1.0
+24,TNM-nVhLdoxo_gcpm940Jg,Baker's Dozen Bagels,bakers-dozen-bagels-kew-gardens,4.0,232,1.0
+25,sW9iYflRa6dMyDxKzXP3CQ,Bagel Boy,bagel-boy-brooklyn-2,3.5,315,2.0
+26,k3Dn19cNxNuLlO0lebtDUg,La Bagel Delight,la-bagel-delight-brooklyn-4,4.0,292,1.0
+27,rGfDX_ors68i8LnuG55NQA,Bagel Buffet,bagel-buffet-new-york-116,4.0,54,1.0
+28,aM8SCVt3APBw1kE5Zg0kkQ,Native Bean,native-bean-new-york-2,4.5,91,1.0
+29,Phuu76JEhGysnwfkPTq7kQ,Bagel Bob's on York,bagel-bobs-on-york-new-york,3.5,247,1.0
+30,drSJJWL7lsG8dSRYI--6wQ,NY Bagels & Cafe,ny-bagels-and-cafe-new-york,4.0,206,1.0
+31,lgndZLoGNjS8gSBx-fS-Uw,La Bagel Delight at Court St,la-bagel-delight-at-court-st-brooklyn-2,3.5,159,1.0
+32,gwo5ci1qtZZhOURn81ddhg,Greenberg's Bagels,greenbergs-bagels-brooklyn,3.5,18,
+33,kL9XCbKLaNYOix8YjL4VWw,Hot Bialys & Bagels,hot-bialys-and-bagels-forest-hills,4.0,82,1.0
+34,TbiFZCNAySD5rYauM1IWlA,NY Jumbo Bagels,ny-jumbo-bagels-new-york,4.0,303,1.0
+35,fRvMiQFYJTc41KFltinpcA,Bagel World,bagel-world-brooklyn-4,3.5,72,1.0
+36,SP6PP2FBAVT6gGQXqf4tkw,Bk Bagels,bk-bagels-brooklyn-2,3.5,122,1.0
+37,Fm8l6uRzRY75hR-cBMAaFg,Middle Village Bagels,middle-village-bagels-middle-village,3.5,46,
+38,TCPkVG3SPMVz8FcXg26ZDA,Cropsey Bagels & Deli,cropsey-bagels-and-deli-brooklyn,4.0,39,1.0
+39,owvn3TwI2oweLWh4D7strA,Comfortland,comfortland-astoria-2,4.0,141,
+40,tQIC8V5c9vwaakcOSv62ig,Hudson Bagels,hudson-bagels-new-york,3.0,127,1.0
+41,2xxX3t7ykIlyoaOXZdRZNw,Bagel World,bagel-world-brooklyn-3,4.0,207,1.0
+42,lLsEzgmXwCoP6OK5ACT1Ig,Ess-a-Bagel,ess-a-bagel-new-york-6,3.5,123,2.0
+43,UcXNrGQqmBtd8f2Lfhhp2g,Bagel Villa,bagel-villa-brooklyn,4.0,53,1.0
+44,gNuIdQMEddQUHUTiFXxZGg,Brownstone Bagel & Bread,brownstone-bagel-and-bread-brooklyn,3.5,237,1.0
+45,RAWYd6j97buZz2DKaDCvVA,Crown Bagel & Deli,crown-bagel-and-deli-brooklyn,4.5,11,2.0
+46,CxGc34Qnqy7U3qyMmt6fFA,Bagel House IV,bagel-house-iv-jackson-heights,3.5,72,1.0
+47,AZIxbXMnIDkGU2P7pOhHkg,Tribeca Bagels,tribeca-bagels-new-york,3.0,147,1.0
+48,0NM2tVB297RZjZrvuTZTvA,The Bad Bagel,the-bad-bagel-brooklyn,3.0,86,1.0
+49,VXB2v7QVe2APSgeSqpmdGw,Bagel Bazaar,bagel-bazaar-brooklyn,4.0,68,1.0
+0,ohgo7IDUn5bOWnDJP9xvYQ,Davidovich Bakery,davidovich-bakery-new-york-2,3.5,107,1.0
+1,0EOWrLcnWEO1pP7bZafofw,Wonder Bagels,wonder-bagels-jersey-city,4.0,461,1.0
+2,lU70uTzcNocJjQQ9CYXT3w,Forest Hills Bagel,forest-hills-bagel-forest-hills,3.5,229,1.0
+3,ra7WT0N2US_xxOLHnAoelQ,Astoria Bagel Shop & Deli,astoria-bagel-shop-and-deli-astoria,4.0,150,1.0
+4,SQS9wteNCLoVStkVK0oZNA,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-2,3.0,504,2.0
+5,GpdS976Ttv_gs-AAkoDVbQ,Bagel Story,bagel-story-brooklyn,3.0,67,
+6,Y-uvH0uctJjAiGfKfE_T1g,Russ & Daughters at the Jewish Museum,russ-and-daughters-at-the-jewish-museum-new-york-4,3.5,108,2.0
+7,3xTlLfIwh_IFkxoXNU8tYQ,Bagel Point,bagel-point-brooklyn-2,3.5,121,
+8,i-ssN9j_LmixpSDZhzzoUA,Zee Bagels,zee-bagels-brooklyn,4.0,69,1.0
+9,MaJ6q9fTLyRrrO2lzGt_Bw,Juju's Bagels Cafe,jujus-bagels-cafe-jackson-heights,4.5,164,1.0
+10,N1ONVWG0X8mDmk7QFM4DiA,Bake a Bagel,bake-a-bagel-maspeth,4.5,12,
+11,3PAWQuIvJ8DIa5akaF3XYQ,Marcy & Myrtle Cafe,marcy-and-myrtle-cafe-brooklyn-2,4.5,16,
+12,tq7dDT6edTInhkNdDrYv_w,Black Brick,black-brick-brooklyn,4.0,315,1.0
+13,tPfXeeC54I8MLSUE6Tnzcw,Bagel Belly,bagel-belly-new-york,3.0,163,1.0
+14,VHORZQg5A3YNBptRN92QGg,The Lazy Llama Coffee Bar,the-lazy-llama-coffee-bar-new-york-2,4.5,87,2.0
+15,jewdjZyGcAXIepOeTBae6g,Cafe Panino Mucho Giusto,cafe-panino-mucho-giusto-new-york,4.0,102,1.0
+16,T0OShnCTfFONVEbDgFlJZA,Shelsky's Brooklyn Bagels,shelskys-brooklyn-bagels-brooklyn-3,3.0,104,
+17,ysFjhHDTuYnTv6wrvsgsWg,Olde Brooklyn Bagel Shoppe,olde-brooklyn-bagel-shoppe-brooklyn,3.0,266,1.0
+18,2bpjwQBGoo9KyMYUuPt0Hw,The Bagel Market,the-bagel-market-brooklyn,3.0,158,2.0
+19,j1TePe2B6pjvvEg2VOLNcg,Gramercy Bagels,gramercy-bagels-new-york,3.0,155,1.0
+20,mU23NlQfn1R9OhA6WMe_xg,Breads Bakery,breads-bakery-new-york,4.5,999,2.0
+21,H4jJ7XB3CetIr1pg56CczQ,Levain Bakery,levain-bakery-new-york,4.5,8029,2.0
+22,MhnlFZ4j-LP6_XSSFQP0SA,Bunch-O-Bagels,bunch-o-bagels-brooklyn,4.0,54,1.0
+23,r0K4sHp8u97oqo473r_lOA,Bagels and Cream,bagels-and-cream-bronx,4.0,55,1.0
+24,QOmvgnyNHrD6J8vuwaTOkg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria-5,4.0,457,1.0
+25,rY-EP5WCxQS0Ti-cdLSO7A,Empire Bagels,empire-bagels-bronx,4.5,102,1.0
+26,GoxKFRbai3QC7KAq0-KhwQ,Bagels Plus,bagels-plus-new-york,3.0,60,1.0
+27,T55YbUuuYSmBtoN3b2mfzA,Prospect Provisions,prospect-provisions-brooklyn,5.0,87,
+28,o4UrasB2ljx2gxfsUFHfBw,Bagel Boss Murray Hill,bagel-boss-murray-hill-new-york,3.0,146,1.0
+29,pWywDImlX0n_XKPNg0Bizg,Sunny and Annie's,sunny-and-annies-new-york,4.5,479,1.0
+30,f0hETSiQ-JYosZ5PpOM0sw,Wild Bagels,wild-bagels-brooklyn,3.5,62,1.0
+31,QWaSFpv0ujHM09kbilB-PQ,Hot Bagels,hot-bagels-brooklyn,4.0,81,1.0
+32,x_oV9aGzq-lNmgPXU_tvbw,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york,3.0,655,1.0
+33,VB0iSLuIAWpJZM5QYuvmbQ,Browns Bagels,browns-bagels-new-york,3.5,183,2.0
+34,hDT_KAXQgHpchcwG5_gv0Q,Wu & Nussbaum,wu-and-nussbaum-new-york,3.5,43,2.0
+35,O0xFECgTDf1rbZzW9qUULQ,Peter Pan Donut & Pastry Shop,peter-pan-donut-and-pastry-shop-brooklyn-2,4.5,1299,1.0
+36,5xD9KMFK48rMRP2lQZCNxA,Baker's Dozen,bakers-dozen-brooklyn,3.5,212,1.0
+37,s_bkOOVmBwkNueITXriXmw,Mixtape Bushwick,mixtape-bushwick-brooklyn,4.5,78,1.0
+38,IcPV1gSYBoDfJIv_jFdcOg,Line Bagels,line-bagels-brooklyn,3.5,68,1.0
+39,wuzvmKPUf0xT82f5UdIJ-w,Bagel Tree,bagel-tree-new-york,3.5,39,1.0
+40,QUf4eik0ipJGkBtRHNMl5g,Murray's Bagels,murrays-bagels-new-york-4,3.5,806,1.0
+41,oJYQFBducPsb-497lonrTQ,Pick-A-Bagel,pick-a-bagel-new-york-6,3.5,245,1.0
+42,9OT6A8a6A2CyRXv3FoWBjg,Bagels On Bartow,bagels-on-bartow-bronx,4.5,53,1.0
+43,atmylNI4tEHH2dExuXnhWw,Wow Bagel,wow-bagel-ridgewood,3.5,50,1.0
+44,eAWGPqVKNrUuLw7V5S8mYQ,Bagel Boss,bagel-boss-new-york-3,3.0,174,1.0
+45,DklpHj1YV2CMR4VEo-TlGQ,Casella Bagel Coffee Shop,casella-bagel-coffee-shop-new-york,3.5,26,1.0
+46,4OTDu-sPa5d88gnF2sfWKQ,Bagel Pub,bagel-pub-brooklyn-5,5.0,3,
+47,QLFcY7eToAFQAuIEEWnXCA,Bagel Schmagel,bagel-schmagel-brooklyn,3.0,177,1.0
+48,TOw3Je9Jp5tbZGNuaRm_Ag,Heartland Bagels,heartland-bagels-staten-island,4.0,94,1.0
+49,O4FFQ92eT-hdSa7F5TpLTw,Inwood Bagels,inwood-bagels-new-york,3.5,89,1.0
+0,yc17eYI-lv59ShQ3zMy_Bg,Pick a Bagel,pick-a-bagel-new-york-4,3.0,324,1.0
+1,xCsgp_OJlMiZh9RIdoIxHA,Steve's Bagels,steves-bagels-brooklyn,3.5,102,1.0
+2,w8xBvf5SI4NsL4_uzYFJyQ,731 Bagel,731-bagel-brooklyn,4.0,4,
+3,9ZnOMUYyghQ0Ez_asQMHtA,Classic Coffee Shop,classic-coffee-shop-new-york,5.0,44,1.0
+4,YPjN6qQmkNkMhdShPzfliA,Bagels On The Ave,bagels-on-the-ave-astoria,3.0,182,1.0
+5,9uhWTKavezO5TKWMui-o3w,La Bagel Delight,la-bagel-delight-brooklyn-7,3.0,170,1.0
+6,TCIUjVxXKausyWWmYqv4xA,Dyker Park Bagels,dyker-park-bagels-brooklyn,3.5,102,1.0
+7,ZO9CKtJ9tvPSwEns-semKA,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-10,3.0,128,1.0
+8,BMRU_o4Gnc2Ghj1JOAXHkw,Village Bagels,village-bagels-whitestone,4.0,11,1.0
+9,GqO2I5acetVHwBszFeHabw,Bagel Pub,bagel-pub-brooklyn-3,4.0,17,
+10,dxCpjQXuBiy5EqZRIGxA5Q,Marie Blachere - Manhattan,marie-blachere-manhattan-new-york-4,4.0,72,
+11,XL32Ml5jcYwZp6CIxUokmw,Bread Brothers Bagel Cafe - Greenpoint,bread-brothers-bagel-cafe-greenpoint-brooklyn,3.0,101,1.0
+12,WkALLrAOqGnMPhWhR4pM8w,Thompson Finest Deli,thompson-finest-deli-new-york,4.0,53,1.0
+13,EoR1wQbqV0NVEhrB0X8SNg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria-2,4.0,419,1.0
+14,7akz4cCMAn0Ze6JKMfU5oQ,Mazzola Bakery,mazzola-bakery-brooklyn,4.5,198,1.0
+15,xr6jrXDti7-WGR2gfhF75Q,Bagels & Co.,bagels-and-co-new-york-18,3.0,49,1.0
+16,UtyTBbBL6reUN68CvN5Lnw,Everything Bagels & Deli,everything-bagels-and-deli-bayonne,4.0,11,
+17,z1fK6PvRwirX6r4KEkFVaw,Bagel Boss - Queens,bagel-boss-queens-flushing,4.0,35,
+18,_kARxrcTt5HjXQIEalDGWg,Zabar's,zabars-new-york,4.0,987,2.0
+19,ft4-eCqO3kukSCsOChMV_g,Chakra Cafe,chakra-cafe-sunnyside,4.5,69,
+20,T1Kvh7OyCu7aq29r3jZMRQ,Mill Basin Bagel Cafe,mill-basin-bagel-cafe-brooklyn,2.5,56,1.0
+21,uas-gysnqvS_Krx0kmLQ5A,Black Seed Bagels At Hudson Eats,black-seed-bagels-at-hudson-eats-new-york,2.0,186,2.0
+22,L3-1UKU5mUQjowd0Y74Ixw,Bagels & Brew,bagels-and-brew-astoria,4.0,208,1.0
+23,WAnnEwlOcCaFCK1Iu5RKvQ,Hot Bagels and Bialys,hot-bagels-and-bialys-brooklyn-4,4.5,9,
+24,idyZhq9vMaYxQ40hYH2x5g,Cafe Bari,cafe-bari-new-york-3,4.0,88,2.0
+25,2naDr1913zJk7Y1f2wsWYw,Tal Bagels,tal-bagels-new-york-3,3.5,233,1.0
+26,igbJNG6Cf95VhbsfPeWNUA,Pumpernickel Bagel,pumpernickel-bagel-long-island-city,3.0,67,1.0
+27,I0cCH0mw6WGyClL6OSE3Jg,Pick A Bagel,pick-a-bagel-new-york-3,3.0,273,1.0
+28,N76sM-aYku1cOBMXWOvliw,Original Brooklyn Bagel,original-brooklyn-bagel-brooklyn,4.5,33,2.0
+29,Dq_KwjD7WpGmgrXiu0qEOg,Made Fresh Daily,made-fresh-daily-new-york,4.0,194,2.0
+30,T4Dz6vmotl5CkleLMSBK9Q,Bergen Bagels,bergen-bagels-brooklyn-5,3.0,168,1.0
+31,Jcd_GQVRncoqXh16eslvhQ,Bake City Bagels,bake-city-bagels-brooklyn,4.0,42,1.0
+32,3il_0gHjCcLeMmoyDrmjUg,Black Seed Bagels,black-seed-bagels-new-york-16,2.5,110,2.0
+33,NzHiK8Csmypx4f6jYhSqiQ,Lenny's Bagels,lennys-bagels-new-york-2,4.0,138,1.0
+34,0dO6JJPmkivbK8-Qu5eUYg,Toasties,toasties-new-york-6,4.0,372,1.0
+35,jB4fXyjDvn8Zc6IyDu49YQ,Woodside Deli & Bagel,woodside-deli-and-bagel-woodside,3.5,17,1.0
+36,27aEpgY7F1AnppaulRnGYg,Bagel Express,bagel-express-new-york-4,3.5,310,1.0
+37,vrcfSmyE8orhd0yHSrqvgQ,BKG Coffee Roasters,bkg-coffee-roasters-brooklyn-2,4.5,76,2.0
+38,YjSYeFr3ZDsCFkdlFdL6qA,Bay Bagels,bay-bagels-brooklyn,3.0,39,1.0
+39,lM44NybalPaw3aiw24WOdA,Court Street Grocers,court-street-grocers-brooklyn,4.5,274,2.0
+40,i0pTGtQYAPseFcAryoWj4A,Bagel Supreme,bagel-supreme-brooklyn-2,3.5,56,1.0
+41,amoGEhgkE4xcNXwYqWeoaw,Yonah Schimmel's Knish Bakery,yonah-schimmels-knish-bakery-new-york,4.0,631,1.0
+42,46rXAi6qq8hzdK5M3l4VCA,Just Bagels,just-bagels-bronx,4.0,3,
+43,_0RMTkpPymef5NLh7NUvEw,Milk & Pull,milk-and-pull-ridgewood,3.5,96,1.0
+44,F487woKE1s-IcPDdJwsdcQ,Atlantic Bagels Cafe,atlantic-bagels-cafe-brooklyn-97,3.0,103,1.0
+45,c6UUcUTbwbk0kOpF6jVOJQ,The Doughnut Project,the-doughnut-project-new-york,4.0,453,1.0
+46,aSDGr4NIfm1C6IspWSNaQw,Orwasher's,orwashers-new-york,4.5,392,2.0
+47,ECw2da1I0StgwFzn85_t6w,Bagels on the blvd,bagels-on-the-blvd-staten-island-3,3.0,14,
+48,6dFUAsPQeGkUjEuDGUDg2Q,Bagelsmith,bagelsmith-brooklyn-2,3.0,291,1.0
+49,p1wDwUphBhvQkOuD9ydb_g,Chelsea Bagel Of Tudor City,chelsea-bagel-of-tudor-city-new-york,3.5,101,1.0
+0,VrCCr45dhN-RRM107iptdg,Russ & Daughters,russ-and-daughters-new-york,4.5,2210,2.0
+1,j1S3NUrkB3BVT49n_e76NQ,Best Bagel & Coffee,best-bagel-and-coffee-new-york,4.5,3305,1.0
+2,JV5oa5-KGdiWnqrKPoxSug,Absolute Bagels,absolute-bagels-new-york,4.5,1391,1.0
+3,c3eMI4_o4dPDDhPV_ibBYQ,Ess-a-Bagel,ess-a-bagel-new-york,4.0,3581,1.0
+4,oi39VAwo4-KGm_gSkWPCsQ,Tompkins Square Bagels - Avenue A,tompkins-square-bagels-avenue-a-new-york,4.0,1091,1.0
+5,Gpc2-sPCXlIQUrkfi4bpzw,Court Street Bagels,court-street-bagels-brooklyn,4.0,201,1.0
+6,U43uuWwSyH95gXsUhejd4w,La Bagel Delight at Dumbo,la-bagel-delight-at-dumbo-brooklyn,3.5,145,1.0
+7,pb_ryc8FYHpUPV56eV2Eyg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-2,4.0,1429,1.0
+8,foO2N-TrdPBO-dFn6M35TA,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-8,4.5,111,1.0
+9,u9zVZH0liQu9skIz1kGrMA,Heaven's Hot Bagel,heavens-hot-bagel-new-york,4.0,199,1.0
+10,GLf8_rOnkszkGmPAiMzO9Q,Bread & Spread,bread-and-spread-dumbo,4.5,144,2.0
+11,7eNqRj9iCdxcORVTxexvuw,Greenberg’s Bagels,greenberg-s-bagels-brooklyn,4.5,6,
+12,Ys9iYSjuFDpZj7B1X07v5g,Liberty Bagels Midtown,liberty-bagels-midtown-new-york-3,4.5,482,1.0
+13,SCornvTSCMQ2SvWGq8Z_Mw,Ess-A-Bagel,ess-a-bagel-new-york-5,4.0,855,1.0
+14,bb4TLfMexv3XPy864A09ug,H&H Bagels,h-and-h-bagels-new-york-6,4.0,786,1.0
+15,2D7orDrXzflLL1TRmWGPMw,Utopia Bagels,utopia-bagels-whitestone-2,4.5,574,1.0
+16,lQ7H-COT5duZQQ0XqGFPDg,Smith St Bagels,smith-st-bagels-brooklyn,4.0,373,2.0
+17,VImctKXnwzT_zrsc1ssvbg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria,4.5,677,1.0
+18,7HP9pH30Ha7xJsxsdVJBrg,Bagelsmith,bagelsmith-brooklyn,3.5,500,1.0
+19,PiAU4BCl5d9P-NWDvkNY4A,Bergen Bagels,bergen-bagels-brooklyn-2,4.0,369,1.0
+20,s-Fg5eHqv4VCAn2ANkHiZA,Leo's Bagels,leos-bagels-new-york,3.5,867,1.0
+21,tJWQnagxMYkFZXKrdiO3gg,Bagel Hole,bagel-hole-brooklyn-3,3.5,263,1.0
+22,0rQz8mkleT62eUkiAVs4UA,Russ & Daughters Cafe,russ-and-daughters-cafe-new-york-5,4.0,1002,2.0
+23,1s95hIhSQhLroVtp-4uOtw,Black Seed Bagels,black-seed-bagels-new-york-9,3.0,696,2.0
+24,UgTfFaQ_NAyne5OwLtTpXQ,Bagels & Schmear,bagels-and-schmear-new-york,4.0,504,1.0
+25,rdgOCFe30sIaAo6tkXkJ-A,Shelsky's of Brooklyn Appetizing & Delicateseen,shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn,4.0,186,3.0
+26,PWDSfW-c8198UegLtaTR1A,Russ & Daughters - Brooklyn,russ-and-daughters-brooklyn-brooklyn,3.0,53,2.0
+27,XKWvRI7WI4LotDLUboUUGA,Barney Greengrass,barney-greengrass-new-york,4.0,748,2.0
+28,SSMCUb9erxbOkz6XUgHfKA,Andrew's Classic BKLYN Bagels by Hard Times Sundaes,andrews-classic-bklyn-bagels-by-hard-times-sundaes-brooklyn,3.5,12,
+29,i6UIu3QC2aESANgOR9aycA,Lula Bagel,lula-bagel-brooklyn,4.0,229,1.0
+30,6XX2Ytf8nYqh8dRhz9Kk_g,Mike's Bagels,mikes-bagels-new-york,4.0,198,1.0
+31,2buX7P8YIqcrHSKtqwm92g,Kossar's,kossars-new-york,3.5,514,1.0
+32,BIFbVuIDJFS_2u_8vJxnwA,Tompkins Square Bagels -  2nd Ave,tompkins-square-bagels-2nd-ave-new-york,4.0,216,1.0
+33,WBNXo3byv64a0hn40c9Zuw,Montague Street Bagels,montague-street-bagels-brooklyn,3.0,200,1.0
+34,PIn-UUN953k8K9_Hffef6w,Cranberry's,cranberrys-brooklyn,4.0,131,1.0
+35,l6lg4lqJSkGDFE6Svl5wnw,The Bagel Shop,the-bagel-shop-new-york-2,4.0,120,2.0
+36,FkBFKwF9bDl3BCt3vebHbw,Williamsburg Bagel,williamsburg-bagel-brooklyn,3.5,27,1.0
+37,P91q647NhgyIf7nLc4wYsQ,Frankel's Delicatessen,frankels-delicatessen-brooklyn,4.0,244,2.0
+38,XTa5infpecABoyLZ86EH2w,Bagel Bob's,bagel-bobs-new-york,4.0,178,1.0
+39,n8AfzNmqZUfXZzHtieea_A,Murray's Bagels,murrays-bagels-new-york,3.0,843,1.0
+40,m6FV9h1mMJ9_LZetNOjNjg,Bagelworks,bagelworks-new-york-5,4.0,378,1.0
+41,Xs8jqmmjqm0foupgGFBO_w,New York City Bagel Coffee House,new-york-city-bagel-coffee-house-astoria,4.0,357,2.0
+42,64i-2H8rLLs55RP89Ole4A,Bagel Pub,bagel-pub-brooklyn,4.0,457,1.0
+43,fZYymv8linCo2id7wIokwQ,Bagel Boy,bagel-boy-brooklyn,4.0,250,1.0
+44,Rc9_uzaTwqFTG1LGlbTPxQ,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-2,4.0,239,2.0
+45,w8eAlTI-8pbVecPsWMrEMw,Baked In Brooklyn Bakery Store,baked-in-brooklyn-bakery-store-brooklyn,4.0,233,1.0
+46,T-JA9h3BIZfFNvjwHAAj9Q,Terrace Bagels,terrace-bagels-brooklyn,3.5,353,1.0
+47,Fx_zqaXVgc8BzwIfcbEKkw,BO's Bagels,bos-bagels-new-york,4.5,313,1.0
+48,H6NbVY8wxBL916q3GXBdVg,Tasty Bagels,tasty-bagels-brooklyn-2,4.0,97,1.0
+49,7pqZ3lpAtinvJ6QKOzSXxg,Yorkville Bagel & Cafe,yorkville-bagel-and-cafe-new-york-4,4.0,91,1.0
+0,psx14GCq03cuRCWJIs0CuQ,Bagel Oasis,bagel-oasis-fresh-meadows,4.0,351,1.0
+1,S0QgzOvaw5COMRnKWlVGnA,Baz Bagel and Restaurant,baz-bagel-and-restaurant-new-york-2,3.5,385,2.0
+2,ZP2uwlP0s21sh0wlPR-9Sw,Catherine  Deli and Bagel,catherine-deli-and-bagel-new-york,4.5,2,
+3,u_NC3WVKFelz-PGZ7a97AQ,District bagels,district-bagels-new-york,3.0,71,
+4,S_XtZplc6Gkf1AmsgACryw,Catskill Bagels,catskill-bagels-brooklyn-2,3.0,209,1.0
+5,OtqShhp-cOByPzzdTMZu6w,Knickerbocker Bagel,knickerbocker-bagel-brooklyn,4.0,225,1.0
+6,EfhCZ3CiZeVzFt5E5N0n3w,Bergen Bagels,bergen-bagels-brooklyn-3,3.0,225,1.0
+7,MzSsxuBwJBlHmNFgEiOOeA,Have-A-Bagel,have-a-bagel-brooklyn,3.5,90,1.0
+8,4v5lbiExMocWoG7iKnYWrQ,Black Seed Bagels,black-seed-bagels-new-york-11,3.0,231,2.0
+9,l29pVn4RfU9xYMggiIVOcg,R & R Coffee,r-and-r-coffee-new-york,4.0,209,1.0
+10,h94df8mReXmkPgk2aKt6fQ,The Bagel Factory - 17th St,the-bagel-factory-17th-st-brooklyn,3.5,123,1.0
+11,x3RfohtUQPWHS1l1VfAMTQ,Pick A Bagel,pick-a-bagel-new-york-15,3.5,870,2.0
+12,H_V8VZtIv34atqpI-Z86CQ,Bagel Pub,bagel-pub-brooklyn-2,3.5,303,1.0
+13,kuKSvCZDFrgOrY-dcrOefg,Round K,round-k-new-york,4.5,368,2.0
+14,tRys0z0O4EE8sivXLFZ3kQ,David's Bagels,davids-bagels-new-york,4.0,340,1.0
+15,Sq-1bmvA_jypgubzakledA,Konditori,konditori-new-york-8,4.0,53,1.0
+16,QdmvRfJb86BVvk6A-J5gAg,Modern Bread and Bagel,modern-bread-and-bagel-new-york,4.0,148,2.0
+17,Eed-9O8xP80b4L9zYJ_WOA,Pio Bagel,pio-bagel-brooklyn,3.5,134,1.0
+18,oLYnY3SKNqIwERzZXOc63A,Myrtle Bagel,myrtle-bagel-brooklyn,3.5,78,1.0
+19,pqLyL98DC8daWZofpQQKbg,Toast & Roast Bagels and Coffee,toast-and-roast-bagels-and-coffee-astoria,4.0,68,1.0
+20,bvIXVgn_Do7K7qnqcJmWhA,Tal Bagels,tal-bagels-new-york-7,3.5,126,1.0
+21,TNM-nVhLdoxo_gcpm940Jg,Baker's Dozen Bagels,bakers-dozen-bagels-kew-gardens,4.0,232,1.0
+22,sW9iYflRa6dMyDxKzXP3CQ,Bagel Boy,bagel-boy-brooklyn-2,3.5,315,2.0
+23,k3Dn19cNxNuLlO0lebtDUg,La Bagel Delight,la-bagel-delight-brooklyn-4,4.0,292,1.0
+24,rGfDX_ors68i8LnuG55NQA,Bagel Buffet,bagel-buffet-new-york-116,4.0,54,1.0
+25,aM8SCVt3APBw1kE5Zg0kkQ,Native Bean,native-bean-new-york-2,4.5,91,1.0
+26,Phuu76JEhGysnwfkPTq7kQ,Bagel Bob's on York,bagel-bobs-on-york-new-york,3.5,247,1.0
+27,drSJJWL7lsG8dSRYI--6wQ,NY Bagels & Cafe,ny-bagels-and-cafe-new-york,4.0,206,1.0
+28,lgndZLoGNjS8gSBx-fS-Uw,La Bagel Delight at Court St,la-bagel-delight-at-court-st-brooklyn-2,3.5,159,1.0
+29,TbiFZCNAySD5rYauM1IWlA,NY Jumbo Bagels,ny-jumbo-bagels-new-york,4.0,303,1.0
+30,fRvMiQFYJTc41KFltinpcA,Bagel World,bagel-world-brooklyn-4,3.5,72,1.0
+31,SP6PP2FBAVT6gGQXqf4tkw,Bk Bagels,bk-bagels-brooklyn-2,3.5,122,1.0
+32,TCPkVG3SPMVz8FcXg26ZDA,Cropsey Bagels & Deli,cropsey-bagels-and-deli-brooklyn,4.0,39,1.0
+33,owvn3TwI2oweLWh4D7strA,Comfortland,comfortland-astoria-2,4.0,141,
+34,tQIC8V5c9vwaakcOSv62ig,Hudson Bagels,hudson-bagels-new-york,3.0,127,1.0
+35,2xxX3t7ykIlyoaOXZdRZNw,Bagel World,bagel-world-brooklyn-3,4.0,207,1.0
+36,lLsEzgmXwCoP6OK5ACT1Ig,Ess-a-Bagel,ess-a-bagel-new-york-6,3.5,123,2.0
+37,UcXNrGQqmBtd8f2Lfhhp2g,Bagel Villa,bagel-villa-brooklyn,4.0,53,1.0
+38,RAWYd6j97buZz2DKaDCvVA,Crown Bagel & Deli,crown-bagel-and-deli-brooklyn,4.5,11,2.0
+39,AZIxbXMnIDkGU2P7pOhHkg,Tribeca Bagels,tribeca-bagels-new-york,3.0,147,1.0
+40,0NM2tVB297RZjZrvuTZTvA,The Bad Bagel,the-bad-bagel-brooklyn,3.0,86,1.0
+41,VXB2v7QVe2APSgeSqpmdGw,Bagel Bazaar,bagel-bazaar-brooklyn,4.0,68,1.0
+42,ohgo7IDUn5bOWnDJP9xvYQ,Davidovich Bakery,davidovich-bakery-new-york-2,3.5,107,1.0
+43,0EOWrLcnWEO1pP7bZafofw,Wonder Bagels,wonder-bagels-jersey-city,4.0,461,1.0
+44,lU70uTzcNocJjQQ9CYXT3w,Forest Hills Bagel,forest-hills-bagel-forest-hills,3.5,229,1.0
+45,SQS9wteNCLoVStkVK0oZNA,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-2,3.0,504,2.0
+46,GpdS976Ttv_gs-AAkoDVbQ,Bagel Story,bagel-story-brooklyn,3.0,67,
+47,i-ssN9j_LmixpSDZhzzoUA,Zee Bagels,zee-bagels-brooklyn,4.0,69,1.0
+48,MaJ6q9fTLyRrrO2lzGt_Bw,Juju's Bagels Cafe,jujus-bagels-cafe-jackson-heights,4.5,164,1.0
+49,N1ONVWG0X8mDmk7QFM4DiA,Bake a Bagel,bake-a-bagel-maspeth,4.5,12,
+0,3PAWQuIvJ8DIa5akaF3XYQ,Marcy & Myrtle Cafe,marcy-and-myrtle-cafe-brooklyn-2,4.5,16,
+1,tq7dDT6edTInhkNdDrYv_w,Black Brick,black-brick-brooklyn,4.0,315,1.0
+2,tPfXeeC54I8MLSUE6Tnzcw,Bagel Belly,bagel-belly-new-york,3.0,163,1.0
+3,mOL7TxRDJGutaEtVA8_hUg,Sadelle's,sadelles-new-york,3.5,627,3.0
+4,jewdjZyGcAXIepOeTBae6g,Cafe Panino Mucho Giusto,cafe-panino-mucho-giusto-new-york,4.0,102,1.0
+5,ysFjhHDTuYnTv6wrvsgsWg,Olde Brooklyn Bagel Shoppe,olde-brooklyn-bagel-shoppe-brooklyn,3.0,266,1.0
+6,2bpjwQBGoo9KyMYUuPt0Hw,The Bagel Market,the-bagel-market-brooklyn,3.0,158,2.0
+7,j1TePe2B6pjvvEg2VOLNcg,Gramercy Bagels,gramercy-bagels-new-york,3.0,155,1.0
+8,mU23NlQfn1R9OhA6WMe_xg,Breads Bakery,breads-bakery-new-york,4.5,999,2.0
+9,H4jJ7XB3CetIr1pg56CczQ,Levain Bakery,levain-bakery-new-york,4.5,8029,2.0
+10,MhnlFZ4j-LP6_XSSFQP0SA,Bunch-O-Bagels,bunch-o-bagels-brooklyn,4.0,54,1.0
+11,mnrGTFfV8uZJYdDwl3Mynw,Glendale Bagels & Quality Deli,glendale-bagels-and-quality-deli-glendale,4.0,110,1.0
+12,r0K4sHp8u97oqo473r_lOA,Bagels and Cream,bagels-and-cream-bronx,4.0,55,1.0
+13,QOmvgnyNHrD6J8vuwaTOkg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria-5,4.0,457,1.0
+14,rY-EP5WCxQS0Ti-cdLSO7A,Empire Bagels,empire-bagels-bronx,4.5,102,1.0
+15,GoxKFRbai3QC7KAq0-KhwQ,Bagels Plus,bagels-plus-new-york,3.0,60,1.0
+16,T55YbUuuYSmBtoN3b2mfzA,Prospect Provisions,prospect-provisions-brooklyn,5.0,87,
+17,o4UrasB2ljx2gxfsUFHfBw,Bagel Boss Murray Hill,bagel-boss-murray-hill-new-york,3.0,146,1.0
+18,TynT1ykBkQhXd6nuTK6JUQ,Rego Bagels,rego-bagels-rego-park-2,4.0,142,1.0
+19,pWywDImlX0n_XKPNg0Bizg,Sunny and Annie's,sunny-and-annies-new-york,4.5,479,1.0
+20,f0hETSiQ-JYosZ5PpOM0sw,Wild Bagels,wild-bagels-brooklyn,3.5,62,1.0
+21,QWaSFpv0ujHM09kbilB-PQ,Hot Bagels,hot-bagels-brooklyn,4.0,81,1.0
+22,x_oV9aGzq-lNmgPXU_tvbw,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york,3.0,655,1.0
+23,VB0iSLuIAWpJZM5QYuvmbQ,Browns Bagels,browns-bagels-new-york,3.5,183,2.0
+24,hDT_KAXQgHpchcwG5_gv0Q,Wu & Nussbaum,wu-and-nussbaum-new-york,3.5,43,2.0
+25,O0xFECgTDf1rbZzW9qUULQ,Peter Pan Donut & Pastry Shop,peter-pan-donut-and-pastry-shop-brooklyn-2,4.5,1299,1.0
+26,5xD9KMFK48rMRP2lQZCNxA,Baker's Dozen,bakers-dozen-brooklyn,3.5,212,1.0
+27,s_bkOOVmBwkNueITXriXmw,Mixtape Bushwick,mixtape-bushwick-brooklyn,4.5,78,1.0
+28,IcPV1gSYBoDfJIv_jFdcOg,Line Bagels,line-bagels-brooklyn,3.5,68,1.0
+29,gwo5ci1qtZZhOURn81ddhg,Greenberg's Bagels,greenbergs-bagels-brooklyn,3.5,18,
+30,QUf4eik0ipJGkBtRHNMl5g,Murray's Bagels,murrays-bagels-new-york-4,3.5,806,1.0
+31,oJYQFBducPsb-497lonrTQ,Pick-A-Bagel,pick-a-bagel-new-york-6,3.5,245,1.0
+32,kL9XCbKLaNYOix8YjL4VWw,Hot Bialys & Bagels,hot-bialys-and-bagels-forest-hills,4.0,82,1.0
+33,9OT6A8a6A2CyRXv3FoWBjg,Bagels On Bartow,bagels-on-bartow-bronx,4.5,53,1.0
+34,eAWGPqVKNrUuLw7V5S8mYQ,Bagel Boss,bagel-boss-new-york-3,3.0,174,1.0
+35,DklpHj1YV2CMR4VEo-TlGQ,Casella Bagel Coffee Shop,casella-bagel-coffee-shop-new-york,3.5,26,1.0
+36,4OTDu-sPa5d88gnF2sfWKQ,Bagel Pub,bagel-pub-brooklyn-5,5.0,3,
+37,Fm8l6uRzRY75hR-cBMAaFg,Middle Village Bagels,middle-village-bagels-middle-village,3.5,46,
+38,QLFcY7eToAFQAuIEEWnXCA,Bagel Schmagel,bagel-schmagel-brooklyn,3.0,177,1.0
+39,TOw3Je9Jp5tbZGNuaRm_Ag,Heartland Bagels,heartland-bagels-staten-island,4.0,94,1.0
+40,O4FFQ92eT-hdSa7F5TpLTw,Inwood Bagels,inwood-bagels-new-york,3.5,89,1.0
+41,yc17eYI-lv59ShQ3zMy_Bg,Pick a Bagel,pick-a-bagel-new-york-4,3.0,324,1.0
+42,gNuIdQMEddQUHUTiFXxZGg,Brownstone Bagel & Bread,brownstone-bagel-and-bread-brooklyn,3.5,237,1.0
+43,xCsgp_OJlMiZh9RIdoIxHA,Steve's Bagels,steves-bagels-brooklyn,3.5,102,1.0
+44,w8xBvf5SI4NsL4_uzYFJyQ,731 Bagel,731-bagel-brooklyn,4.0,4,
+45,9uhWTKavezO5TKWMui-o3w,La Bagel Delight,la-bagel-delight-brooklyn-7,3.0,170,1.0
+46,TCIUjVxXKausyWWmYqv4xA,Dyker Park Bagels,dyker-park-bagels-brooklyn,3.5,102,1.0
+47,ZO9CKtJ9tvPSwEns-semKA,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-10,3.0,128,1.0
+48,CxGc34Qnqy7U3qyMmt6fFA,Bagel House IV,bagel-house-iv-jackson-heights,3.5,72,1.0
+49,BMRU_o4Gnc2Ghj1JOAXHkw,Village Bagels,village-bagels-whitestone,4.0,11,1.0
+0,GqO2I5acetVHwBszFeHabw,Bagel Pub,bagel-pub-brooklyn-3,4.0,17,
+1,XL32Ml5jcYwZp6CIxUokmw,Bread Brothers Bagel Cafe - Greenpoint,bread-brothers-bagel-cafe-greenpoint-brooklyn,3.0,101,1.0
+2,WkALLrAOqGnMPhWhR4pM8w,Thompson Finest Deli,thompson-finest-deli-new-york,4.0,53,1.0
+3,ra7WT0N2US_xxOLHnAoelQ,Astoria Bagel Shop & Deli,astoria-bagel-shop-and-deli-astoria,4.0,150,1.0
+4,Y-uvH0uctJjAiGfKfE_T1g,Russ & Daughters at the Jewish Museum,russ-and-daughters-at-the-jewish-museum-new-york-4,3.5,108,2.0
+5,EoR1wQbqV0NVEhrB0X8SNg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria-2,4.0,419,1.0
+6,7akz4cCMAn0Ze6JKMfU5oQ,Mazzola Bakery,mazzola-bakery-brooklyn,4.5,198,1.0
+7,3xTlLfIwh_IFkxoXNU8tYQ,Bagel Point,bagel-point-brooklyn-2,3.5,121,
+8,_kARxrcTt5HjXQIEalDGWg,Zabar's,zabars-new-york,4.0,987,2.0
+9,ft4-eCqO3kukSCsOChMV_g,Chakra Cafe,chakra-cafe-sunnyside,4.5,69,
+10,T1Kvh7OyCu7aq29r3jZMRQ,Mill Basin Bagel Cafe,mill-basin-bagel-cafe-brooklyn,2.5,56,1.0
+11,uas-gysnqvS_Krx0kmLQ5A,Black Seed Bagels At Hudson Eats,black-seed-bagels-at-hudson-eats-new-york,2.0,186,2.0
+12,L3-1UKU5mUQjowd0Y74Ixw,Bagels & Brew,bagels-and-brew-astoria,4.0,208,1.0
+13,WAnnEwlOcCaFCK1Iu5RKvQ,Hot Bagels and Bialys,hot-bagels-and-bialys-brooklyn-4,4.5,9,
+14,idyZhq9vMaYxQ40hYH2x5g,Cafe Bari,cafe-bari-new-york-3,4.0,88,2.0
+15,2naDr1913zJk7Y1f2wsWYw,Tal Bagels,tal-bagels-new-york-3,3.5,233,1.0
+16,igbJNG6Cf95VhbsfPeWNUA,Pumpernickel Bagel,pumpernickel-bagel-long-island-city,3.0,67,1.0
+17,I0cCH0mw6WGyClL6OSE3Jg,Pick A Bagel,pick-a-bagel-new-york-3,3.0,273,1.0
+18,N76sM-aYku1cOBMXWOvliw,Original Brooklyn Bagel,original-brooklyn-bagel-brooklyn,4.5,33,2.0
+19,Dq_KwjD7WpGmgrXiu0qEOg,Made Fresh Daily,made-fresh-daily-new-york,4.0,194,2.0
+20,VHORZQg5A3YNBptRN92QGg,The Lazy Llama Coffee Bar,the-lazy-llama-coffee-bar-new-york-2,4.5,87,2.0
+21,T4Dz6vmotl5CkleLMSBK9Q,Bergen Bagels,bergen-bagels-brooklyn-5,3.0,168,1.0
+22,Jcd_GQVRncoqXh16eslvhQ,Bake City Bagels,bake-city-bagels-brooklyn,4.0,42,1.0
+23,3il_0gHjCcLeMmoyDrmjUg,Black Seed Bagels,black-seed-bagels-new-york-16,2.5,110,2.0
+24,T0OShnCTfFONVEbDgFlJZA,Shelsky's Brooklyn Bagels,shelskys-brooklyn-bagels-brooklyn-3,3.0,104,
+25,NzHiK8Csmypx4f6jYhSqiQ,Lenny's Bagels,lennys-bagels-new-york-2,4.0,138,1.0
+26,0dO6JJPmkivbK8-Qu5eUYg,Toasties,toasties-new-york-6,4.0,372,1.0
+27,jB4fXyjDvn8Zc6IyDu49YQ,Woodside Deli & Bagel,woodside-deli-and-bagel-woodside,3.5,17,1.0
+28,27aEpgY7F1AnppaulRnGYg,Bagel Express,bagel-express-new-york-4,3.5,310,1.0
+29,vrcfSmyE8orhd0yHSrqvgQ,BKG Coffee Roasters,bkg-coffee-roasters-brooklyn-2,4.5,76,2.0
+30,YjSYeFr3ZDsCFkdlFdL6qA,Bay Bagels,bay-bagels-brooklyn,3.0,39,1.0
+31,lM44NybalPaw3aiw24WOdA,Court Street Grocers,court-street-grocers-brooklyn,4.5,274,2.0
+32,i0pTGtQYAPseFcAryoWj4A,Bagel Supreme,bagel-supreme-brooklyn-2,3.5,56,1.0
+33,amoGEhgkE4xcNXwYqWeoaw,Yonah Schimmel's Knish Bakery,yonah-schimmels-knish-bakery-new-york,4.0,631,1.0
+34,46rXAi6qq8hzdK5M3l4VCA,Just Bagels,just-bagels-bronx,4.0,3,
+35,_0RMTkpPymef5NLh7NUvEw,Milk & Pull,milk-and-pull-ridgewood,3.5,96,1.0
+36,c6UUcUTbwbk0kOpF6jVOJQ,The Doughnut Project,the-doughnut-project-new-york,4.0,453,1.0
+37,aSDGr4NIfm1C6IspWSNaQw,Orwasher's,orwashers-new-york,4.5,392,2.0
+38,ECw2da1I0StgwFzn85_t6w,Bagels on the blvd,bagels-on-the-blvd-staten-island-3,3.0,14,
+39,6dFUAsPQeGkUjEuDGUDg2Q,Bagelsmith,bagelsmith-brooklyn-2,3.0,291,1.0
+40,p1wDwUphBhvQkOuD9ydb_g,Chelsea Bagel Of Tudor City,chelsea-bagel-of-tudor-city-new-york,3.5,101,1.0
+41,P4HX6tjQQK4gbdn_d0cGTw,Ground Support,ground-support-new-york,4.0,509,1.0
+42,DkcVNKDDoUJGkLN9Pe4R0w,H&H Bagels,h-and-h-bagels-new-york-7,2.5,173,2.0
+43,Mkx7wE0Jlb0bFYGhEpulSg,Blackstone Coffee Roasters,blackstone-coffee-roasters-new-york,4.5,62,2.0
+44,VdwsPucTABX4R0GIFOebeg,Park Bagels,park-bagels-brooklyn,4.0,32,2.0
+45,zI0_zyZl-0Xqk8vR9xWiIg,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-3,3.5,68,2.0
+46,-ReVBdHXjJ4qH9Xl2MDq3A,JK Bakery,jk-bakery-flushing,4.0,68,1.0
+47,yMxGI1kcqv6a-aGH-VXg8A,Little Skips East,little-skips-east-brooklyn-2,4.0,61,1.0
+48,3AgtLUyDGFIsMrg25e8LPQ,Brooklyn Bread Cafe,brooklyn-bread-cafe-brooklyn,3.5,132,2.0
+49,Xf8spStI1SvCjwD1AWtMhg,H & L Bagels,h-and-l-bagels-brooklyn,4.0,36,1.0
+0,5o-jorn07AInbmlNlYGC0g,Dear Mama Coffee,dear-mama-coffee-new-york,4.5,270,1.0
+1,A4LBQAfU60G38fOdABbGRw,Bagels by the Park,bagels-by-the-park-brooklyn,2.5,102,1.0
+2,JrpFDo5Ir4IkufRFv80ETw,Black Seed Bagels,black-seed-bagels-brooklyn-2,2.0,38,
+3,4fk4yDJCKh-95RWlKN4VmA,Highway Bagels,highway-bagels-brooklyn,2.5,100,1.0
+4,wuzvmKPUf0xT82f5UdIJ-w,Bagel Tree,bagel-tree-new-york,3.5,39,1.0
+5,1c6_FJie8nGGJHIGYBDyHw,Bagel Club,bagel-club-bayside,3.5,139,1.0
+6,MrBfruGEFt-GXk3AOIdsEA,Bread Brothers Bagel Cafe - Bushwick,bread-brothers-bagel-cafe-bushwick-brooklyn,2.5,202,1.0
+7,zMqPylWzIIPCQtBTosp0tg,Norma's Corner Shoppe,normas-corner-shoppe-ridgewood-2,4.5,278,1.0
+8,VRhEPnjPI64dBC39gDD-Vw,IC Brooklyn Cafe,ic-brooklyn-cafe-brooklyn,4.5,89,1.0
+9,w7zQ47EyJ6R7K_TEWZnInA,Spring Streets Finest Deli,spring-streets-finest-deli-new-york,4.0,13,1.0
+10,3TZsabz3SJicr2ZFXXXaOg,La Luna Cafe,la-luna-cafe-astoria-46,4.0,54,1.0
+11,KCISn0hhX9wH9ChgWRXnDw,Lunch Box,lunch-box-new-york-3,4.0,142,1.0
+12,atmylNI4tEHH2dExuXnhWw,Wow Bagel,wow-bagel-ridgewood,3.5,50,1.0
+13,b44Q3AiTcMyNrDY5X_aS5g,La Bagel Delight,la-bagel-delight-brooklyn-5,3.0,89,1.0
+14,SkGPIen8LUVLCV3ot-DKtw,Marcy & Myrtle Cafe,marcy-and-myrtle-cafe-bedford-stuyvesant,4.5,70,1.0
+15,UtyTBbBL6reUN68CvN5Lnw,Everything Bagels & Deli,everything-bagels-and-deli-bayonne,4.0,11,
+16,WHRHK3S1mQc3PmhwsGRvbw,Bibble & Sip,bibble-and-sip-new-york-2,4.5,4780,1.0
+17,5sWTM3HPS2Bi_ZrVmUgTFg,Boulevard Bagel Cafe,boulevard-bagel-cafe-astoria,2.5,69,1.0
+18,8h3x16M9V5W7_0hSvQnGpw,Gotta Getta Bagel,gotta-getta-bagel-forest-hills,3.0,208,1.0
+19,6dyKXqj3ih8qaZlgSMsXGw,Jerusalem Fresh Bagels,jerusalem-fresh-bagels-forest-hills,4.0,10,
+20,qRaBWmb6GS0Hx8HOr0Zr8w,Optimum Gourmet Deli,optimum-gourmet-deli-new-york,4.5,35,1.0
+21,V3ZvBwLvKBSohMT1j6C-gg,William Greenberg Desserts,william-greenberg-desserts-new-york,4.0,237,2.0
+22,cGsQXm4d2NVHW7jljXPF1Q,O'Bagel,o-bagel-hoboken,3.5,314,1.0
+23,1UOo0w-JNKASCMvSWnle0w,Old Country Coffee,old-country-coffee-new-york,4.5,208,1.0
+24,ARgsqTF1Rayf3rV2uo-3jg,Blue Marble,blue-marble-brooklyn-2,4.0,245,2.0
+25,Qmv4SPta2zx7MhKit8ywag,Absolute Coffee,absolute-coffee-brooklyn,4.5,174,2.0
+26,X3ToKHjzofO8EzfiHYewWg,Brooklyn Blend,brooklyn-blend-brooklyn,4.5,279,2.0
+27,e-eJa6iQ9zTYkNhRhvsZ-g,Heavenly Market And Cafe,heavenly-market-and-cafe-new-york,4.5,17,
+28,7egiLH0paGKy0eINpHgIwg,Nagle's Bagels,nagles-bagels-bedford-stuyvesant-3,2.5,125,1.0
+29,6PQ7CdBJQxQV4E9GO1fA5g,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-7,2.5,259,2.0
+30,qQSj2ApbvTsGYz4zzTja9w,57th Bagels And More,57th-bagels-and-more-new-york-2,4.0,7,
+31,cXzNNknQ7lAnowCZmVedFQ,Tal Bagels,tal-bagels-new-york-8,3.0,223,2.0
+32,eeGQN9X96QSeg7HCwhOK1w,Gerritsen Beach Bagels,gerritsen-beach-bagels-brooklyn,4.0,44,1.0
+33,uL709qg0IGe4KsNZk_AjxQ,Lion's Milk,lions-milk-brooklyn-2,4.5,111,1.0
+34,ZjYkL_LdaoY0eTwckgnykQ,Bantam Bagels,bantam-bagels-new-york-2,3.0,281,1.0
+35,7DOgevJnErkLNh4dWVh2zw,Hot Bagel and Deli,hot-bagel-and-deli-bay-ridge,4.0,6,1.0
+36,9ZnOMUYyghQ0Ez_asQMHtA,Classic Coffee Shop,classic-coffee-shop-new-york,5.0,44,1.0
+37,YPjN6qQmkNkMhdShPzfliA,Bagels On The Ave,bagels-on-the-ave-astoria,3.0,182,1.0
+38,-Qo0d-UtDBhUznq1qzsOhw,VR Bagelicious,vr-bagelicious-flushing,3.5,39,2.0
+39,9hL1Wb-OXmHriWaKJBQ6hg,Elim Deli Cafe,elim-deli-cafe-new-york,4.5,86,1.0
+40,RKAK9AuzKR7K36ABcXPjTA,CC's Cafe,ccs-cafe-new-york-2,4.5,140,2.0
+41,CHpmu4N_kRSd-ekynJqIIA,Bingo Deli,bingo-deli-new-york,4.0,79,1.0
+42,eAUJlPfBYeJR_llfL7WAxA,Top Bagel,top-bagel-bayside,3.0,167,1.0
+43,qQG3McQHA6600GhZBgmLLg,AR Hot Bagels,ar-hot-bagels-brooklyn,3.5,7,1.0
+44,v4X0_xdRmVDQ5qgyGAubHw,Pickler,pickler-new-york,4.5,349,2.0
+45,jW1zRsnPs8LB-_ORcgA4mw,Le Café Coffee,le-café-coffee-new-york-8,4.5,58,1.0
+46,XCuN1aLiIRH2sAjE7XEMiA,Bagels Plus,bagels-plus-flushing,3.5,37,1.0
+47,diVwcOhjR3UtUzH6uFI64A,Lot's-O-Bagels,lots-o-bagels-astoria,3.5,153,1.0
+48,L5dAB078WD5mcEhENymhEQ,The Bagel House,the-bagel-house-astoria,4.0,96,1.0
+49,uAeOZBQ5vzBU7IFBhY2uEQ,The Bagel Store,the-bagel-store-carlstadt,3.5,63,1.0
+0,2mp_hMBABMRqW2KjsfhV7g,Bagels For You,bagels-for-you-forest-hills-12,3.0,89,1.0
+1,W9y2SOsnRquseBMGxurJVA,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-4,4.0,31,1.0
+2,-fRTWjfmTUX15WQANhL9QA,Metro Bagel & Cafe,metro-bagel-and-cafe-brooklyn,3.5,16,1.0
+3,ChloY7v4KGqx_Tl9D7kuEw,Avenue X Bagels,avenue-x-bagels-brooklyn,5.0,2,
+4,DxeD4Jw3gsImI-olCOB0bA,Little Canal,little-canal-new-york-2,4.0,114,1.0
+5,TqlEvUnfW015jDGxxUkFtw,Eddie's Bagels & Coffee,eddies-bagels-and-coffee-astoria,4.5,8,
+6,WtZCvuvO40ExJdpOGeLgqA,Kosher Bagel Hole,kosher-bagel-hole-brooklyn-2,4.0,57,1.0
+7,dxCpjQXuBiy5EqZRIGxA5Q,Marie Blachere - Manhattan,marie-blachere-manhattan-new-york-4,4.0,72,
+8,lXNM9KG2npDfvKb08XPuBg,Jonas Bagels And Sams Pastries,jonas-bagels-and-sams-pastries-new-york,4.0,10,
+9,4Z4BuxX15Fii4n9FO7Bmew,Pick A Bagel,pick-a-bagel-new-york-7,2.5,210,2.0
+10,UeSVH4JyvwfX1WQRE6AWcg,Rahway Bagels,rahway-bagels-rahway,5.0,5,
+11,m5Q27Jx9tkBETs5Ua32Agg,Milk & Pull,milk-and-pull-brooklyn,3.5,104,1.0
+12,qoFxbBRTUHMsBk8JUBeYpA,LIC Bagel & Deli,lic-bagel-and-deli-long-island-city,3.5,31,
+13,4VEgZ7aVUt6oKw8KmXj-jQ,Brooklyn Kolache,brooklyn-kolache-brooklyn,4.5,307,1.0
+14,ROFCA0HkLDA1KZWzAOnCxw,Penny House Cafe,penny-house-cafe-brooklyn,4.5,253,1.0
+15,2XF78XbBg6xFn_5q9mZM8A,Ace Bagels Cafe,ace-bagels-cafe-flushing,3.5,21,1.0
+16,f60zdYj4tEu_y21qftI76w,Slim's,slims-oakland-gardens,4.0,87,1.0
+17,xr6jrXDti7-WGR2gfhF75Q,Bagels & Co.,bagels-and-co-new-york-18,3.0,49,1.0
+18,z1fK6PvRwirX6r4KEkFVaw,Bagel Boss - Queens,bagel-boss-queens-flushing,4.0,35,
+19,TcllxDfvOcv13ztyYalx6g,Jessi's Coffee Shop,jessis-coffee-shop-brooklyn,4.5,94,1.0
+20,SAKxOxvgjT1faNjRZ5e23g,Metro Bagels Company,metro-bagels-company-brooklyn,5.0,5,
+21,ZScp6b6JXLHwVtN3Q27Bqw,Bagel Parlor,bagel-parlor-whitestone-2,4.5,14,
+22,BJL3JbPPX97a58GTURvTxA,The Donut Pub,the-donut-pub-new-york,4.0,915,2.0
+23,9KIelliYKn-5GVRUpP1jwQ,Enjoy My Bagels,enjoy-my-bagels-brooklyn,3.0,50,1.0
+24,cu8xBqgzOvB9ykBdgY-wZw,Avenue U Bagels,avenue-u-bagels-brooklyn,3.5,6,
+25,4DVvKcNIdXxOLbdOm2sRmQ,PLG Coffee House and Tavern,plg-coffee-house-and-tavern-brooklyn,4.0,260,1.0
+26,pSQQ-0nm96PFLwheAsrtlg,Bagels Plus & Deli,bagels-plus-and-deli-secaucus-2,4.5,80,1.0
+27,vgkd_Tl681lSCw7NP6FO4g,Bagels & More,bagels-and-more-new-york-5,3.5,20,
+28,-QWObXy7vRcu0NylKW4Gqw,Bagels Plus,bagels-plus-brooklyn,3.0,33,2.0
+29,A8jRnZGiMJiMpfHt8qKV3w,Fiction,fiction-brooklyn,4.5,84,1.0
+30,HmbSkSwJz1JTyLbb5kGEGQ,Gombo's Heimishe Bakery,gombos-heimishe-bakery-brooklyn,4.5,39,1.0
+31,BewiujBW7QMp6ZHFUDlxxA,Fort Washington Bakery and Deli,fort-washington-bakery-and-deli-new-york,4.0,42,1.0
+32,-6_mNKxOChmZb6qcdMfOtA,Chelsea Bagel & Cafe,chelsea-bagel-and-cafe-new-york,3.0,85,1.0
+33,C5wHXhhX7mjDSA-RJ0AiLg,Inatteso Cafe,inatteso-cafe-new-york-3,3.5,90,1.0
+34,n0MKLSfPWiDCvQsRFAt8HA,NINO'S COFFEE & GRILL,ninos-coffee-and-grill-new-york,4.5,10,
+35,XEmorprWV7gyCInH-1qK6w,Dichter Pharmacy & Soda Shoppe,dichter-pharmacy-and-soda-shoppe-new-york,4.5,46,1.0
+36,6qx9qmfSte3wCUZ2Lqpmow,The Gourmet Bagel Shoppe,the-gourmet-bagel-shoppe-brooklyn,2.5,28,2.0
+37,thlb2FpA_GaC5v89w7Lq9Q,Sam's Bagels,sams-bagels-brooklyn,3.5,33,1.0
+38,f0sqW7BwF_H5r2stkzK7hw,Whitestone Bagels Factory,whitestone-bagels-factory-whitestone,4.0,160,1.0
+39,MGd6HFEq1ALD58XWNviSXw,Time Out Market New York,time-out-market-new-york-brooklyn,3.5,237,2.0
+40,oBjTZOUt-Qqr8wCZJ-BZSg,Sunset Bagels Cafe & Grill,sunset-bagels-cafe-and-grill-brooklyn-3,3.0,15,
+41,p6RecYP3IzMacRVVYeBwkQ,Hot Bagels,hot-bagels-brooklyn-7,3.5,18,1.0
+42,bhhdCdRP7mm0OZtOOJeBMg,Bagelberry,bagelberry-astoria,3.0,109,1.0
+43,RtGdGYRWF0XQnKT2mdAsUw,Clever Blend,clever-blend-long-island-city,4.0,170,1.0
+44,hhgzw_SgN-v1k0rxRUwB0A,Bagel Talk,bagel-talk-new-york,3.0,237,1.0
+45,UQoI7JVzHP3cBO15jA1W8A,7 Bagels & Deli,7-bagels-and-deli-briarwood,4.0,26,1.0
+46,ZnJZ8F17rLIZ3JbJQ2admw,Grounded,grounded-new-york,4.0,726,1.0
+47,EHZKsBee4GT6-6itea3V5g,Oh! Hot Bagels,oh-hot-bagels-long-island-city,3.5,11,1.0
+48,noi4EYAFaINdGBdDLYNPvQ,Paesano,paesano-brooklyn,3.5,30,2.0
+49,zNGOq7moJd6MgsGSRv8wyg,Dale Bagels,dale-bagels-brooklyn,3.5,35,1.0
+0,1aBnxo7NTxHNIt4BOuG51Q,Bagels and Wraps,bagels-and-wraps-brooklyn,3.0,37,1.0
+1,5KqpWLHxLpKZtET-gMYx5Q,Smiley's Bagels,smileys-bagels-staten-island,3.5,23,1.0
+2,tNJObmiHqgVQJoZ2-ZOvmA,The Brothers Deli & Bagel,the-brothers-deli-and-bagel-brooklyn,4.0,44,1.0
+3,z3X0amNJsnLwgYUXAXzTtw,The Bushwick Diner,the-bushwick-diner-brooklyn,2.5,89,2.0
+4,k2bdjrQDGF_yilsCa96NFg,Mikey Bagels,mikey-bagels-staten-island,4.0,25,1.0
+5,lWOkeS-wV4no8qqA9OwwEg,Doughnut Plant,doughnut-plant-new-york-6,4.5,3209,2.0
+6,MN17Htz75s1aZvO5nltzPA,Haven Cafe,haven-cafe-new-york,4.5,53,1.0
+7,D0g1-ICEFh3CIoEQfvmBCA,Hot Bagels,hot-bagels-brooklyn-5,3.5,22,1.0
+8,F487woKE1s-IcPDdJwsdcQ,Atlantic Bagels Cafe,atlantic-bagels-cafe-brooklyn-97,3.0,103,1.0
+9,qn8kAN7VOCx1nJmSJ2FBuQ,Sunny Delicatessen,sunny-delicatessen-brooklyn,4.5,3,1.0
+10,n-hBKsnFFUpe-y00EZrOqg,Amy's Bread,amys-bread-new-york,4.0,1118,1.0
+11,gfgbbPRqVqSj_rxlSwhJhg,Black Star Bakery & Cafe,black-star-bakery-and-cafe-long-island-city,4.0,99,2.0
+12,a7BC1doUjNDqrqTaAMmfZg,Bite,bite-new-york,4.0,266,1.0
+13,2GfP_V04B5eTIviNqsNcFw,What's A Bagel,whats-a-bagel-brooklyn,3.5,5,2.0
+14,v4d2TBqxMmNzWNvShkvRrA,FREEHOLD,freehold-brooklyn,3.5,517,2.0
+15,l56_RXR4UojE4gbpHrv89Q,American New York Bagel,american-new-york-bagel-jackson-heights,3.5,5,
+16,PDLYcA21uXCAlqRAkQLNNw,Ovenly,ovenly-brooklyn,4.0,195,2.0
+17,BtPQRHhzavsP6wpZlQh-sA,Caputo's Bake Shop,caputos-bake-shop-brooklyn,4.5,117,1.0
+18,biapLGctTtB9MDl2UW8bXQ,Eagle Trading,eagle-trading-brooklyn,4.5,133,1.0
+19,R_9naRCabjpSnmiFPeXgrQ,Amy's Bread,amys-bread-new-york-4,4.0,322,1.0
+20,d_SRqHAXYEvKSXj4-nI5Nw,To Laiko,to-laiko-astoria,4.5,21,1.0
+21,dC377KN7y3W_Mc6OzToFZA,Beans and Bagels,beans-and-bagels-brooklyn,3.0,11,
+22,QdMSz1hE1GsN6UGGSCAQ9A,Boardwalk Bagel,boardwalk-bagel-atlantic-beach-2,4.5,25,1.0
+23,prQUP_jDq72ll8jf__TK_w,Black Cat LES,black-cat-les-new-york-2,4.0,297,1.0
+24,pHFrGKOBO2N8yuS8dnkUbQ,Sunset Bagels Cafe & Grill,sunset-bagels-cafe-and-grill-brooklyn-2,2.5,169,2.0
+25,sCgcRjvHgAYFPZoEeZgSxg,Flatbush Bagels,flatbush-bagels-brooklyn,1.0,5,
+26,B5DIEjr0Gy9RKyazkop60Q,The Bagel Factory,the-bagel-factory-brooklyn-2,3.5,39,1.0
+27,lPrP-yl5jMSDRdJc4VL1zA,Coffee Tossy,coffee-tossy-sunnyside,4.0,113,1.0
+28,X5dd1L7DTSV_hb3LhmhZQA,Hand Rolled Bagels,hand-rolled-bagels-new-hyde-park,4.0,228,1.0
+29,crryKo6FO14r5GzCsLtkUQ,Slims Bagels and Bialys,slims-bagels-and-bialys-new-york,2.5,105,1.0
+30,6G0oUbT132BTSo1RN5QufQ,Mott Haven Bagel & Barista Cafe,mott-haven-bagel-and-barista-cafe-bronx,3.5,17,
+31,59-JJp5t2OCFifY7DUQ2rQ,Bricktown Bagel & Cafe,bricktown-bagel-and-cafe-long-island-city-16,3.0,271,1.0
+32,aQxaHfEr2KKwWm5deWztsg,Bagelery,bagelery-flushing,3.5,23,
+33,EFWgKMyT2krr9RpUeCxysA,Gold Street Market,gold-street-market-brooklyn,4.0,42,1.0
+34,Az89sPJXLHZZyRT3f8Dkjw,Hungry Ghost,hungry-ghost-brooklyn-3,4.0,158,1.0
+35,PQAIs-ZPN7QrBvJ-F9pE8w,Awesome Deli,awesome-deli-brooklyn,4.5,14,1.0
+36,MArUsb-rze8TCf8cZhSxJw,Food U Desire,food-u-desire-brooklyn,4.0,12,2.0
+37,4pDEVsC1JGI9Ba9Mjx5aGA,The Chipped Cup,the-chipped-cup-new-york,4.0,379,2.0
+38,Cvcb-ZSNCNmb-pW38j8JFQ,Black Seed Bagels,black-seed-bagels-new-york-18,3.5,13,
+39,uHbnpLSNuOzQ46m5PLOBnA,Bagels & Co,bagels-and-co-new-york-17,3.5,84,1.0
+40,XJ8gJ-J1lElN_mKSjzUI4Q,Skyline Gourmet Deli,skyline-gourmet-deli-new-york,4.0,103,1.0
+41,FIPGiBZOPu2DmHcTdQkt_w,Orwashers,orwashers-new-york-2,3.5,207,2.0
+42,4zQcpHWP9_fjMsG_nr8ALQ,Bagel Story,bagel-story-brooklyn-3,3.0,51,
+43,UsDeDLDJzYp91t6akkueqw,Lassen & Hennigs,lassen-and-hennigs-brooklyn,4.0,178,2.0
+44,_Rpp6IgpkE_UuRsmr4iSaA,Tiny's Giant Sandwich Shop,tinys-giant-sandwich-shop-new-york,4.0,488,1.0
+45,KAXZFgIeAAGmozuNb8iVvg,The Bagel House,the-bagel-house-kearny,4.5,99,1.0
+46,QH9vS9_Q5um3b8sZntZiyw,The Jolly Goat Coffee Bar,the-jolly-goat-coffee-bar-new-york,4.5,341,1.0
+47,fUuy7SqkGJPWpF5NwDklFA,Astoria Provisions,astoria-provisions-long-island-city,4.0,155,2.0
+48,yhwJZKanEnoE_B0tPi-KyA,Daily Bagel,daily-bagel-new-york,2.5,107,1.0
+49,n2L6Ds399AJ_EV0QUbrV-g,Einstein Bros Bagels,einstein-bros-bagels-flushing,3.0,12,1.0
+0,wQw1O619W7Eyjgo9iqV-Mw,Heartland Bagels 2,heartland-bagels-2-staten-island-3,4.0,45,1.0
+1,rqLNXulmryyWxXj2X4rB_A,Bagelicious,bagelicious-brooklyn-2,3.5,22,1.0
+2,ga6sRtE0l85iftw_5-W84Q,Dominique Ansel Bakery,dominique-ansel-bakery-new-york,4.0,4478,2.0
+3,LNV-uST6FKzn7XN-QtFFsQ,Coffee Plus Cake,coffee-plus-cake-new-york-2,4.5,12,
+4,1Jjg8-vQVRQqqtL4sODi5g,Mekelburg's,mekelburgs-brooklyn,4.0,262,2.0
+5,TX4zj_rHFQBwh86XyUuu-g,LIE Bagels,lie-bagels-oakland-gardens,4.5,41,1.0
+6,9tOflki_ULq0TysQ1u4WQA,Goustaro,goustaro-brooklyn,3.5,68,2.0
+7,lwfrB59lvpkCBw2FZD3X6w,Rex,rex-new-york-2,4.5,534,1.0
+8,8dCJwLoT6LqbDElhdxsNjQ,Bagel & Deli,bagel-and-deli-jersey-city,5.0,2,1.0
+9,S1scNP7ijgAXkbD-cIxl5A,K & K Deli,k-and-k-deli-new-york,4.5,4,
+10,pmpGjbZ1fy909wtQE6znYg,GFG Bakery,gfg-bakery-new-york-6,4.0,41,
+11,-AixNVwQogQlGjWKttuw5w,Double Dutch Espresso,double-dutch-espresso-new-york,4.0,221,2.0
+12,Ry04HQ6kNsF1RYTjINDaYw,Blank Slate Coffee + Kitchen,blank-slate-coffee-kitchen-new-york-3,4.0,621,2.0
+13,CwHrTnHVKjJ_OdqFDQ7GVw,Galo Churrasqueira,galo-churrasqueira-jackson-heights,5.0,3,
+14,1TWe-XyitlZDPeAoBHa6oQ,Koala Cafe,koala-cafe-brooklyn,4.5,39,1.0
+15,6BZaK9rk6zT9J2bpZhXxVg,Pio Hot Bagels,pio-hot-bagels-new-york,3.5,37,1.0
+16,QxiSoPQeiiy_tx3vkRJYwg,Cup of Brooklyn,cup-of-brooklyn-brooklyn,4.5,128,2.0
+17,lye9Rj7PZMh0JBL1MuhP_g,Manny's Grill,mannys-grill-brooklyn-2,4.5,4,
+18,omQZC6nfg9_Iwtcri2cPuQ,Gourmet Bagel,gourmet-bagel-new-york,2.5,68,1.0
+19,wWhZvkaFrntlSf1CWvD1Zw,Cafe Patoro,cafe-patoro-new-york,4.5,170,1.0
+20,GJGnRyoZahqSTWKa9pJIOw,Brothers Bagels,brothers-bagels-brooklyn,3.0,79,1.0
+21,HUlbrPvAr6sXuBfp5z1MWA,Urban Backyard,urban-backyard-new-york,5.0,148,2.0
+22,LDWcXffY-amvuhhIJ_FhTg,Blue Cups,blue-cups-woodside-3,4.5,105,1.0
+23,oCLw5cmNfLB0Rpc3DCGD6Q,Bagels By The Bay,bagels-by-the-bay-staten-island,3.5,37,1.0
+24,N7ux8gAg5udFTgZ2Y5P-6A,Ceci-Cela,ceci-cela-new-york-2,4.0,557,2.0
+25,vTQIS8TW-m75XwbPoGpW8g,Java Day Cafe,java-day-cafe-flushing,4.5,305,2.0
+26,T7-BtR3aYps17K7CHiHlOQ,Sanpanino,sanpanino-brooklyn,4.5,26,
+27,RyE_7HUn9wi3O6xwYE8_kQ,Beach Bagel,beach-bagel-rockaway-park,4.0,19,1.0
+28,7wg6pVsqEv78RuB-nDJrxA,Bagel Club,bagel-club-bayside-3,2.5,45,1.0
+29,CKZAuCQePLv6OjDyrmqy-A,Bagels & Buns,bagels-and-buns-staten-island,3.5,40,1.0
+30,ypssRlm_KO3WFrm06vapiw,Kobrick Coffee,kobrick-coffee-new-york,4.0,357,2.0
+31,s_YuHngBngWwzpcKNIM71A,Pi Bakerie,pi-bakerie-new-york-2,4.5,267,2.0
+32,vJfPSlylyPyzM4WKqbKACQ,Twin Towers Bagel Express,twin-towers-bagel-express-brooklyn,4.5,12,1.0
+33,tCYlIZ_43dGs_59nrR1xuw,Holy Bagel,holy-bagel-brooklyn,4.5,8,1.0
+34,Q_7J5E-cYCQfHNCkCyMdLA,Baked,baked-brooklyn,4.0,503,2.0
+35,lj97ObXNguSLtN2ZQFyqcw,Bagelette,bagelette-rego-park,3.5,35,1.0
+36,LCxw7APl13XIenOTmHvi9A,Hot Bagels,hot-bagels-brooklyn-4,4.0,7,1.0
+37,lf0IKPxfcBxqY7puTEdjcw,Crumbs & Coffee,crumbs-and-coffee-brooklyn-2,4.5,23,
+38,zeTFckw10ETydYbL1hn9NQ,Carol's Cafe,carols-cafe-new-york,4.5,34,1.0
+39,VhkXhX5lhurpdrFlA6IFjw,Margaret Palca Bakes,margaret-palca-bakes-brooklyn-2,4.0,51,1.0
+40,ENTEjE5ENDqrVncjoYstyA,Bagels & Co,bagels-and-co-fresh-meadows,3.5,83,2.0
+41,7lO-Ncx_2omtf4Jbg2Agzg,Sugar Hill Cafe,sugar-hill-cafe-new-york,4.5,360,1.0
+42,i065iQeRrGOKPNGVxC4Q1g,JP's Bagel Express,jps-bagel-express-hoboken,3.5,139,1.0
+43,cvH23Ge8IvDVlFZKtwlLKQ,Oh! Bagels and Cafe,oh-bagels-and-cafe-new-york,4.0,9,1.0
+44,2tTbpXscdTtwld5BI1BCYw,Hoboken Hot Bagels,hoboken-hot-bagels-hoboken,3.5,189,1.0
+45,8k5HK-A6gggIwqwmqCqPnQ,Camila's Cafe,camilas-cafe-brooklyn,4.5,40,1.0
+46,UpPXAjKc-CyuCg72chwd3A,Lella Alimentari,lella-alimentari-brooklyn,5.0,194,2.0
+47,iZ_OF8GKvBZh_fPIpwdGKw,Astoria Cafe,astoria-cafe-queens,5.0,14,
+48,V7lXZKBDzScDeGB8JmnzSA,Katz's Delicatessen,katzs-delicatessen-new-york,4.0,12206,2.0
+49,koh-4_SAbshwZ8EBRmXcmg,B&H Dairy,b-and-h-dairy-new-york-2,4.5,465,1.0
+0,S73nEQ1UxV5rr6vcU834vw,Washington Avenue Cafe,washington-avenue-cafe-brooklyn-3,4.0,31,1.0
+1,dj-YSHnS5cSj6iAa3WN4qQ,Park Avenue Bagels,park-avenue-bagels-guttenberg,4.0,74,1.0
+2,jBF0_y-XPHAS0Zd1_ha7uw,Bagel Express III,bagel-express-iii-new-york-2,3.0,183,1.0
+3,vZevXSC1w27dEvXc2EHCEg,Good Thanks NYC,good-thanks-nyc-new-york,4.5,164,2.0
+4,S-WdvEU1X7J33whXWk1zmw,MUD,mud-new-york-3,4.0,1169,2.0
+5,7iGo96YFmL5h3e71aLK9AQ,Fly-By Bagels - TWA Hotel,fly-by-bagels-twa-hotel-queens,5.0,1,
+6,FAUMdhzoesC3PEp0b1ujBg,Broadyke Meat Market,broadyke-meat-market-new-york,4.5,77,2.0
+7,6HhZYdOS4pBL_4RpUPA_Xw,Fulton Bagel House,fulton-bagel-house-brooklyn,3.0,2,
+8,U8cwzchWvTB4tfs-K62bTQ,Bagel Buffet,bagel-buffet-secaucus,3.0,192,1.0
+9,e7ixQGeZrQ-5qwRJucBHXw,Bite Food & Coffee,bite-food-and-coffee-new-york,4.5,24,
+10,k5uLQag3XnKyd_ZwunQuKg,Brooklyn-Heights Deli,brooklyn-heights-deli-brooklyn-2,4.0,43,2.0
+11,7rbOiL4ynd6c4Jf9ASauYA,Sam's Bagels & Cafe,sams-bagels-and-cafe-ridgefield-2,5.0,7,
+12,IC-BoHY-n_THgtJ-COwRHg,JW Real Polish Delicatessen,jw-real-polish-delicatessen-brooklyn,5.0,3,
+13,VyzdJjI0Teh_zOVGUXxAkg,Buongiorno Bagel Cafe,buongiorno-bagel-cafe-glendale,3.5,39,2.0
+14,U9H96-McQ3sVzLaug4eF2A,Fantastic Bagels,fantastic-bagels-brooklyn,3.5,54,1.0
+15,LTUhCA5oSIEMGQe3a2VWtQ,Daniel's Bagels,daniels-bagels-new-york,3.0,230,1.0
+16,LVw8njOyyE9ur_6TzqyNzA,4 Brothers Deli,4-brothers-deli-old-bridge,5.0,11,
+17,o4MpyA_z4Jb-WqJwDk_Szg,We Bagel,we-bagel-long-island-city,4.0,38,
+18,PNPTSkU2HuYKMFmzDX7atA,5th Avenue Market & Gourmet Deli,5th-avenue-market-and-gourmet-deli-brooklyn-3,4.5,111,1.0
+19,5KNzWE-ifswp5u9t7n-gHw,Michael's Bagels,michaels-bagels-forest-hills-3,3.5,40,1.0
+20,euO-c5OpErE3UJCAliC4Bw,Mellow Yellow,mellow-yellow-new-york-3,4.5,280,2.0
+21,gIaMXRb1HFX5KVrAyJHioA,33 Gourmet Deli,33-gourmet-deli-new-york-2,5.0,1,
+22,YnDs59_dEQ61TdCD4fdyEw,Orchard Grocer,orchard-grocer-new-york,4.5,212,2.0
+23,ZYq4ixKvVuNAL-NwOdjxiQ,Baby Skips,baby-skips-brooklyn,4.0,38,1.0
+24,AfZPx4piTmg9dqZpYgYTgg,Moe's Doughs Donut Shop,moes-doughs-donut-shop-brooklyn,4.5,290,1.0
+25,jNRT5vY1Hvp5WDTaHy4Mhw,Sarge's Delicatessen & Diner,sarges-delicatessen-and-diner-new-york-2,4.0,1152,2.0
+26,UwVcyfQk16X7Y-XWuqfhDQ,LIC Bagel,lic-bagel-astoria,3.0,22,1.0
+27,QsRvEv8FgyqE4YHlbnnk2A,My Favorite Bagel,my-favorite-bagel-brooklyn,4.0,13,1.0
+28,Mvvv9yz7zc2ZDYcpKgvr0g,Liebman's Kosher Delicatessen,liebmans-kosher-delicatessen-bronx,4.0,276,2.0
+29,68zV5RYocAQTCqx_UEi2DA,New York Hot & Fresh Bagels,new-york-hot-and-fresh-bagels-new-york,3.0,75,1.0
+30,KhPhG6JrBgXFiLefVGO7qw,Black Seed Bagels,black-seed-bagels-new-york-17,2.0,27,
+31,NTR57L0kEqJyACSDBwPV1Q,Pop’s Deli,pop-s-deli-new-york,4.0,18,
+32,bgoLMIisnv-iIgC0ApBKOA,Wally’s Bagels,wally-s-bagels-new-york,4.0,5,
+33,moLtpz7do56gtgbfcjB8Hg,Murray's Sturgeon Shop,murrays-sturgeon-shop-new-york,4.5,87,2.0
+34,Qu9J_yrZnq07RsnwYEYdtQ,DGGD Coffee Shop,dggd-coffee-shop-downtown-brooklyn,4.5,5,1.0
+35,Bw2ILGtTT9RBcTGNTafV9w,El Barrista Cafe,el-barrista-cafe-new-york-2,4.0,20,
+36,gA0VbcoBLCiD2EpSC6vWeg,Partners Coffee,partners-coffee-long-island-city,4.5,140,2.0
+37,jF94zLvGZTSKQbF6bSewRw,Bergen Boulevard Bagels,bergen-boulevard-bagels-palisades-park,4.0,100,1.0
+38,ygYb7_UtX2x5047uKEWvdQ,M & J Hot Bagel & Deli,m-and-j-hot-bagel-and-deli-north-bergen,4.0,44,1.0
+39,s7CKGPb4eIuCULkR16ZRTw,Blue Sky Bakery,blue-sky-bakery-brooklyn,4.5,234,1.0
+40,RUL5ICRMDWEnJPbviJYVQA,Angela's Sandwich Shop,angelas-sandwich-shop-new-york,4.0,216,1.0
+41,78I3sEnIjKdINgmVKtWt1A,Joan's Bagel And Deli Shop,joans-bagel-and-deli-shop-ridgefield,4.5,17,1.0
+42,iMHYzkhrvREZnGsLCf5Hsg,Everybody Eats,everybody-eats-brooklyn,4.5,43,2.0
+43,N6_qSesaVVrnZ5VDGFpCrg,Telegraphe Cafe,telegraphe-cafe-new-york-3,4.0,336,1.0
+44,jsjJxd8NzEnl19VM94bbGw,Blue Spoon Coffee,blue-spoon-coffee-new-york,4.0,185,1.0
+45,6IdG1EY4qZ_X9GtqIAmQEg,Postmark Cafe,postmark-cafe-brooklyn,4.5,191,1.0
+46,6ZD12J5ZLqKod2ekJDfJQw,K & L Delicatessen,k-and-l-delicatessen-jackson-heights-2,4.0,105,1.0
+47,VPBsmTp4hDErqVSxi8hTTQ,Avenue P Appetizers,avenue-p-appetizers-brooklyn,3.0,1,
+48,aAqdmE9QFLLQsYDMibtbJA,Mama Eatery,mama-eatery-new-york,4.0,126,1.0
+49,ei0Z-6JsQv1DDivzI6UKWA,Bionic Bagel Corporation,bionic-bagel-corporation-brooklyn,3.0,26,1.0
+0,bj7xgiqlhUTs_kOoytDB4A,Bagels 'N' Cream,bagels-n-cream-jamaica,3.0,115,1.0
+1,VF3Ep2NQN8FqSCV8ySulSA,19 Cafe,19-cafe-new-york,4.5,105,1.0
+2,CYf9FmRmjYa2MAnAv1Z4Cw,Blue Spoon Coffee,blue-spoon-coffee-new-york-3,4.0,188,1.0
+3,SFXgb0chXSag8YGNtiLyMA,Holesome Bagels,holesome-bagels-brooklyn-4,2.5,9,1.0
+4,7L3n9TocU4VqaBdDXOBm4A,Finn’s Bagels,finn-s-bagels-new-york,3.5,59,
+5,0i-j7XxlvHc6Xj7_RbH9iA,Andy's Deli,andys-deli-new-york-6,3.5,75,1.0
+6,hWIdOfK1oOHAb8JfOXZkyA,Bagel Shoppe,bagel-shoppe-oakland-gardens,3.5,41,1.0
+7,rSJAtekGHxeixVpTlOBxyg,Flowers Cafe,flowers-cafe-new-york-3,4.0,41,1.0
+8,ok9QnkdrbqE8Kjc-u6Isyg,Liberty Bagel & Deli,liberty-bagel-and-deli-new-york-2,4.0,41,1.0
+9,TzyGxaYLLktPnEi2Vra0OQ,Brooklyn Deli,brooklyn-deli-brooklyn-5,3.5,15,2.0
+10,UGECJrPSWy0n7PXykBBWAQ,Two Little Red Hens,two-little-red-hens-new-york-4,4.5,2585,2.0
+11,Db2zQ3Wm7zW6Sji-nk6usQ,Goldberg's Famous Bagels & Deli,goldbergs-famous-bagels-and-deli-yonkers,4.5,32,1.0
+12,SyMukEpaqTGtC8otaGFR5Q,Rego Park Deli & Pastry,rego-park-deli-and-pastry-rego-park,4.0,43,1.0
+13,KEyhIMAUpj7cceOvG9C1sA,Kabisera,kabisera-new-york-2,4.5,62,1.0
+14,Tyf0mCa2CsYBIlj2vw4nzA,Bagels & More,bagels-and-more-new-york-4,3.0,24,
+15,I9cLwCosV_fzbIaKfLubpg,No Ho Juice Bar & Deli,no-ho-juice-bar-and-deli-new-york,4.5,124,1.0
+16,XfA6CFVVKQ1GK9ZC5J8BFQ,Coney Island Bagels,coney-island-bagels-brooklyn-2,3.0,85,1.0
+17,3o5ABdDmf0oNWwVrzh-ieA,Brooklyn Roasting Company,brooklyn-roasting-company-new-york,4.0,182,1.0
+18,LQI_yvSb4kZcwEZVGwf7Ww,Brothers Bagels,brothers-bagels-brooklyn-3,4.0,14,
+19,_BGO3f92Ys1w0EBQ9jy0lw,Hot Bagels,hot-bagels-flatlands,3.0,10,1.0
+20,1uPB-IOaoWd4s2jNFpZgVw,Poseidon Bakery,poseidon-bakery-new-york,4.5,187,1.0
+21,yt4TpkQ-45A-ZsniITzgVg,Madison Bagel & Grill,madison-bagel-and-grill-new-york,2.5,19,2.0
+22,-zzMDQkhZzrnBUdrfpG3Ng,Ange Noir Cafe,ange-noir-cafe-brooklyn,4.0,104,1.0
+23,5VdUwmUWt8R8EhclxYiZOA,Milk & Pull,milk-and-pull-brooklyn-2,4.0,53,2.0
+24,m6KUH9vS3JQXsAgKPZ9bWg,J & J Bagel,j-and-j-bagel-ridgefield,4.0,52,1.0
+25,xVzRouEsAICjEV0-EBrTUw,Olive's,olives-new-york-4,3.0,72,2.0
+26,b9RW2YCriwuiC5x2Bs-E_Q,Madonia Brothers Bakery,madonia-brothers-bakery-bronx,4.5,246,1.0
+27,_LiezzGnDxKMyqOivtQJxQ,Moduwa York 84,moduwa-york-84-new-york,4.0,22,
+28,1XH47HzrPYmPWHEgS6PH5w,Franklin Corner Cafe,franklin-corner-cafe-brooklyn,4.0,35,1.0
+29,8h89zabx-9QE9fshXLXWDA,Adam's Bagel and Deli,adams-bagel-and-deli-rego-park,3.5,78,1.0
+30,qwUPVBeV6oLdiCKHQvru5w,Tasty Deli,tasty-deli-new-york-2,4.0,273,1.0
+31,HFOiW4RvijuoblE4DD3JwA,Dekalb Market Hall,dekalb-market-hall-brooklyn-2,4.0,665,2.0
+32,vp2DfOrfD1ftbcs_qvSn5Q,Brenda Deli & Grill,brenda-deli-and-grill-queens-2,5.0,1,
+33,QsWuld72cYzdNDP4gXDH7Q,Grand Mars Bagel & Deli,grand-mars-bagel-and-deli-maspeth,4.0,5,
+34,gXX3TJYjX057fHsolYe0Vg,Forest Avenue Bagels,forest-avenue-bagels-staten-island,3.5,27,1.0
+35,XpAZBiSrLNi0t332tWxYcQ,Acme Smoked Fish,acme-smoked-fish-brooklyn,5.0,130,2.0
+36,YR5ahcsRjyK7gd_0QsHTtA,Broadway Hot Bagels,broadway-hot-bagels-bayonne,3.5,40,1.0
+37,1VBeb3BF8R8cwuCYGeMrVg,Zaca Cafe,zaca-cafe-brooklyn,4.5,102,2.0
+38,_LWMUKyw9H1kvFNO9PpP8Q,Queens Bagels & Delicatessen,queens-bagels-and-delicatessen-forest-hills,4.5,26,1.0
+39,v17RAmeyrEzzrzjO9qO6UA,Bagel Bin,bagel-bin-woodhaven,3.0,31,1.0
+40,KVQ0LXmKRUypqj8kNLFy5g,F&M Bagels,f-and-m-bagels-brooklyn,3.5,31,1.0
+41,31MggQt98zopMyERqcStUQ,Royal Deli Grill,royal-deli-grill-brooklyn,5.0,1,
+42,vrrJiOKEfCKnSOnEgagW7Q,Coffee & Green,coffee-and-green-queens,5.0,2,1.0
+43,ycnI-_jWp6h9R4KYFfHvfQ,Hudson Bagel,hudson-bagel-new-york,3.0,56,1.0
+44,-evII9Ur6vnWbmFoUrPfQQ,Hot & Toasty Bagels,hot-and-toasty-bagels-bayonne,3.5,16,1.0
+45,MB1ei80A6bUsnryCy5I2Ww,Metro Finest Deli,metro-finest-deli-brooklyn-2,4.5,11,
+46,s7cttMX_icK-T9HbJPZ1HQ,Riverdale Bagels,riverdale-bagels-bronx,3.5,28,3.0
+47,56qlj1cYlqNzmG0xllGg-w,Westville Dumbo,westville-dumbo-brooklyn,4.0,277,2.0
+48,9lWbPKuJKq-QoSJlkyzTRQ,The Bagel Emporium - Port Chester,the-bagel-emporium-port-chester-port-chester,4.0,53,1.0
+49,12anHG0qFlw8Jkb99RX3Mg,Mile End Delicatessen Brooklyn,mile-end-delicatessen-brooklyn-brooklyn,3.5,768,2.0
+0,GLtOZ-nqNPXxeqtG8cveRQ,Orwashers,orwashers-brooklyn,3.0,32,
+1,5GdVLhENpG_MBDVaP7RgEg,Java Day,java-day-flushing,4.0,34,1.0
+2,SAGXXiDD46O-iV_tFul51Q,Ridge Road Hot Bagel & Deli,ridge-road-hot-bagel-and-deli-lyndhurst,4.5,73,1.0
+3,M2CSxMwbkwJr_G_Bzp7Y5Q,Mah-Ze-Dahr Bakery,mah-ze-dahr-bakery-new-york,4.5,284,2.0
+4,kPWiM9tdCgp7z_iWs9suDg,Rockaway Bagels,rockaway-bagels-rockaway-park,4.0,41,1.0
+5,hGdkg4_1TzYDb4h4CBhS9A,The Bagel Mill,the-bagel-mill-new-york,2.5,116,1.0
+6,SWmQLtea4Cjr4YWWX-MS_Q,Milk 'N Honey NYC,milk-n-honey-nyc-new-york,3.0,107,1.0
+7,NFxYTAOXZ4cQQeX2Bm1GeA,Old Country Bagel,old-country-bagel-howard-beach,3.5,53,1.0
+8,yI-QJOXrhVMZeuDd6_Ur7A,P & C Bagels,p-and-c-bagels-middle-village,3.0,67,1.0
+9,bZc7uxqmmYLxLb14gfCOuw,Cafe Madeline,cafe-madeline-brooklyn,4.0,517,2.0
+10,cSg6wIFrYz_iYddUSV4BVw,Delimarie,delimarie-new-york-2,4.0,102,1.0
+11,9zlJ7CsIe0PpFplZepXaSQ,SMARTWICH,smartwich-new-york,5.0,10,
+12,4jtWfrGODTtbg5sar4cjPA,Cannelle Patisserie,cannelle-patisserie-east-elmhurst,4.5,752,2.0
+13,fGbwb2ELQihOmITsp3koLw,Bagel Nosh of Waldwick,bagel-nosh-of-waldwick-waldwick,4.5,76,1.0
+14,ktncNrHU5gYDFT8056FVCg,Teaneck Road Hot Bagels,teaneck-road-hot-bagels-teaneck,4.5,89,1.0
+15,ZHSSqpcuqzA5xcobuqBNZA,LoHo Gourmet Deli,loho-gourmet-deli-new-york,4.5,22,1.0
+16,dqfHeckcMJLhrRSjlPIynw,Avocaderia,avocaderia-brooklyn,3.5,226,2.0
+17,5Uab_sxfVCWM8neyrSK4Xw,Water Bagel & Deli,water-bagel-and-deli-norwood,4.5,15,1.0
+18,ht3DxDFrvMRSv9WeeX80NA,Lox,lox-new-york,4.0,49,2.0
+19,wuFn0SKmVdTgweA_7O9lVA,L & M Delicatessen & Catering,l-and-m-delicatessen-and-catering-new-york,4.5,93,1.0
+20,ZMQzXIiqdBIuicFySTWGKg,Dough,dough-new-york-2,4.0,1496,1.0
+21,TCYy1ULREceEiEu5h5FHPA,Olympias Finest Deli,olympias-finest-deli-new-york-5,4.0,50,1.0
+22,OUx6Jy5NTOXdCSdxEqycZQ,Pick-A-Bagel,pick-a-bagel-new-york-17,2.5,135,1.0
+23,V-y1DwncOHedKu5mjQxkZg,Bagels R Us,bagels-r-us-staten-island-2,4.0,65,1.0
+24,eqvKgylt-9s0R6hYMoN90g,Bagels R Bakin,bagels-r-bakin-brooklyn-3,2.0,9,1.0
+25,zDgMawyGcNqrknfcGKZZ0A,All American Bagel & Barista Company,all-american-bagel-and-barista-company-howard-beach,3.5,78,1.0
+26,5oL2eTFeSFP1aGj09cnsDA,Plaza Bagel & Deli,plaza-bagel-and-deli-staten-island,4.5,20,1.0
+27,cmOei5M6Vcw3h-j1ZqHHAA,Hillside Hot Bagels,hillside-hot-bagels-hollis-2,3.5,6,2.0
+28,4lBQFduDuS_kkMvfrp3sxQ,Mike's Donuts,mikes-donuts-brooklyn,4.5,130,1.0
+29,E5GYUN-Y5ewHRIE3wQZVEQ,Hello Deli,hello-deli-new-york,4.0,141,1.0
+30,A5YzhzVxX7JigLl5kmYbGg,Adventure Cafe,adventure-cafe-new-york-2,4.5,36,1.0
+31,Smj-UqUvNFneHKkuZ0BN7A,Kona Coffee and Company,kona-coffee-and-company-new-york,4.5,116,2.0
+32,p17WZDWekIuEuB10iPqqew,Cinnamon Girl,cinnamon-girl-brooklyn,3.5,91,1.0
+33,yRnLKQmmGgyUtLf3aw7nAQ,Swallow Cafe,swallow-cafe-brooklyn-3,3.5,194,1.0
+34,8QaVI3EgwfnflOaZRcwxAg,Clementine Bakery,clementine-bakery-brooklyn,4.0,443,2.0
+35,lZxSNPykKKuFrfVe3X4niw,Charlies Bagel & Deli,charlies-bagel-and-deli-woodbridge-township,4.5,47,1.0
+36,rl4rHDWcdDBqZhMA-JCaew,red olive deli,red-olive-deli-new-york,5.0,1,
+37,MHtbBc2np3sR7jiV9GphNg,Tribeca's Kitchen,tribecas-kitchen-new-york,4.0,504,2.0
+38,NJmg1hOn9356xnA6gcYNEA,Baba's Deli,babas-deli-brooklyn,4.0,13,
+39,CsD5A2eIEm3BZ0ETMh0m0w,Not Just Bagels,not-just-bagels-staten-island-2,2.5,129,2.0
+40,H8jXGkiLiv1iGSItqqubXw,Manor Bagels Café,manor-bagels-café-yonkers,4.5,63,1.0
+41,uQ4HZzNarBBNcTKZSIY-vA,Black Fox Coffee,black-fox-coffee-new-york,4.0,192,2.0
+42,0sXTHdwbJ_TEZq2WNjmGXw,Irving Farm New York,irving-farm-new-york-new-york-10,4.0,569,2.0
+43,_nlAcAkUMAxTqHTgHaBK5g,Plaza Bagel & Deli,plaza-bagel-and-deli-clifton,4.5,108,1.0
+44,oAfurJDEkcVozDQnJ5X8vA,Harrison Bagels,harrison-bagels-harrison,4.5,36,1.0
+45,pIQ0oSsZKO-IqOIlYH_pXw,Square Deli,square-deli-new-york-2,4.0,34,1.0
+46,6OSf-XAdH9z-jLiXxTPZKg,The Original Sandwich Shoppe of New York,the-original-sandwich-shoppe-of-new-york-new-york,4.0,185,2.0
+47,RmId9z8FZWDXsvfP0iV-8w,Long Island Bagel Cafe - Glen Cove,long-island-bagel-cafe-glen-cove-glen-cove,3.5,102,1.0
+48,AI_tbHT241OKCRpsUIy4bg,Parva Bakeshop Cafe,parva-bakeshop-cafe-jackson-heights,5.0,8,
+49,U7sxd0hTFhG9igBa0rK2vg,Harrison's Bagel Shop,harrisons-bagel-shop-harrison,4.0,113,1.0
+0,_3qAfCxRRB-C_lfYGuI1bA,The Bettered Bagel,the-bettered-bagel-staten-island,4.0,26,1.0
+1,S9sc-6uSsplyU073_4waTQ,Royal Crown Bakery,royal-crown-bakery-staten-island,4.0,445,2.0
+2,yaxvCNxFH6m86R1vfutMvA,Bagel Buster,bagel-buster-staten-island-2,4.0,3,
+3,abnEZlLrONsjAehT5awbyg,Pick A Bagel,pick-a-bagel-new-york-14,2.5,127,1.0
+4,mvNsJVCaDUcUu16yS23c7w,NY Hot Bagels & Bialys,ny-hot-bagels-and-bialys-forest-hills-2,3.0,27,2.0
+5,eJzVEVIHql5Vyi0jNxT0Xg,Santa Barbara Deli,santa-barbara-deli-manhattan,4.0,21,1.0
+6,18-qEPtsL2lbZH4ianmicg,The Granddaddy,the-granddaddy-new-york-2,4.0,111,2.0
+7,ztjT8hvC4UU35fA96rTkQg,Bonafide Delicatessen & Cafe,bonafide-delicatessen-and-cafe-brooklyn,4.0,26,2.0
+8,mIDV-IEfeZsQtVW1BUHXLA,Indie,indie-long-island-city,4.0,135,2.0
+9,gjVlhXFtyyiOs3POO8nSHQ,Bagels on Kings,bagels-on-kings-brooklyn,2.5,28,2.0
+10,9Xo3owk1WNBYUZaczwXvog,Cozy Deli,cozy-deli-new-york-2,4.0,11,1.0
+11,GE7mEVa1wm6BTLMe-blu7w,Smith Street Deli & Grocery,smith-street-deli-and-grocery-brooklyn,4.5,3,1.0
+12,377T_E91x6WRWjdjd3UyAg,Village Bagels,village-bagels-brooklyn,5.0,3,
+13,zT5vPRCOGFXBAGrFz-qc2g,Corner Grind,corner-grind-brooklyn,4.0,112,1.0
+14,PnIhJd9aWM3ClEFgNop5JA,Dawa 91,dawa-91-new-york,3.0,26,1.0
+15,pQkzgYnGnNzdCWriyGlfdg,Dweebs,dweebs-brooklyn,4.5,85,1.0
+16,LZZSTSgx4eBuv-T3Be9How,Sunset Deli,sunset-deli-brooklyn,4.5,53,1.0
+17,ttBo5Ts_cPKN5wXon4eglw,Broadway Deli & Bagels,broadway-deli-and-bagels-new-york,3.5,33,1.0
+18,OFJ2453VTKMh8Z87uBlV-g,Hot Bagels,hot-bagels-new-york-2,4.0,11,1.0
+19,rF7YK9EubHQ74FwXYmg-eA,Mudpark,mudpark-new-york,4.5,35,1.0
+20,8ZpHqfqSDPnqQ2P81uV4Zg,Lic Deli & Grocery,lic-deli-and-grocery-long-island-city,4.5,33,1.0
+21,wHNw5YMZBsoLd4ob74XSbw,Rolen Bagels,rolen-bagels-bronx,3.0,36,1.0
+22,JD3FFpr-DEl51Jd1IBfdfA,Locust Valley Bagels,locust-valley-bagels-locust-valley,4.5,11,1.0
+23,6BVCbBM9nmr85CEUNgxPaA,Cocoa Grinder,cocoa-grinder-brooklyn-4,4.0,141,1.0
+24,UVtRuihrZF9vwxHXZQOqYw,All American Bagel & Barista ll,all-american-bagel-and-barista-ll-broad-channel,3.5,36,1.0
+25,a0jNCZYlgkPwrgUNSe5UEQ,La Jugueria,la-jugueria-brooklyn,5.0,1,
+26,msoDeEHkvt7mbuYtl2nDmw,Cocoa Grinder,cocoa-grinder-brooklyn-5,3.5,103,2.0
+27,UBUoQ1UDPRioPOb4lJw94w,Rosa's Cafe,rosas-cafe-long-island-city-3,4.0,30,1.0
+28,ieHaRi-zTSLUsARqf8wQhw,Sunrise Bagel,sunrise-bagel-staten-island,4.0,9,1.0
+29,b8eHRzoFDRvpluLab2_RQQ,Bradley Bake Shop,bradley-bake-shop-bogota,4.5,12,
+30,7ivo20IScWLrY_Sp6N--vw,Seymour's Cafe,seymours-cafe-livingston,4.0,144,2.0
+31,5Iq46XSngo4RoUAedDxK5g,Compton's,comptons-astoria,4.5,85,2.0
+32,cCesIqo-LQt0cRlZAnrAZQ,Friedman's,friedmans-new-york-59,4.0,2450,2.0
+33,p7AK3xaLGgyG1jYP8kSzNw,Caffe Bene,caffe-bene-new-york-34,4.0,84,2.0
+34,yAlIuy3M3Fu4MImYQ7q_Fw,Healthy Greens Gourmet Deli,healthy-greens-gourmet-deli-new-york,5.0,7,
+35,GqcTRG5saxT8Db2ViYLheA,1080 Brew,1080-brew-ridgewood,4.5,28,2.0
+36,vlrX_iywV3c3iLrzjN-hMw,Gold Deli,gold-deli-new-york,4.0,6,1.0
+37,NJInr5_XgmewsyFGd3V2AA,The Bagel Shop,the-bagel-shop-hasbrouck-heights,4.0,62,2.0
+38,7XiKltREGe67tEnjRzWgZg,Bagel Nosh,bagel-nosh-butler,3.5,31,1.0
+39,tpPd77hwFlci6jT2E-0VfA,Corvo Coffee,corvo-coffee-new-york-4,4.0,48,1.0
+40,SdiyEqFZ2QBg8m4F1seMgw,Sunset Bagels,sunset-bagels-brooklyn,2.0,172,1.0
+41,VCqNjupCWZ5INzOcyBMJSg,The Grey Dog - Union Square,the-grey-dog-union-square-new-york,4.0,1054,2.0
+42,S-Z66xik60GYEtfD1ZMJpw,Cypress Inn,cypress-inn-ridgewood,4.5,120,1.0
+43,KJ_tU4Cjxvxf4X1YtsPF6w,Sunshine Bagel,sunshine-bagel-ardsley,4.0,85,1.0
+44,x5-HC3RrWY8QKg0e3GYteQ,Boonton Bagels and Gourmet Deli,boonton-bagels-and-gourmet-deli-boonton,4.0,56,1.0
+45,EB9cbdwOaLp4w9h6ocrRng,Lucky 7 Gourmet Deli,lucky-7-gourmet-deli-new-york,3.5,9,3.0
+46,KQwGWzirCIUdGVZQONqeVA,Lamars Bagel Express,lamars-bagel-express-manhattan,3.5,4,1.0
+47,9FTxg528ZSi2UFRSpifWYQ,Bagel Land,bagel-land-staten-island,3.5,19,1.0
+48,508S0MCamtvfLBZyPdg-tA,Ciao Bagel & Deli,ciao-bagel-and-deli-east-rutherford,4.0,64,2.0
+49,2juoC8oKA44U4vw-2CgBEw,Becky's Bites,beckys-bites-new-york,4.5,48,
+0,KSE8qPwGAxaKZEBkLAFLjQ,Big Belly Deli,big-belly-deli-brooklyn,3.5,19,1.0
+1,giuBfo5gckSXmQwV08Piyg,Brancaccio's Food Shop,brancaccios-food-shop-brooklyn,4.5,192,2.0
+2,btieKMUm5KZn9sbHVOqBtw,The Spot,the-spot-ridgewood-3,4.0,82,1.0
+3,XigD6ebv4WNMt7Wew5Ianw,The Bagel Bin,the-bagel-bin-staten-island,3.0,31,1.0
+4,ucGCdO8Q4DkKrVQyvsbd1A,Sofia & Grace Cookie,sofia-and-grace-cookie-brooklyn,4.5,50,1.0
+5,KHTmMPRqpzR2tuGfUTphDQ,Brooklyn Standard,brooklyn-standard-brooklyn-3,3.0,86,2.0
+6,nWckR5pzhJn2beSN7ngZhA,Grimaldi's Bakery,grimaldis-bakery-ridgewood,4.0,72,1.0
+7,M6uMYAfGywJiVNswIH35PA,Bake Shop,bake-shop-east-williamsburg,4.0,102,2.0
+8,eJCAgY59A38zakVXLCCBDQ,Emmons Bagels,emmons-bagels-brooklyn,3.0,21,2.0
+9,aI1yals6ghSQuXS_vMIbPw,Cafe One,cafe-one-new-york,4.0,184,1.0
+10,j7pPLo4MM-ydqFtB_cau4A,Three Guys Bagel,three-guys-bagel-baldwin,5.0,1,
+11,f_LF_IWOKg8t5-LLm2tZgQ,Bookery,bookery-brooklyn,4.0,41,1.0
+12,WEgZKSeh2zdvEsSGoQg3Bg,Brooklyn's Natural Deli,brooklyns-natural-deli-brooklyn,3.5,33,
+13,w4UNzQPHfevyL1AQXn4wVA,Good Vibes Coffee Shop,good-vibes-coffee-shop-forest-hills,5.0,5,
+14,tgxqF7k3jWnBecVjmZEbsA,Bagels & More,bagels-and-more-edgewater-2,3.5,27,1.0
+15,gzHRQ7ucrcriHkqDnqs_DA,Sam's Bagels Deli & Cafe,sams-bagels-deli-and-cafe-north-arlington,3.5,56,1.0
+16,-7mvJpV-gmOCT0HFNOhMNA,The Brothers Cafe,the-brothers-cafe-sunnyside,4.5,101,1.0
+17,9QdKriA9ef0C4ENbjR90NA,Gobo's,gobos-borough-park,3.5,12,2.0
+18,DO91C6baD0RSO-AN6cKCCA,The West,the-west-brooklyn,4.0,218,2.0
+19,vGFCPgKmDqsldeA7qadZbw,Terranova Bakery,terranova-bakery-bronx,4.5,37,2.0
+20,Ww_4_p0BTHQigxtWA6mN2A,Wonder Bagels,wonder-bagels-jersey-city-5,3.5,72,1.0
+21,PIX_ZMG3CLSEk74zyz7kUg,Hungry Ghost,hungry-ghost-brooklyn-4,3.5,28,1.0
+22,V_HFGmoiKLMTKm5Lm4wOwg,Knapp Street Bagels,knapp-street-bagels-brooklyn,3.0,33,1.0
+23,_XWc8K-wrIwuef8Ac0j3tg,Butch & Coco Cafe,butch-and-coco-cafe-bedford-stuyvesant-2,3.5,210,2.0
+24,Wh2K9iqjBmnlqv3T8bu6sA,Simit Sarayi,simit-sarayi-new-york,4.0,342,2.0
+25,sDvP6T7Rvd1DHulbJyuH7w,Breads Bakery,breads-bakery-brooklyn,2.5,4,
+26,rXSg2TOOcAXkXeF7CFRMEQ,Tal Bagels,tal-bagels-new-york-2,3.0,370,1.0
+27,ra-t8lzzy3Q4uE8RaWPK_Q,Konditori,konditori-new-york-9,5.0,5,
+28,J8vYLM7uMNrhiz6RzhX7yQ,Bony's Bagels,bonys-bagels-brooklyn,3.0,20,1.0
+29,r3SmFWVVoBBIIvsAGlTy5Q,Coffee Z,coffee-z-flatbush-ditmas-park-4,4.0,66,1.0
+30,wXiIxbnFRaFBS9RI4wJrdw,Baba Cool,baba-cool-brooklyn,4.0,177,2.0
+31,Zzu6Y6t3UdveFnSpbu2YrA,Bagel Express II,bagel-express-ii-new-york-5,2.0,31,1.0
+32,HyGMiwv6IkT3AYVDZ88QjA,Metro Feast,metro-feast-brooklyn,4.0,40,1.0
+33,Yfn8P_DDB02Z1yueI5-ULA,Schuyler Bagel Deli,schuyler-bagel-deli-north-arlington,3.5,31,1.0
+34,EabbdIeb0D_8UUQ0KmoPlA,The Great American Bagel Bakery,the-great-american-bagel-bakery-new-york,1.5,25,
+35,hz50-p9Oa_RcTYPSjiD_Ig,Long Island Bagel Cafe - Mineola,long-island-bagel-cafe-mineola-mineola,4.0,75,1.0
+36,kvpSqh3q7r3HK3Tw-wXGEQ,Ashbox,ashbox-brooklyn,4.5,127,1.0
+37,XR-ukhC5BvAKDq1oTQrQ9A,Ad Hoc | Collective,ad-hoc-collective-new-york,5.0,63,2.0
+38,p8lfOG4oKeFt95ngi3Qo_g,M&O Bagels,m-and-o-bagels-jamaica-2,3.0,4,
+39,dRUOqgN2Ct7L-vVvkpBBzg,Deli Fusion Cafe & Juice Bar,deli-fusion-cafe-and-juice-bar-brooklyn,4.5,3,
+40,Y5vNDWPehr_MaHiJTYoAFQ,Kosher Bagel Hole,kosher-bagel-hole-brooklyn-3,4.0,7,
+41,4rasslxwedHuFMCjEnlZBA,Farmer in the Deli,farmer-in-the-deli-brooklyn-3,4.5,8,1.0
+42,LJ0y9Kkfpo8RCVYSQIseIw,Hamilton's Cafe Restaurant,hamiltons-cafe-restaurant-new-york-2,3.5,208,2.0
+43,6JCeOkxlueWsVkcEaoq_rA,Eastside Bagel & Appetizing,eastside-bagel-and-appetizing-new-york,2.5,87,1.0
+44,I41VRmgmiQ4kITgFZtJlvQ,Old Poland Bakery,old-poland-bakery-brooklyn-2,3.5,23,1.0
+45,_1SQuOtJI1PXK3DSu7nrWw,Park West Cafe,park-west-cafe-new-york,4.5,67,1.0
+46,jzQNE09rRKz8Ou-bEdEY1Q,The Grey Dog - Nolita,the-grey-dog-nolita-new-york-3,4.0,587,2.0
+47,EtgNqPyHjN2sCi_LTXvAIQ,Bagel Crepas Cafe,bagel-crepas-cafe-west-new-york,2.5,27,1.0
+48,lkH6Osb_YNQzk66GeI7chw,Qathra,qathra-brooklyn,4.0,324,2.0
+49,KGAF6jKzyQ9fDbtUm_iHWQ,Daily Press Coffee,daily-press-coffee-brooklyn-13,4.0,68,2.0
+0,lOzgdc3RareiFMYfNTsBig,C-Xique Cafe,c-xique-cafe-brooklyn,5.0,3,
+1,ayXks_0MqvVjU3eub7y-sw,Yura at Coleman's,yura-at-colemans-new-york,4.0,18,2.0
+2,ZnNyNdhU2tUE07S2P3sF9g,Simply Bagels,simply-bagels-newark,3.5,19,1.0
+3,ml5hBBDsEILy9WsTQyyV-Q,B Cup Café,b-cup-café-new-york-5,4.0,375,1.0
+4,jZZMmT7Mk3S-fNjXcq3Ksg,Devocion,devocion-williamsburg,4.0,437,2.0
+5,xniqwR_HbfITdtTh-MS6Ow,10th Ave Deli,10th-ave-deli-brooklyn,4.0,5,
+6,24YnertUO8mNQTv69OTInQ,Cafe Nala,cafe-nala-flushing-2,4.0,1,
+7,wA5WLYvThEsZc1Te_4Lcbw,Essex Market,essex-market-new-york-2,4.0,262,2.0
+8,dhEM2sJqAxyVg4FFjV9q-g,Not Just Bagel Store,not-just-bagel-store-brooklyn,3.0,2,
+9,urH_DOStE-SkScFn6uVwQQ,Bagels on Park,bagels-on-park-weehawken,4.5,33,
+10,9-15fqwnOxi99KuN8rRx8Q,Bravo's Cafe,bravos-cafe-ridgewood,4.5,28,1.0
+11,xn_Ve3wONHTAVBVtSNXYSg,Le Cafe Coffee,le-cafe-coffee-new-york-4,4.0,56,1.0
+12,QG8pqZsrnr-wTCMLn3UeBQ,The Fillmore Delicatessen,the-fillmore-delicatessen-new-york-2,4.0,91,2.0
+13,kA98xP8HiJ_-fVaM7RECLw,Laughing Man Coffee & Tea,laughing-man-coffee-and-tea-new-york-3,4.5,231,2.0
+14,Q2R8CqeK0B3gDAPf4a_qTQ,Bagels on the Run,bagels-on-the-run-new-rochelle,5.0,1,
+15,l5sLJ9KVAt2E7wonuyXrUg,Good Morning Brooklyn,good-morning-brooklyn-brooklyn-2,4.5,50,2.0
+16,wIAuuao7hVDYVJA1mCPa3g,Syrena Bakery,syrena-bakery-brooklyn,3.5,90,1.0
+17,CNKQ7K0FW4pRh83VHma2aQ,Bagels by Jarrett,bagels-by-jarrett-west-orange-3,4.0,14,
+18,zwFS-FcGe062to_rWWkLCw,Bouchon Bakery,bouchon-bakery-new-york-2,4.0,793,2.0
+19,rKbnm4TOYB1rqY4DCO_1kg,Legal Grounds Coffee Company,legal-grounds-coffee-company-jersey-city,4.0,154,1.0
+20,D8kLhn0QRqsMEaaRmq1v-Q,Brooklyn Barista,brooklyn-barista-new-york,4.5,54,1.0
+21,tvZFDotgUGBZLSFQAkvbsw,Wonderful Bagel,wonderful-bagel-union-city,3.5,10,
+22,nHt_KvHIxR6k8ljgZzO6xA,My NY Bakery Cafe,my-ny-bakery-cafe-new-york-2,3.5,137,1.0
+23,Pxa-Lu2gPyuDnURCQCYh5g,Hot Bagels,hot-bagels-rego-park,4.0,1,
+24,IKjwBQ_x1n05aWl0pVgdhw,Brother's Bakery Cafe,brothers-bakery-cafe-new-york,3.0,69,2.0
+25,WrKMiUnPRKiUwSJKIfH7qg,Uncle Zack of Brooklyn,uncle-zack-of-brooklyn-brooklyn,4.5,4,
+26,0IWkuFkLzL6lFKRGApZpHg,New York Bagels Deli & Catering,new-york-bagels-deli-and-catering-yonkers-5,4.0,86,1.0
+27,uVltnWMbz2rbovVB_ykMXg,Smith Food Express,smith-food-express-brooklyn,4.0,4,
+28,7-Rr97T-mcgVvL1yTTCAXg,Jack's Stir Brew Coffee,jacks-stir-brew-coffee-new-york-2,4.0,195,1.0
+29,KYetiiGL419Ds85eSgbsLQ,Mr Bagelsworth,mr-bagelsworth-edgewater-2,2.5,121,1.0
+30,wnyX_yg4ddSDkupwFKftIA,Bonafini,bonafini-brooklyn-2,4.0,349,2.0
+31,m9Ud-Z_3AnRca9gUe95crQ,Gansevoort Market,gansevoort-market-new-york-2,4.0,265,2.0
+32,cfL1Wje0_seF0wK5Fg28Eg,Big John's Coffee Shop & Grill,big-johns-coffee-shop-and-grill-brooklyn,4.0,85,1.0
+33,yfA52uk39F81HWUgHBTP0g,Communitea,communitea-long-island-city-6,4.0,123,1.0
+34,OgD0x62tGI00MIfsiDBo5A,Ziggy Deli & Grill,ziggy-deli-and-grill-brooklyn,5.0,1,
+35,zGm5wcEjhtTe-oXXxUxbZg,Queens Bagels,queens-bagels-queens,4.0,6,
+36,4GBqDgTYsV7owGzNMyAFKA,Sullivan Street Bakery,sullivan-street-bakery-new-york-3,4.0,499,2.0
+37,_NSJIRNz353rdfnrrFHfNA,Bagel Plus,bagel-plus-whitestone,3.5,9,1.0
+38,Bz2mmDbLkZrGvOP32z78Xw,Dale Bagels On Fifth,dale-bagels-on-fifth-brooklyn,3.0,1,
+39,sMs617fQhkbT_P_0jdycfw,Bagel and Bagel,bagel-and-bagel-ridgefield,4.0,5,1.0
+40,yaBrQbt7kMrbXAo6qrzpYw,By the Way Bakery,by-the-way-bakery-new-york,4.5,226,1.0
+41,iJtJ3W_o0uHtHmLkcjI3Gw,Cafe Frederick,cafe-frederick-new-york,4.0,115,2.0
+42,0LtLFRGu0SYc3i4nGIabmA,The Bagel Shoppe,the-bagel-shoppe-hackensack,3.5,65,1.0
+43,Etg2R7kFSSExsvki0sOqug,The Original John's Deli,the-original-johns-deli-brooklyn,4.0,319,2.0
+44,8a4gmh_gjbB9tKcroYYGeA,Gabe's Bagels,gabes-bagels-east-hanover,4.5,19,1.0
+45,Vm5IE56Cs-j-9vL5pM-ZjA,Friendly Bakery,friendly-bakery-east-elmhurst,4.0,12,1.0
+46,qJKpT5IBm5q3b4BbskWpZw,Clove Road Bagels,clove-road-bagels-staten-island,3.5,18,1.0
+47,EjnhjQqJtSgR9jrE3e3Zsw,High Ridge Bagel Factory,high-ridge-bagel-factory-yonkers,4.0,50,1.0
+48,89CU-YUwK-4cXJmgAbBmIg,TK's Deli,tks-deli-brooklyn,5.0,20,1.0
+49,57qSiQxn2KV6Q4HFsud04Q,Gotta Getta Bagel Of Woodmere,gotta-getta-bagel-of-woodmere-woodmere,4.0,19,1.0
+0,ZkzfvzknQN5qdslUWARIqQ,Cute Cat Cafe,cute-cat-cafe-ridgewood,4.0,89,1.0
+1,VDPU_uI93xjbyRjxYUAQ2g,New York City Bagels & Deli Cafe,new-york-city-bagels-and-deli-cafe-union-5,4.5,42,1.0
+2,5wPuuBi8fxhgpfAjYG2O8w,B & B 47,b-and-b-47-new-york-2,5.0,1,
+3,ZjURVd4EPAQccOJPULfzDQ,D'oh Bagels,d-oh-bagels-rahway,4.0,76,1.0
+4,-xsfZuzXvjGZefnMMvlL5w,Bklyn Bagel,bklyn-bagel-new-york,4.0,1,2.0
+5,39g9pylx-xeIHihTe76HbA,Fermento,fermento-brooklyn-2,4.5,49,2.0
+6,kTSejIjmKGsK1Erwdser4g,Broadway Au Lait,broadway-au-lait-new-york,4.0,46,1.0
+7,iF1wqaFU-JgElX1lCGda6A,Ama Coffee,ama-coffee-ridgewood-8,4.0,57,1.0
+8,wHKe53FbmN4RXltt_-VG8A,Plaza 4A Cafe,plaza-4a-cafe-jersey-city,5.0,2,1.0
+9,X__xiM9Vdf_s2afHgVogCw,Bagel Boy,bagel-boy-old-bridge,4.0,99,1.0
+10,sR60I9PI_63noBQcGoIrbw,Pause Cafe,pause-cafe-new-york,4.5,395,1.0
+11,NQsjljhkgdFUDma2KarC4g,Bagels Convenience Store,bagels-convenience-store-brooklyn,2.5,7,1.0
+12,KWPqhblxnHeuwN7fFqGkHg,Konditori,konditori-brooklyn-4,3.5,138,1.0
+13,-ZXuigrnHtaNHjyQukOAQg,ELK Cafe,elk-cafe-brooklyn,3.5,87,1.0
+14,8sPvW08yqz4i5pWsJyM3Zw,Bagel Supreme,bagel-supreme-rutherford,3.5,86,1.0
+15,Btt2qfT58Xms9ACmtUPa9g,Hot Bagels & Deli,hot-bagels-and-deli-parsippany-troy-hills-2,4.5,55,1.0
+16,6gPTgbbfQ8s4g-V6o80Bbw,Continental Luncheonette & Deli,continental-luncheonette-and-deli-forest-hills,4.5,19,1.0
+17,huxqhCdgThmY-r5x1cVrrA,The Market Place,the-market-place-brooklyn,4.5,8,1.0
+18,XT_5b_PQvYivc1T9RPdS3A,Champs Gourmet Deli,champs-gourmet-deli-new-york-3,3.5,49,1.0
+19,ZpM4wyUdWJFdd9ICtJJm8Q,Butterfield Market,butterfield-market-new-york,4.0,120,2.0
+20,nU4XBdvxDABXqZ6CnB8Dig,Clinton Street Baking Company,clinton-street-baking-company-new-york-5,4.0,5064,2.0
+21,yuADDB0087gWVzo9Zep9FA,Cinnamon Girl,cinnamon-girl-brooklyn-2,3.0,68,2.0
+22,bMepacmKDTwCdHJAU860bQ,Le Café Coffee,le-café-coffee-new-york-2,4.5,169,2.0
+23,MWfq0o_U6UrcAJjcV-JlAQ,Sunset Bagels,sunset-bagels-new-york,2.0,103,1.0
+24,fNzbSHk9DLAcGj0FzDMskw,Long Island Bagel Cafe - Long Beach,long-island-bagel-cafe-long-beach-long-beach,3.0,125,1.0
+25,6PwI_HV9JB8ZM0vbgfVGdA,Scarsdale Bagels,scarsdale-bagels-scarsdale,4.0,79,1.0
+26,saUL4G6DkpacnQlAwDNDjw,Glendale Bake Shop,glendale-bake-shop-maspeth,4.0,38,1.0
+27,5HUIrr9wip_mdxh4toFXZg,Bagel Road,bagel-road-brooklyn,2.0,23,1.0
+28,TGzunE1-s5F2f7L2xDXNaA,Nature's Gourmet Deli & Organic Food,natures-gourmet-deli-and-organic-food-brooklyn,5.0,3,1.0
+29,_G6lH3rUyhyIxXHyQWFlag,Bien Cuit,bien-cuit-brooklyn,4.0,388,2.0
+30,eQz7gXepvLQBFapDckic2g,New York Bagel Stop,new-york-bagel-stop-new-hyde-park,4.5,31,1.0
+31,ysqgdbSrezXgVwER2kQWKA,Juliana's Pizza,julianas-pizza-brooklyn-5,4.5,2176,2.0
+32,GH-NVjwfBvCmA9vSci_ehg,Parkview Market,parkview-market-williamsburg,4.0,19,
+33,5Cl4fAdMcMwHh36iCn52eQ,Rispoli Pastry Shop & Cafe,rispoli-pastry-shop-and-cafe-staten-island,4.0,24,1.0
+34,cBHGXowGSw3XB4mq8ELo9g,Sunrise Deli & Grill,sunrise-deli-and-grill-brooklyn-2,5.0,1,
+35,SGkJanKe0-T1C3Fp4SSdYQ,Pizza & Bagel on 3rd,pizza-and-bagel-on-3rd-brooklyn,3.0,16,1.0
+36,VLZVwG3EHlEsQa2zgtM5RQ,Central Market,central-market-new-york-6,2.0,8,4.0
+37,Uc2RN5pw1tsPI3uIqJfw1Q,Cafe 28,cafe-28-brooklyn,4.0,9,1.0
+38,x0mkbKy70EhEXOIsJGkc4w,Mike's Coffee and Deli,mikes-coffee-and-deli-new-york,4.5,27,1.0
+39,MYYWU9rEIRZw43lACKXzTQ,Yours Truly,yours-truly-new-york-4,4.0,88,2.0
+40,oXcklrwG266XY3qyADCTWw,Root Hill Cafe,root-hill-cafe-brooklyn-4,3.5,174,2.0
+41,l8PImEQKEdN03CVij9AE6g,Bagelicious,bagelicious-ridgewood,4.5,63,1.0
+42,yPtkSI5C_ksc1jD0dLuTpQ,Parade Cafe,parade-cafe-brooklyn,4.0,56,2.0
+43,R8OGE7C4u_22y8KL8zdHyQ,The Mill Coffee Company,the-mill-coffee-company-long-island-city,4.0,87,2.0
+44,eY39Q5fJJMaMiF6sS1S5Hg,East Side Gourmet Deli,east-side-gourmet-deli-new-york,4.0,19,1.0
+45,Y2ozBryp-FognnApUuzkGg,Daily Press Coffee,daily-press-coffee-brooklyn-8,3.5,157,2.0
+46,LJzLqA7uQVS-zHF2TzHKLA,Bagel Cafe,bagel-cafe-staten-island-2,2.5,19,2.0
+47,VX9XPnQ3-k7vdGKLxu1qBw,Hunky Dory,hunky-dory-brooklyn,4.0,69,2.0
+48,B2OFn3oyBJL6qq89thCe0g,Gold Star Deli & Grocery,gold-star-deli-and-grocery-brooklyn,5.0,2,
+49,4ADum3m4i7MXzqDEjb0l5Q,Hot Bagels & More,hot-bagels-and-more-staten-island-2,3.0,16,1.0
+0,qr65Uti0kx89xmCmZBsC1A,Queens Bagel Town,queens-bagel-town-forest-hills-2,2.5,20,1.0
+1,-wlJgbNPpPv5PWtvIDL6rQ,Giacomo Fine Foods,giacomo-fine-foods-new-york,4.0,36,1.0
+2,FaSL5EkhXfmaRG1T7w4ZNg,Bagels-4-u,bagels-4-u-springfield-6,5.0,1,
+3,Fq54Vwq3GsBjWJ0o0xdAlA,Dough,dough-new-york-5,3.5,177,1.0
+4,UuCci7d95CAYSSvWbB30-g,Luna Coffee Shop,luna-coffee-shop-new-york,4.5,236,1.0
+5,M_ldoaPR-pZlrnO47jDpPA,Willoughby General,willoughby-general-brooklyn,4.5,28,2.0
+6,cotF48UHQE3V-4sLwNu5IQ,Bagel Corner,bagel-corner-bronx,3.0,96,1.0
+7,Wg-Tn-Z2Ck6PbYuIiNYXpg,Hungry Ghost,hungry-ghost-brooklyn-2,3.0,75,1.0
+8,VoIhz-TKteJi_V-Z2ZDelA,9th Ave Deli,9th-ave-deli-new-york,4.0,1,
+9,C7eNzsZ-3ni4SHwwR_zg9Q,Flor Cafe,flor-cafe-brooklyn,4.5,14,
+10,WBQPnEuUm8BfAylBov_MGg,Matto Espresso,matto-espresso-new-york-20,4.5,32,1.0
+11,vxtqCBTxwtEv64AqGFmNcQ,Bagel One & Deli,bagel-one-and-deli-edison-2,5.0,4,
+12,9FS4IF4NcflcfICXd0MPyQ,Bagel Bistro Diner & Grill,bagel-bistro-diner-and-grill-staten-island,2.5,87,2.0
+13,GlPJPpKvPR4d8dmcSEYpdA,Takahachi Bakery,takahachi-bakery-new-york,4.0,899,2.0
+14,MaqOf2swTH-HnXqL7kUPjg,Hidden Grounds Coffee,hidden-grounds-coffee-jersey-city-2,4.5,106,1.0
+15,Zt5cZJ1x8VvmfsN__aFLxA,Lil Jay's,lil-jays-new-york-2,4.0,4,
+16,BpXlQ2Ra_namHlrCgT6dYg,The Corner Cafe,the-corner-cafe-new-york,2.5,134,1.0
+17,1YIwVc2Djh6FFFBbmtdUHw,Little Zelda,little-zelda-brooklyn,4.0,193,1.0
+18,XaIPH8-rO_KIrDYkthXQLw,Le Cafe Coffee,le-cafe-coffee-new-york-11,2.0,6,
+19,igQ9CK71aQZyNXNbfNhVtQ,Cafe 11,cafe-11-new-york-4,4.5,35,2.0
+20,jBn3NZmLK9uFT9QeeIcfvw,Irving Farm New York,irving-farm-new-york-new-york-14,3.0,86,1.0
+21,_cIkwJKWMWINC5lTcLn91A,Fallsburg Bagels,fallsburg-bagels-borough-park,3.0,6,1.0
+22,lxKFLdnWRglNVQg7O20-RQ,Sweet Life Pastry,sweet-life-pastry-new-york,4.5,113,1.0
+23,6HN8buUEzI2tz1daq5ivKw,Jillys Off the Corner,jillys-off-the-corner-flatlands,4.0,47,2.0
+24,qFmSF08s_9OYPPokDU5X2Q,Holmdel Bagel Market,holmdel-bagel-market-holmdel,4.5,20,1.0
+25,OijOkEDjBlIw7v9tbBTGVQ,Lenz Delicatessen,lenz-delicatessen-new-york-39,3.5,33,1.0
+26,ZDtyYo8S3vsUB_hmBma-rw,Rutherford Bagels & Deli,rutherford-bagels-and-deli-rutherford-2,4.0,15,1.0
+27,J1ociP0f_wRyb3uY8H2AeA,Cafe Fresco,cafe-fresco-new-york-3,3.0,101,1.0
+28,Gam--Dhp7kQOmbTJZYt_kg,Blue & Gold Deli,blue-and-gold-deli-new-york-2,4.0,25,1.0
+29,sgKSQUu1ISc8kni6z_v3Jw,Catania Bakery,catania-bakery-brooklyn,4.0,51,1.0
+30,GqQ5J5nfBp0Q4FkKwvvqKw,Martha's,marthas-jersey-city-2,4.5,49,1.0
+31,sduwD90MCPMeeZeS5XixWw,Bagels On The Hudson,bagels-on-the-hudson-hoboken-3,2.0,266,1.0
+32,YLVvBYOumnR9ewrrqQbcxA,Anthony & Son Panini Shoppe,anthony-and-son-panini-shoppe-brooklyn,4.0,319,2.0
+33,86d1dsvm9dyARtaAQmjfUg,Rudy's Pastry Shop,rudys-pastry-shop-ridgewood,4.5,221,1.0
+34,rMpfR1WeL01Up3Jw6Kcnsw,Pompton Lakes Hot Bagels & Deli,pompton-lakes-hot-bagels-and-deli-pompton-lakes,4.5,18,1.0
+35,fFbbQLGkb8DAtZXWeiC8YA,One For The Road,one-for-the-road-flushing,4.5,35,1.0
+36,dkTY6w-Cl4spq-AIXFDDPw,Bagel Pantry,bagel-pantry-metuchen,4.0,109,1.0
+37,QlRrzhwmJVtf3xlDGKez7g,The Winners Circle Deli,the-winners-circle-deli-yonkers,4.0,2,
+38,hRR5al7MQ-Pn3xXq6OIMqg,Bagel Box,bagel-box-little-ferry-2,4.5,40,1.0
+39,KJGj2BhJ61oNuToxCCijcg,Crocus Juice Bar and Cafe,crocus-juice-bar-and-cafe-brooklyn,4.0,45,1.0
+40,b5x-Fw7I7Y88TdFIzvbsnw,Supermoon Bakehouse,supermoon-bakehouse-new-york,4.0,706,2.0
+41,0vuzpq5d_KdFHDmBblKuVg,Your Way Cafe,your-way-cafe-brooklyn-2,4.0,102,1.0
+42,pg-crIvq6f5Cl6mGohzkTA,UGC eats!,ugc-eats-new-york,4.5,85,1.0
+43,Xb5TPvCRdjXtkaj1YhMM1g,Lords Bakery,lords-bakery-brooklyn-2,4.0,179,2.0
+44,U5hCNNyJmb7f3dmC1HTzSQ,Junior's Restaurant & Bakery - 45th St.,juniors-restaurant-and-bakery-45th-st-new-york,4.0,4619,2.0
+45,6yxptRwmmGd0rpKLW7TZig,M & O Bagels,m-and-o-bagels-ny,3.0,17,1.0
+46,VKKXe8TdToQN5vXfxj5csg,Mani Market Place,mani-market-place-new-york,4.5,70,1.0
+47,HBYFOVaIl_RMWRamjwOjYg,Stage Door Deli,stage-door-deli-new-york-2,3.5,133,2.0
+48,JTTwxCJ8SZxnPTmmjt8e9w,Bagel Hut,bagel-hut-great-neck,4.0,63,1.0
+49,1KS8IU6SY_bN6L595KG6pQ,Black Rail Coffee,black-rail-coffee-hoboken,4.5,112,1.0
+0,pcZPzVJ9DRYXKji-OdWGPg,Bagels Bread & Butter,bagels-bread-and-butter-staten-island,2.0,21,2.0
+1,eq_jhDw9D38RAhyv09axTg,Effy's Cafe,effys-cafe-new-york-7,4.0,230,2.0
+2,RwKdOmt4ebKb773FBEZ3rw,Oh! Bagel Cafe,oh-bagel-cafe-brooklyn,3.0,15,2.0
+3,PdcB4daCohIe1kvUNspmJA,Oakwood Bagels,oakwood-bagels-staten-island,5.0,1,
+4,hH5PbL-5BpYKKhJhkD_kqA,Broadway Bagel,broadway-bagel-new-york,4.0,176,1.0
+5,w8Mv4_Yiw5JGPV5BP0N5og,Corvo Coffee,corvo-coffee-new-york-2,4.0,107,1.0
+6,ipygjHXH9PqQS6aqU54RcQ,Partners Coffee,partners-coffee-brooklyn,4.0,469,2.0
+7,FICG_p7mO509HRE-VewuKw,Angelica's Bakery,angelicas-bakery-bronx,4.0,13,2.0
+8,r0rFKMVM8Mpsztx50FZg9Q,Lexler Deli,lexler-deli-new-york,4.5,25,1.0
+9,AFc0FcQ5D0rTLATtWbD_Jw,GFG Bakery Cafe,gfg-bakery-cafe-new-york-3,4.0,50,2.0
+10,46z14Ecw4FafVjlgo2RS1A,Old Fashioned Malatesta Deli Italy,old-fashioned-malatesta-deli-italy-union-city,5.0,1,
+11,CXgpu7gm6ofb_ldC_q9GmA,BB Cafe,bb-cafe-long-island-city,4.5,16,1.0
+12,ApF_UL51-gi8lRcv5fn-IQ,Traditional Bagel Café,traditional-bagel-café-new-rochelle,4.5,42,1.0
+13,hmicWRy8GryJVu1agXzDyQ,US Bagels,us-bagels-valley-stream,4.0,42,1.0
+14,E2Pil7qZLKNdK0wuKzkFTA,Zabka Coffee,zabka-coffee-brooklyn,4.5,82,1.0
+15,ufxPNPXGdOwq51kXjOnmqg,Hole Lot Of Bagels,hole-lot-of-bagels-middletown,4.0,22,1.0
+16,YnU0iNHkOZ1FgDGGNzJ5-Q,Tin Cup Cafe,tin-cup-cafe-greenwood,4.5,76,1.0
+17,ip733nbgjaMMazfQ-Ibhgg,Fiat Cafe,fiat-cafe-new-york,4.0,573,2.0
+18,FFQ6Ie0Mat3I9W7X4W6b2A,Wonder Bagels,wonder-bagels-jersey-city-2,4.0,101,1.0
+19,H2_mpDKae_hILgi0AG_9_A,Tap NYC,tap-nyc-new-york,4.0,182,2.0
+20,OkMo8pzx8RuGs16ngYBoSw,Jack's Stir Brew Coffee,jacks-stir-brew-coffee-new-york,4.0,240,2.0
+21,hJTvq7akdVyH8-pt19xs1A,South Shore Hot Bagels,south-shore-hot-bagels-staten-island,3.5,11,1.0
+22,uiq5ORHkzOa71MUwPdhf0w,Sunrise Hot Bagels,sunrise-hot-bagels-belleville,3.5,74,1.0
+23,F8hD8eWZKBts0s3A09vomQ,Hot Bagels Abroad,hot-bagels-abroad-bloomfield,4.0,142,1.0
+24,2AZdpFlCCNyxmL-d58ZRsA,94 Corner Cafe,94-corner-cafe-new-york,3.0,130,1.0
+25,zV1_EFMN4VY7Rxpv7P-ajg,Sunflower Cafe,sunflower-cafe-new-york-5,4.5,91,2.0
+26,jF2iygogFDhvY-54GQbf7A,Matto Espresso,matto-espresso-new-york-15,4.5,70,1.0
+27,yXdw3AZIp1Rk9ps2iqsFyw,Simon Sips,simon-sips-new-york-4,4.5,205,2.0
+28,gPattIGuKxCgeNjxfEMDjg,Punjabi Junction Of 87th,punjabi-junction-of-87th-new-york,5.0,1,
+29,Yv4bJB1CFW51q8cWCaCFrw,Jessie's Express Cafe,jessies-express-cafe-new-york,4.5,33,1.0
+30,ByH84cSMYH-zgPCiU7W5gg,Nature's Vida,natures-vida-woodside,3.0,25,2.0
+31,XvUI9Hs4ssljXf4u91geOA,World Famous Deli,world-famous-deli-brooklyn,4.5,12,
+32,p0Q6wmBzOw7f3NAyVP3gbQ,Kosher Bagels Avenue M,kosher-bagels-avenue-m-brooklyn,3.0,6,2.0
+33,MjkCDpn7zYYXj2bBP3Oadw,Black Star Bakery & Cafe,black-star-bakery-and-cafe-new-york-2,4.0,28,
+34,xs6umHYXU6S5oGEFY_VNsQ,Bean & Bean,bean-and-bean-new-york,4.0,177,2.0
+35,gz3NdExvgLuhZTs4wqTzfQ,Green Island Gourmet,green-island-gourmet-brooklyn,4.0,1,
+36,FYTYlcDiqidBZfl0lNibMg,Corner Cafe and Bakery,corner-cafe-and-bakery-new-york-3,3.5,277,2.0
+37,QsFq1abNnINgrvOO6hIK3Q,Cafeccino Bakery,cafeccino-bakery-bronx,4.0,25,1.0
+38,IReRSHK0JWe2JjwKdQV1sA,Tre Jolie Cafe,tre-jolie-cafe-new-york,4.0,5,
+39,lSeEbTefwsBytTjOigFLlQ,D&D Coffee Shop,d-and-d-coffee-shop-brooklyn,4.0,125,2.0
+40,S6IQCCdE-HW_RTzdlJdOjQ,Barry's Bagel & Deli,barrys-bagel-and-deli-clifton,4.5,90,1.0
+41,zmpeq71GTWfiub4cpBLvVA,Wally Bagel Nosh,wally-bagel-nosh-river-vale,5.0,1,
+42,qQyknbv7ndx0HslLZd7xyg,a.cafe,a-cafe-new-york-3,4.0,271,2.0
+43,ljyoKg8UYnAbXiZ6xCN8UA,The Bagel House,the-bagel-house-lodi-2,4.5,80,1.0
+44,a4X1S6_9uB-08tIAjkMgSg,Bagel Depot,bagel-depot-staten-island,3.0,39,2.0
+45,jcZC0RPaCV9nQWR-Gr2wTg,The Chameleon BK,the-chameleon-bk-brooklyn,4.0,8,
+46,ngrgNE6xT54amiZvxGttWw,Aubergine Cafe,aubergine-cafe-woodside-3,3.5,325,2.0
+47,wwiA9nw0PStaMUPOkm1eYA,Ave L Fish Market,ave-l-fish-market-brooklyn,3.0,1,
+48,HxZflyUo1VWE6lF_b_rHVA,Choice Market,choice-market-brooklyn-6,3.5,420,2.0
+49,JmMRyBzsu49Inhr7ifEWlA,Dunkin',dunkin-glendale-5,5.0,1,
+0,Yw6HeHZ0OutaEHlcQY35GA,Willoughby Food Bar,willoughby-food-bar-brooklyn,2.5,3,
+1,MsJPsCkbhXkuTy7ph4AqMA,Aminas Cafe,aminas-cafe-bronx-2,5.0,10,
+2,4kiTp1WyohpXl-DKvi0WGQ,Hearts Coffee Bushwick,hearts-coffee-bushwick-brooklyn,4.5,52,2.0
+3,9BM1-Obd5Dr8pErgyBbQAQ,The Commons Chelsea,the-commons-chelsea-new-york,4.0,227,2.0
+4,4EUiVxf2XxfwI9iVVpeWsw,PROOF Coffee Roasters,proof-coffee-roasters-new-york-11,4.0,102,1.0
+5,KE8DUBYGMz77qWQ-M6RvMQ,Ben's Bagel Barn,bens-bagel-barn-little-ferry,3.5,52,1.0
+6,vKysdsE8IjOtNgSmEQd0og,Capri Bakery Corp,capri-bakery-corp-new-york,3.5,62,1.0
+7,HZRxPgfZRt6Fk6xITFLUhA,Shop & Save Superette,shop-and-save-superette-staten-island,4.5,7,
+8,j4hNAUnUId3uEhIQ6H7YgA,NY Bagel Cafe & Deli,ny-bagel-cafe-and-deli-brooklyn,3.0,8,
+9,gB_t2bkDs-uirtHEF-3D3Q,Zaro's Family Bakery - Grand Central Terminal Track 19,zaros-family-bakery-grand-central-terminal-track-19-new-york,3.0,280,1.0
+10,3-FFgn_V1xLRqQ6YnQ2eZQ,Merit Deli & Restaurant,merit-deli-and-restaurant-long-island-city,3.0,12,1.0
+11,w3rPFqs3rE0-7BWfFP23iw,Delectica,delectica-new-york,4.0,243,2.0
+12,yQtRrd89SOrvVDaNCWTAZA,Heights Deli & Convenience,heights-deli-and-convenience-brooklyn,4.0,8,2.0
+13,PVnBdZsxd9EdSUxkyZB_xw,The Caffeine Underground,the-caffeine-underground-brooklyn,4.5,62,2.0
+14,E-GX-rlK5cfzROGr215lDg,The Point Cafe and Bascom Catering,the-point-cafe-and-bascom-catering-new-york,4.5,8,1.0
+15,xRM1-_CXdJUZeQkMz6Jv4g,Hot Bagels Abroad,hot-bagels-abroad-montclair,4.0,89,1.0
+16,59dulpe8fTkvAtDVIdAW4Q,Brooklyn Whiskers Bakery,brooklyn-whiskers-bakery-brooklyn-2,3.5,162,1.0
+17,ewqjBbfqSivCuRmeEqulbA,Europe Bakery,europe-bakery-brooklyn,4.5,7,1.0
+18,_a934XViNUHvqt-WccXCzg,One Two Cup Cafe,one-two-cup-cafe-jersey-city,4.5,16,
+19,oqeeOpA2S6U02nUGa8Ot7g,Alison,alison-new-york,4.5,28,2.0
+20,kND0VNLb0XeP_-alnZOV-Q,Main Street Bagels,main-street-bagels-flushing,3.0,35,1.0
+21,rUmYzsdlt8K6f_x7qH3SsQ,Nostrand Donut Shop,nostrand-donut-shop-brooklyn,4.0,36,1.0
+22,9leK2QhjSicEvaLqDSYO7Q,Terry's Coffee Shop,terrys-coffee-shop-union-city,4.0,34,1.0
+23,gyYMq04u0O7nS9SHgnioIw,The Brooklyn Commons,the-brooklyn-commons-brooklyn-2,3.5,37,1.0
+24,dKgMlvm_kcm6eLxCjkCwGw,Forest superette and bagels,forest-superette-and-bagels-staten-island,2.5,3,1.0
+25,Ae0pvFVwDRYMno-6O99_WA,Cafe to Go,cafe-to-go-astoria-4,4.0,90,1.0
+26,fvnFS0CRkLSVXy-SWhC3pQ,NY Grill & Deli,ny-grill-and-deli-new-york-3,4.5,13,
+27,F2TE6sQpywj3bkVi8L_nLw,Toasties,toasties-new-york-9,3.5,177,1.0
+28,OuOZvwj78ve_r9F-cRNdIg,Bagel House,bagel-house-staten-island-7,2.5,27,1.0
+29,kkp7VKm-A-IOeFyXNFAM2w,Brooklyn Standard,brooklyn-standard-brooklyn-5,3.0,246,1.0
+30,fArdIQZgU875aQSxI2FscQ,Manhattan Bagel Co,manhattan-bagel-co-spotswood,4.5,32,1.0
+31,64yrGc7EDNd09ZmhUrizCw,Birch Coffee,birch-coffee-new-york-8,4.0,238,2.0
+32,N10LsPnytFChTWzIcoh4Iw,Boxcar Bagel & Deli,boxcar-bagel-and-deli-bogota,4.5,76,1.0
+33,1mCgyPRtmng-AUKKeUreNg,Between The Bun,between-the-bun-south-richmond-hill-11,3.5,25,1.0
+34,FUBeHLbephckTEfK95Tiow,Boogie Woogie Bagel Boys,boogie-woogie-bagel-boys-weehawken,2.5,11,1.0
+35,8MG8mxoa11qsTwZivLfHJg,Peter's Hot Bagels,peters-hot-bagels-bayside,3.0,30,1.0
+36,OEgCPGT4WJkDE1-q8I1TzQ,Sam's Deli,sams-deli-new-york-2,4.5,28,1.0
+37,6OWMji5GiqRlRPZSb1lJ4A,Fay Da Bakery,fay-da-bakery-new-york-10,4.0,231,1.0
+38,szM1B9tHQixNsmTZTfKoWA,Lincoln Station,lincoln-station-brooklyn,4.0,267,2.0
+39,2norbboVSm9YJ8vEgpK_SQ,Tal Bagels,tal-bagels-new-york,2.5,195,1.0
+40,gZeMNO7BlD_M-hk63LWPzw,Best Coffee Shop,best-coffee-shop-brooklyn-4,4.0,35,1.0
+41,m-9ryU6cAZ-bhqdffnjpXw,The Bagel Mania,the-bagel-mania-matawan,4.0,29,1.0
+42,ke3IQX15VGwmGWjPmoWf3w,Bagel Base,bagel-base-elmwood-park,4.0,56,1.0
+43,xnbdnyTjUwoHS5c8UA1P5A,Finest Deli & Smokeshop,finest-deli-and-smokeshop-brooklyn,5.0,1,
+44,-3EzItPeAwR_6aAIbFAlDA,Green Basket & More,green-basket-and-more-brooklyn,5.0,11,1.0
+45,qe_jQ6BDPkwM6wcxl7KyxA,The Bagel House,the-bagel-house-verona,5.0,18,
+46,ac-bOjdAufgOnRHg_6gr1g,Wonder Bagels,wonder-bagels-jersey-city-3,3.5,50,1.0
+47,kruWPcsITSaIlFieL1gGhg,Chatham Bagels,chatham-bagels-chatham,4.5,23,1.0
+48,S3Fw7s_GA94lJLbLFrqZrw,Bouchon Bakery & Cafe,bouchon-bakery-and-cafe-new-york-2,4.0,1372,2.0
+49,Y7wQB78Rv7W8Pvw-MZTRGA,Cafe Social 68,cafe-social-68-new-york,5.0,9,
+0,qg2lEM3NH-NmmqeTyDZtBw,Salvo's Family Market,salvos-family-market-new-york,4.5,3,
+1,ioU-u4PIgRcq_RwoFXg4hw,Nordic Preserves Fish and Wildlife Company,nordic-preserves-fish-and-wildlife-company-new-york,4.5,27,2.0
+2,dHJIN0ED7cDhO5YlWupW8g,S.k. Deli Market,s-k-deli-market-new-york,4.0,55,1.0
+3,mn28ggssMqUYqDBqpbGpoQ,City Bagels,city-bagels-staten-island,4.0,4,1.0
+4,RzSh7m8-PEiYYVrxsYcL_g,Celebrity Bagels & Restaurant,celebrity-bagels-and-restaurant-tenafly,3.5,93,1.0
+5,5QszELqJFqeFgpeujfknlQ,Filicori Zecchini,filicori-zecchini-new-york-5,4.0,190,1.0
+6,uOPewxBt6js1jWnYqtbZ9g,Espresso 77,espresso-77-jackson-heights,3.0,398,2.0
+7,q6SEFWagzMD5HYJXi-_Lfg,Fort Place Deli,fort-place-deli-staten-island,4.0,4,1.0
+8,KcEibAoIUQp6rl81u77vRA,River Road Hot Bagels,river-road-hot-bagels-fair-lawn,4.5,141,1.0
+9,0gHKcrQlEuDUsCr3YuWSDA,Idea Coffee,idea-coffee-new-york-2,4.0,156,1.0
+10,396bGT_3GVtQmz8oCFr5pg,Tony's Metro Bagel Grill & Cafe,tonys-metro-bagel-grill-and-cafe-jersey-city,4.5,3,
+11,kSNAky2m13fG4Y3Q0arqFg,Everyman Espresso,everyman-espresso-new-york-2,4.0,171,2.0
+12,UNSdhsl2KL6w92ovHlFh9A,Eisenberg's Sandwich Shop,eisenbergs-sandwich-shop-new-york,3.5,616,2.0
+13,1BpJdbEdJzfIqpmbqxv0wg,Round The Clock Deli,round-the-clock-deli-new-york-2,5.0,3,
+14,I2SzUeVcsGBN5RIf-NYqKg,Bagel Plus,bagel-plus-scotch-plains,4.0,14,
+15,2xb7iTP8NcW-Wf0fZfnBJQ,House Party Cafe & Lounge,house-party-cafe-and-lounge-brooklyn-2,4.0,51,1.0
+16,sSOz6HN00_jjE9ncvyqJAQ,Palisade Bagel,palisade-bagel-fort-lee,3.0,59,1.0
+17,5UR2nOXYZAakXAoHHoBqNg,7th Avenue Donuts,7th-avenue-donuts-brooklyn-36,3.5,242,1.0
+18,Jv1bkS4Nfst1fu1PY7UvmA,Bakery Boys of New York,bakery-boys-of-new-york-corona,4.0,16,1.0
+19,30y7mq7RQzln0GslEfobAQ,Common Good Harlem,common-good-harlem-new-york,4.5,43,1.0
+20,rmySpu2HR1ieFVeDa7bj_A,Yura on Madison,yura-on-madison-new-york,3.5,142,2.0
+21,PSvmKoXb8vpLgh-LbcEvXQ,Grey Cafe,grey-cafe-flushing,4.5,21,1.0
+22,uk34HIU-ILX2A-FRs1Or3g,Kaffe 1668 South,kaffe-1668-south-new-york,4.0,689,2.0
+23,NXvuc-Fjt1-GiloP_b5JsA,Summit Bagel,summit-bagel-summit,3.0,28,2.0
+24,doBm7WkYKNG-KRExevrRtA,DTUT,dtut-new-york,4.0,493,1.0
+25,D4bIrw8mKjec-1Q-341lww,Nyc Bagel,nyc-bagel-new-york,4.0,4,1.0
+26,OMHH97xIajGoCK_G-X3x_Q,The Coffee Inn,the-coffee-inn-new-york,4.0,156,1.0
+27,qcvGRJT3QedXz7p3_CDmmA,Bel Ami,bel-ami-new-york-2,4.0,189,2.0
+28,MQa-1Xg_sZA_XMgiNPn7Iw,Gotan - Williamsburg,gotan-williamsburg-brooklyn-2,4.0,133,2.0
+29,31PVkhg390bKOnkGxD8kRw,Howard Beach Bagel Cafe,howard-beach-bagel-cafe-howard-beach-3,3.5,85,1.0
+30,XFZ2amp5ROae_scM9Wxhkg,Knapp Street Bagel Cafe,knapp-street-bagel-cafe-brooklyn,2.5,48,1.0
+31,dFPLilNrMi9KhhXQTEix5w,1 Up Bistro,1-up-bistro-new-york,3.5,5,
+32,2l0dBpaoPVQ1JwD7CaQu-w,Madman Espresso,madman-espresso-new-york-4,4.0,273,2.0
+33,mekpRq6Iak0kuUUNWxcC3A,Balducci's Gourmet On The Go,balduccis-gourmet-on-the-go-new-york-2,3.5,98,2.0
+34,5WdsgeCz2WwN57B-eYZi7w,The Grey Dog,the-grey-dog-new-york-6,4.0,319,2.0
+35,dscslnybf6U6T8NNaiQ6lw,The Corner Spot,the-corner-spot-astoria,4.0,42,1.0
+36,OoUNzhhUtWDZ9rHtUy8IUg,Toasties,toasties-new-york-3,3.5,131,1.0
+37,vROhrixoUwnGr3rgAqGNyw,TB Coffee House,tb-coffee-house-brooklyn-2,4.5,21,
+38,qdmqhIYedl_AFR_sXyYfKA,East Way Gourmet,east-way-gourmet-new-york,4.0,5,2.0
+39,DV8rKmyE2OtBfyGnP_GAqg,NB National Bakery,nb-national-bakery-bronx,4.5,3,
+40,jOE0_m13vCS2V8D1TbfwUA,SHM Bagel Coffee Shop,shm-bagel-coffee-shop-brooklyn,4.5,2,
+41,iCMeFG8EazuLlq5ZWlODFw,Ike's Bagel Cafe,ikes-bagel-cafe-livingston,4.0,68,1.0
+42,jUPnFlGck-qlxnJjfHb2Qw,Mrs. Bagelsworth,mrs-bagelsworth-fort-lee,3.5,26,1.0
+43,_VCzzLUyZ_jGhHq3Ju2RkQ,Magic Bagels,magic-bagels-valley-stream,4.0,86,1.0
+44,ZVjz_dLXbWlkx26G0-3gNQ,Sonny's Bagels,sonnys-bagels-south-orange,4.0,92,1.0
+45,X50NTjRHh90rwwF3nO-9og,Manhattan Bagel,manhattan-bagel-bayonne,2.0,52,1.0
+46,o2oT5CHhCBxkBOIokAizrQ,Bagel Bistro Grill,bagel-bistro-grill-little-falls,4.0,48,1.0
+47,0N-FjFd15FuD4eTGhSUCFQ,Columbus Cafe,columbus-cafe-new-york,3.5,50,1.0
+48,0tTv7zhaXi_T9053mHXzxg,Glow Joe Cafe,glow-joe-cafe-bayside,4.5,37,1.0
+49,yJdzvnFvCHeVrnOdEOWGvw,Lenwich,lenwich-new-york-33,4.5,3,
+0,nx-3KRyQfJ0Bjimdh3gNEA,Andy's Delicatessen,andys-delicatessen-middle-village,4.0,88,1.0
+1,avvK7h7t3lBK_0UKU5XUfw,S & T Bagels & Deli,s-and-t-bagels-and-deli-staten-island,3.0,5,
+2,y4NLu4YIlqs-74U52r7oXQ,Pleroma,pleroma-new-york-2,3.5,35,
+3,MEH6UxnBDhzPl47DDd56KA,Bond St. Coffee & Goods,bond-st-coffee-and-goods-brooklyn,5.0,11,
+4,n3SS-2ZzZwd1tr_yYysYkA,Dunkin',dunkin-brooklyn-2,3.0,1,
+5,CGIoJRaFzm0piEr44WEZyg,Simit Sarayi,simit-sarayi-new-york-2,5.0,1,
+6,-ic13XJ9ekpEfshQFPKL4A,Grandchamps Kitchen & Market,grandchamps-kitchen-and-market-brooklyn,4.0,219,2.0
+7,SHA7V91Pg7CB_JLFE4T-xw,Zaro's Family Bakery - Penn Station 7th Ave Entrance,zaros-family-bakery-penn-station-7th-ave-entrance-new-york,3.0,237,2.0
+8,EyVUBI2vHJ0ZX2WU0D21BA,Bagel Power,bagel-power-scarsdale,4.0,23,1.0
+9,Qyluj1pQN3QAwaslpJSQ3g,The Grind Shop,the-grind-shop-jersey-city,4.5,123,2.0
+10,rAjrbtoJ9RMZSGbOiJUNPw,Wonder Bagels,wonder-bagels-bayonne,3.5,42,1.0
+11,Z0vgO-JoBL5bZ5U_8DfMfQ,Firefly Petite Café Bistro,firefly-petite-café-bistro-sunnyside,4.0,118,2.0
+12,UO2o8SxxDTixFIEFICdQQQ,Lincoln Gourmet Deli,lincoln-gourmet-deli-new-york,4.5,6,
+13,7WaoCgLZZUE4Gbv-AbQi3Q,Bagelwich Bagel Bakery,bagelwich-bagel-bakery-verona-2,4.0,103,1.0
+14,sSQ3dtC8nbfeT6srFiiIlA,Stumptown Coffee Roasters,stumptown-coffee-roasters-new-york,4.5,1401,2.0
+15,xiLQyzHpq7gOrdYheDwmVw,K C's Bagel Express,k-cs-bagel-express-pompton-plains,4.0,59,1.0
+16,LTx8jkXzTTqZRMOIEQ0lmw,Think Coffee,think-coffee-new-york-15,3.0,52,1.0
+17,MUSEeKLhwKe9aWXi0UBPBg,Brooklyn's Best Bagels,brooklyns-best-bagels-newark,3.0,13,1.0
+18,2vKlin66aGXTsLeqoHLELA,Vittles Cafe,vittles-cafe-brooklyn,4.0,36,1.0
+19,BAPjyr1XCBU1A2766wdpNg,Familiars Vegan Coffee Shop,familiars-vegan-coffee-shop-brooklyn-2,4.5,24,
+20,39U7fyFziKnbG9h-Tb9AdA,L Stop gourmet deli,l-stop-gourmet-deli-brooklyn,5.0,7,
+21,96uKJMiLA-evrXcH_n0MjQ,The BGL,the-bgl-nutley,4.0,188,1.0
+22,nLftrsCMZX_k43jSWgnKUA,Sit & Wonder,sit-and-wonder-brooklyn,4.0,241,1.0
+23,L-xJ4MIzPRfvL3LgLEWTOA,Le Basket,le-basket-new-york,3.5,92,1.0
+24,RgXT9Pkui7IuWua2K9yuHA,Rossy's Bakery,rossys-bakery-new-york,4.0,61,1.0
+25,66teFLJ_J_-I3a-46RkEkg,Toasted Bagels & Deli,toasted-bagels-and-deli-jersey-city,3.0,25,1.0
+26,UO9pQyyFw3mxgRf8HJXZsw,Heritage Bakers,heritage-bakers-glen-cove,4.5,24,2.0
+27,050d9NQK31HvuLHe1w7W_w,Tenafly Hot Bagels,tenafly-hot-bagels-tenafly,4.0,12,2.0
+28,hx1wXss808N4dDoGQRAC3w,Bueno East Mart,bueno-east-mart-new-york,4.5,3,
+29,asW_ljefQQam9zjc9ZQaMw,Oslo Coffee Roasters,oslo-coffee-roasters-new-york,4.0,247,1.0
+30,EpnNykINCMkRMJmDUL8GdA,In Between Dos Cafe,in-between-dos-cafe-queens-2,4.5,14,
+31,cBxp4jTpdzuhH4h8FXHhWQ,The Muffins Cafe,the-muffins-cafe-new-york,3.5,135,1.0
+32,h7M1s9arHO5dcMf-XxzOLA,Ebb & Flow,ebb-and-flow-brooklyn,3.5,9,
+33,qFb-KpcmH9-ejR6z-s97hQ,Hillside Bagels & Deli,hillside-bagels-and-deli-hillside,4.0,10,
+34,kQYr5gMsHB-n0cQr8G6TCQ,Everything Bagel,everything-bagel-paramus,4.0,24,
+35,gAPKLYpgVwpbVRzCAVmRbA,The Craftsman,the-craftsman-new-york-2,4.0,130,2.0
+36,MGpLWMlnZhAvlxItueKKng,Jefferson Midtown,jefferson-midtown-brooklyn,5.0,1,
+37,XskangHFq3JD9klJFuGH8w,Doughnut Plant,doughnut-plant-new-york-2,4.0,2494,2.0
+38,ZfW9wwVYsY5H5-CmxePs1Q,The Skilled Archer,the-skilled-archer-brooklyn-2,4.0,3,
+39,UURce9vJvMsM4DF7BAKs0A,Zaro’s Family Bakery,zaro-s-family-bakery-new-york,4.5,6,
+40,uWvId20JfT0R9Jz-9f1dIw,Veritable,veritable-new-york,3.5,76,1.0
+41,cdFNd99vsgCHjLBjICtfgA,Bagel Plus & Cafe,bagel-plus-and-cafe-nutley,4.0,23,1.0
+42,QKAm46V40Af7faLSUi0hrQ,Howard's Bagels,howards-bagels-montville-2,4.0,23,1.0
+43,AV-5_5fLf_W0-MJbIb1boA,4th Avenue Food,4th-avenue-food-brooklyn,3.0,1,
+44,b9eB9hyMKDZ2yuRy0PGI9A,Delgado News,delgado-news-new-york,5.0,12,1.0
+45,vB58wINYM8j2BR6_7emzDg,Cafe Bora Bora,cafe-bora-bora-rego-park,3.0,18,2.0
+46,N8Y9fFwPprct8fBQEceG9g,Murray's Cheese Shop,murrays-cheese-shop-new-york,4.5,672,2.0
+47,wFDu6tIho2HPjhNlcgRQlg,Jenny's Coffee Shop,jennys-coffee-shop-brooklyn,3.0,19,1.0
+48,tUr113zDUJh3ujwvRv62Sg,Brunswick Bagels and more,brunswick-bagels-and-more-east-brunswick,3.5,60,1.0
+49,X-CjZu0SesP_pVHMN3Ik1g,Cafe La Cerra,cafe-la-cerra-new-york-2,4.5,3,
+0,VrCCr45dhN-RRM107iptdg,Russ & Daughters,russ-and-daughters-new-york,4.5,2210,2.0
+1,j1S3NUrkB3BVT49n_e76NQ,Best Bagel & Coffee,best-bagel-and-coffee-new-york,4.5,3305,1.0
+2,JV5oa5-KGdiWnqrKPoxSug,Absolute Bagels,absolute-bagels-new-york,4.5,1391,1.0
+3,c3eMI4_o4dPDDhPV_ibBYQ,Ess-a-Bagel,ess-a-bagel-new-york,4.0,3581,1.0
+4,oi39VAwo4-KGm_gSkWPCsQ,Tompkins Square Bagels - Avenue A,tompkins-square-bagels-avenue-a-new-york,4.0,1091,1.0
+5,Gpc2-sPCXlIQUrkfi4bpzw,Court Street Bagels,court-street-bagels-brooklyn,4.0,201,1.0
+6,U43uuWwSyH95gXsUhejd4w,La Bagel Delight at Dumbo,la-bagel-delight-at-dumbo-brooklyn,3.5,145,1.0
+7,pb_ryc8FYHpUPV56eV2Eyg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-2,4.0,1429,1.0
+8,foO2N-TrdPBO-dFn6M35TA,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-new-york-8,4.5,111,1.0
+9,u9zVZH0liQu9skIz1kGrMA,Heaven's Hot Bagel,heavens-hot-bagel-new-york,4.0,199,1.0
+10,GLf8_rOnkszkGmPAiMzO9Q,Bread & Spread,bread-and-spread-dumbo,4.5,144,2.0
+11,7eNqRj9iCdxcORVTxexvuw,Greenberg’s Bagels,greenberg-s-bagels-brooklyn,4.5,6,
+12,Ys9iYSjuFDpZj7B1X07v5g,Liberty Bagels Midtown,liberty-bagels-midtown-new-york-3,4.5,482,1.0
+13,SCornvTSCMQ2SvWGq8Z_Mw,Ess-A-Bagel,ess-a-bagel-new-york-5,4.0,855,1.0
+14,bb4TLfMexv3XPy864A09ug,H&H Bagels,h-and-h-bagels-new-york-6,4.0,786,1.0
+15,2D7orDrXzflLL1TRmWGPMw,Utopia Bagels,utopia-bagels-whitestone-2,4.5,574,1.0
+16,lQ7H-COT5duZQQ0XqGFPDg,Smith St Bagels,smith-st-bagels-brooklyn,4.0,373,2.0
+17,VImctKXnwzT_zrsc1ssvbg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria,4.5,677,1.0
+18,7HP9pH30Ha7xJsxsdVJBrg,Bagelsmith,bagelsmith-brooklyn,3.5,500,1.0
+19,PiAU4BCl5d9P-NWDvkNY4A,Bergen Bagels,bergen-bagels-brooklyn-2,4.0,369,1.0
+20,s-Fg5eHqv4VCAn2ANkHiZA,Leo's Bagels,leos-bagels-new-york,3.5,867,1.0
+21,tJWQnagxMYkFZXKrdiO3gg,Bagel Hole,bagel-hole-brooklyn-3,3.5,263,1.0
+22,0rQz8mkleT62eUkiAVs4UA,Russ & Daughters Cafe,russ-and-daughters-cafe-new-york-5,4.0,1002,2.0
+23,1s95hIhSQhLroVtp-4uOtw,Black Seed Bagels,black-seed-bagels-new-york-9,3.0,696,2.0
+24,UgTfFaQ_NAyne5OwLtTpXQ,Bagels & Schmear,bagels-and-schmear-new-york,4.0,504,1.0
+25,rdgOCFe30sIaAo6tkXkJ-A,Shelsky's of Brooklyn Appetizing & Delicateseen,shelskys-of-brooklyn-appetizing-and-delicateseen-brooklyn,4.0,186,3.0
+26,PWDSfW-c8198UegLtaTR1A,Russ & Daughters - Brooklyn,russ-and-daughters-brooklyn-brooklyn,3.0,53,2.0
+27,XKWvRI7WI4LotDLUboUUGA,Barney Greengrass,barney-greengrass-new-york,4.0,748,2.0
+28,SSMCUb9erxbOkz6XUgHfKA,Andrew's Classic BKLYN Bagels by Hard Times Sundaes,andrews-classic-bklyn-bagels-by-hard-times-sundaes-brooklyn,3.5,12,
+29,i6UIu3QC2aESANgOR9aycA,Lula Bagel,lula-bagel-brooklyn,4.0,229,1.0
+30,6XX2Ytf8nYqh8dRhz9Kk_g,Mike's Bagels,mikes-bagels-new-york,4.0,198,1.0
+31,2buX7P8YIqcrHSKtqwm92g,Kossar's,kossars-new-york,3.5,514,1.0
+32,BIFbVuIDJFS_2u_8vJxnwA,Tompkins Square Bagels -  2nd Ave,tompkins-square-bagels-2nd-ave-new-york,4.0,216,1.0
+33,WBNXo3byv64a0hn40c9Zuw,Montague Street Bagels,montague-street-bagels-brooklyn,3.0,200,1.0
+34,PIn-UUN953k8K9_Hffef6w,Cranberry's,cranberrys-brooklyn,4.0,131,1.0
+35,l6lg4lqJSkGDFE6Svl5wnw,The Bagel Shop,the-bagel-shop-new-york-2,4.0,120,2.0
+36,FkBFKwF9bDl3BCt3vebHbw,Williamsburg Bagel,williamsburg-bagel-brooklyn,3.5,27,1.0
+37,P91q647NhgyIf7nLc4wYsQ,Frankel's Delicatessen,frankels-delicatessen-brooklyn,4.0,244,2.0
+38,XTa5infpecABoyLZ86EH2w,Bagel Bob's,bagel-bobs-new-york,4.0,178,1.0
+39,n8AfzNmqZUfXZzHtieea_A,Murray's Bagels,murrays-bagels-new-york,3.0,843,1.0
+40,m6FV9h1mMJ9_LZetNOjNjg,Bagelworks,bagelworks-new-york-5,4.0,378,1.0
+41,Xs8jqmmjqm0foupgGFBO_w,New York City Bagel Coffee House,new-york-city-bagel-coffee-house-astoria,4.0,357,2.0
+42,64i-2H8rLLs55RP89Ole4A,Bagel Pub,bagel-pub-brooklyn,4.0,457,1.0
+43,fZYymv8linCo2id7wIokwQ,Bagel Boy,bagel-boy-brooklyn,4.0,250,1.0
+44,Rc9_uzaTwqFTG1LGlbTPxQ,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-2,4.0,239,2.0
+45,w8eAlTI-8pbVecPsWMrEMw,Baked In Brooklyn Bakery Store,baked-in-brooklyn-bakery-store-brooklyn,4.0,233,1.0
+46,T-JA9h3BIZfFNvjwHAAj9Q,Terrace Bagels,terrace-bagels-brooklyn,3.5,353,1.0
+47,Fx_zqaXVgc8BzwIfcbEKkw,BO's Bagels,bos-bagels-new-york,4.5,313,1.0
+48,H6NbVY8wxBL916q3GXBdVg,Tasty Bagels,tasty-bagels-brooklyn-2,4.0,97,1.0
+49,7pqZ3lpAtinvJ6QKOzSXxg,Yorkville Bagel & Cafe,yorkville-bagel-and-cafe-new-york-4,4.0,91,1.0
+0,psx14GCq03cuRCWJIs0CuQ,Bagel Oasis,bagel-oasis-fresh-meadows,4.0,351,1.0
+1,S0QgzOvaw5COMRnKWlVGnA,Baz Bagel and Restaurant,baz-bagel-and-restaurant-new-york-2,3.5,385,2.0
+2,ZP2uwlP0s21sh0wlPR-9Sw,Catherine  Deli and Bagel,catherine-deli-and-bagel-new-york,4.5,2,
+3,u_NC3WVKFelz-PGZ7a97AQ,District bagels,district-bagels-new-york,3.0,71,
+4,S_XtZplc6Gkf1AmsgACryw,Catskill Bagels,catskill-bagels-brooklyn-2,3.0,209,1.0
+5,OtqShhp-cOByPzzdTMZu6w,Knickerbocker Bagel,knickerbocker-bagel-brooklyn,4.0,225,1.0
+6,EfhCZ3CiZeVzFt5E5N0n3w,Bergen Bagels,bergen-bagels-brooklyn-3,3.0,225,1.0
+7,MzSsxuBwJBlHmNFgEiOOeA,Have-A-Bagel,have-a-bagel-brooklyn,3.5,90,1.0
+8,4v5lbiExMocWoG7iKnYWrQ,Black Seed Bagels,black-seed-bagels-new-york-11,3.0,231,2.0
+9,l29pVn4RfU9xYMggiIVOcg,R & R Coffee,r-and-r-coffee-new-york,4.0,209,1.0
+10,h94df8mReXmkPgk2aKt6fQ,The Bagel Factory - 17th St,the-bagel-factory-17th-st-brooklyn,3.5,123,1.0
+11,x3RfohtUQPWHS1l1VfAMTQ,Pick A Bagel,pick-a-bagel-new-york-15,3.5,870,2.0
+12,H_V8VZtIv34atqpI-Z86CQ,Bagel Pub,bagel-pub-brooklyn-2,3.5,303,1.0
+13,kuKSvCZDFrgOrY-dcrOefg,Round K,round-k-new-york,4.5,368,2.0
+14,tRys0z0O4EE8sivXLFZ3kQ,David's Bagels,davids-bagels-new-york,4.0,340,1.0
+15,Sq-1bmvA_jypgubzakledA,Konditori,konditori-new-york-8,4.0,53,1.0
+16,QdmvRfJb86BVvk6A-J5gAg,Modern Bread and Bagel,modern-bread-and-bagel-new-york,4.0,148,2.0
+17,Eed-9O8xP80b4L9zYJ_WOA,Pio Bagel,pio-bagel-brooklyn,3.5,134,1.0
+18,oLYnY3SKNqIwERzZXOc63A,Myrtle Bagel,myrtle-bagel-brooklyn,3.5,78,1.0
+19,pqLyL98DC8daWZofpQQKbg,Toast & Roast Bagels and Coffee,toast-and-roast-bagels-and-coffee-astoria,4.0,68,1.0
+20,bvIXVgn_Do7K7qnqcJmWhA,Tal Bagels,tal-bagels-new-york-7,3.5,126,1.0
+21,TNM-nVhLdoxo_gcpm940Jg,Baker's Dozen Bagels,bakers-dozen-bagels-kew-gardens,4.0,232,1.0
+22,sW9iYflRa6dMyDxKzXP3CQ,Bagel Boy,bagel-boy-brooklyn-2,3.5,315,2.0
+23,k3Dn19cNxNuLlO0lebtDUg,La Bagel Delight,la-bagel-delight-brooklyn-4,4.0,292,1.0
+24,rGfDX_ors68i8LnuG55NQA,Bagel Buffet,bagel-buffet-new-york-116,4.0,54,1.0
+25,aM8SCVt3APBw1kE5Zg0kkQ,Native Bean,native-bean-new-york-2,4.5,91,1.0
+26,Phuu76JEhGysnwfkPTq7kQ,Bagel Bob's on York,bagel-bobs-on-york-new-york,3.5,247,1.0
+27,drSJJWL7lsG8dSRYI--6wQ,NY Bagels & Cafe,ny-bagels-and-cafe-new-york,4.0,206,1.0
+28,lgndZLoGNjS8gSBx-fS-Uw,La Bagel Delight at Court St,la-bagel-delight-at-court-st-brooklyn-2,3.5,159,1.0
+29,TbiFZCNAySD5rYauM1IWlA,NY Jumbo Bagels,ny-jumbo-bagels-new-york,4.0,303,1.0
+30,fRvMiQFYJTc41KFltinpcA,Bagel World,bagel-world-brooklyn-4,3.5,72,1.0
+31,SP6PP2FBAVT6gGQXqf4tkw,Bk Bagels,bk-bagels-brooklyn-2,3.5,122,1.0
+32,TCPkVG3SPMVz8FcXg26ZDA,Cropsey Bagels & Deli,cropsey-bagels-and-deli-brooklyn,4.0,39,1.0
+33,owvn3TwI2oweLWh4D7strA,Comfortland,comfortland-astoria-2,4.0,141,
+34,tQIC8V5c9vwaakcOSv62ig,Hudson Bagels,hudson-bagels-new-york,3.0,127,1.0
+35,2xxX3t7ykIlyoaOXZdRZNw,Bagel World,bagel-world-brooklyn-3,4.0,207,1.0
+36,lLsEzgmXwCoP6OK5ACT1Ig,Ess-a-Bagel,ess-a-bagel-new-york-6,3.5,123,2.0
+37,UcXNrGQqmBtd8f2Lfhhp2g,Bagel Villa,bagel-villa-brooklyn,4.0,53,1.0
+38,RAWYd6j97buZz2DKaDCvVA,Crown Bagel & Deli,crown-bagel-and-deli-brooklyn,4.5,11,2.0
+39,AZIxbXMnIDkGU2P7pOhHkg,Tribeca Bagels,tribeca-bagels-new-york,3.0,147,1.0
+40,0NM2tVB297RZjZrvuTZTvA,The Bad Bagel,the-bad-bagel-brooklyn,3.0,86,1.0
+41,VXB2v7QVe2APSgeSqpmdGw,Bagel Bazaar,bagel-bazaar-brooklyn,4.0,68,1.0
+42,ohgo7IDUn5bOWnDJP9xvYQ,Davidovich Bakery,davidovich-bakery-new-york-2,3.5,107,1.0
+43,0EOWrLcnWEO1pP7bZafofw,Wonder Bagels,wonder-bagels-jersey-city,4.0,461,1.0
+44,lU70uTzcNocJjQQ9CYXT3w,Forest Hills Bagel,forest-hills-bagel-forest-hills,3.5,229,1.0
+45,SQS9wteNCLoVStkVK0oZNA,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-2,3.0,504,2.0
+46,GpdS976Ttv_gs-AAkoDVbQ,Bagel Story,bagel-story-brooklyn,3.0,67,
+47,i-ssN9j_LmixpSDZhzzoUA,Zee Bagels,zee-bagels-brooklyn,4.0,69,1.0
+48,MaJ6q9fTLyRrrO2lzGt_Bw,Juju's Bagels Cafe,jujus-bagels-cafe-jackson-heights,4.5,164,1.0
+49,N1ONVWG0X8mDmk7QFM4DiA,Bake a Bagel,bake-a-bagel-maspeth,4.5,12,
+0,3PAWQuIvJ8DIa5akaF3XYQ,Marcy & Myrtle Cafe,marcy-and-myrtle-cafe-brooklyn-2,4.5,16,
+1,tq7dDT6edTInhkNdDrYv_w,Black Brick,black-brick-brooklyn,4.0,315,1.0
+2,tPfXeeC54I8MLSUE6Tnzcw,Bagel Belly,bagel-belly-new-york,3.0,163,1.0
+3,mOL7TxRDJGutaEtVA8_hUg,Sadelle's,sadelles-new-york,3.5,627,3.0
+4,jewdjZyGcAXIepOeTBae6g,Cafe Panino Mucho Giusto,cafe-panino-mucho-giusto-new-york,4.0,102,1.0
+5,ysFjhHDTuYnTv6wrvsgsWg,Olde Brooklyn Bagel Shoppe,olde-brooklyn-bagel-shoppe-brooklyn,3.0,266,1.0
+6,2bpjwQBGoo9KyMYUuPt0Hw,The Bagel Market,the-bagel-market-brooklyn,3.0,158,2.0
+7,j1TePe2B6pjvvEg2VOLNcg,Gramercy Bagels,gramercy-bagels-new-york,3.0,155,1.0
+8,mU23NlQfn1R9OhA6WMe_xg,Breads Bakery,breads-bakery-new-york,4.5,999,2.0
+9,H4jJ7XB3CetIr1pg56CczQ,Levain Bakery,levain-bakery-new-york,4.5,8029,2.0
+10,MhnlFZ4j-LP6_XSSFQP0SA,Bunch-O-Bagels,bunch-o-bagels-brooklyn,4.0,54,1.0
+11,mnrGTFfV8uZJYdDwl3Mynw,Glendale Bagels & Quality Deli,glendale-bagels-and-quality-deli-glendale,4.0,110,1.0
+12,r0K4sHp8u97oqo473r_lOA,Bagels and Cream,bagels-and-cream-bronx,4.0,55,1.0
+13,QOmvgnyNHrD6J8vuwaTOkg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria-5,4.0,457,1.0
+14,rY-EP5WCxQS0Ti-cdLSO7A,Empire Bagels,empire-bagels-bronx,4.5,102,1.0
+15,GoxKFRbai3QC7KAq0-KhwQ,Bagels Plus,bagels-plus-new-york,3.0,60,1.0
+16,T55YbUuuYSmBtoN3b2mfzA,Prospect Provisions,prospect-provisions-brooklyn,5.0,87,
+17,o4UrasB2ljx2gxfsUFHfBw,Bagel Boss Murray Hill,bagel-boss-murray-hill-new-york,3.0,146,1.0
+18,TynT1ykBkQhXd6nuTK6JUQ,Rego Bagels,rego-bagels-rego-park-2,4.0,142,1.0
+19,pWywDImlX0n_XKPNg0Bizg,Sunny and Annie's,sunny-and-annies-new-york,4.5,479,1.0
+20,f0hETSiQ-JYosZ5PpOM0sw,Wild Bagels,wild-bagels-brooklyn,3.5,62,1.0
+21,QWaSFpv0ujHM09kbilB-PQ,Hot Bagels,hot-bagels-brooklyn,4.0,81,1.0
+22,x_oV9aGzq-lNmgPXU_tvbw,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york,3.0,655,1.0
+23,VB0iSLuIAWpJZM5QYuvmbQ,Browns Bagels,browns-bagels-new-york,3.5,183,2.0
+24,hDT_KAXQgHpchcwG5_gv0Q,Wu & Nussbaum,wu-and-nussbaum-new-york,3.5,43,2.0
+25,O0xFECgTDf1rbZzW9qUULQ,Peter Pan Donut & Pastry Shop,peter-pan-donut-and-pastry-shop-brooklyn-2,4.5,1299,1.0
+26,5xD9KMFK48rMRP2lQZCNxA,Baker's Dozen,bakers-dozen-brooklyn,3.5,212,1.0
+27,s_bkOOVmBwkNueITXriXmw,Mixtape Bushwick,mixtape-bushwick-brooklyn,4.5,78,1.0
+28,IcPV1gSYBoDfJIv_jFdcOg,Line Bagels,line-bagels-brooklyn,3.5,68,1.0
+29,gwo5ci1qtZZhOURn81ddhg,Greenberg's Bagels,greenbergs-bagels-brooklyn,3.5,18,
+30,QUf4eik0ipJGkBtRHNMl5g,Murray's Bagels,murrays-bagels-new-york-4,3.5,806,1.0
+31,oJYQFBducPsb-497lonrTQ,Pick-A-Bagel,pick-a-bagel-new-york-6,3.5,245,1.0
+32,kL9XCbKLaNYOix8YjL4VWw,Hot Bialys & Bagels,hot-bialys-and-bagels-forest-hills,4.0,82,1.0
+33,9OT6A8a6A2CyRXv3FoWBjg,Bagels On Bartow,bagels-on-bartow-bronx,4.5,53,1.0
+34,eAWGPqVKNrUuLw7V5S8mYQ,Bagel Boss,bagel-boss-new-york-3,3.0,174,1.0
+35,DklpHj1YV2CMR4VEo-TlGQ,Casella Bagel Coffee Shop,casella-bagel-coffee-shop-new-york,3.5,26,1.0
+36,4OTDu-sPa5d88gnF2sfWKQ,Bagel Pub,bagel-pub-brooklyn-5,5.0,3,
+37,Fm8l6uRzRY75hR-cBMAaFg,Middle Village Bagels,middle-village-bagels-middle-village,3.5,46,
+38,QLFcY7eToAFQAuIEEWnXCA,Bagel Schmagel,bagel-schmagel-brooklyn,3.0,177,1.0
+39,TOw3Je9Jp5tbZGNuaRm_Ag,Heartland Bagels,heartland-bagels-staten-island,4.0,94,1.0
+40,O4FFQ92eT-hdSa7F5TpLTw,Inwood Bagels,inwood-bagels-new-york,3.5,89,1.0
+41,yc17eYI-lv59ShQ3zMy_Bg,Pick a Bagel,pick-a-bagel-new-york-4,3.0,324,1.0
+42,gNuIdQMEddQUHUTiFXxZGg,Brownstone Bagel & Bread,brownstone-bagel-and-bread-brooklyn,3.5,237,1.0
+43,xCsgp_OJlMiZh9RIdoIxHA,Steve's Bagels,steves-bagels-brooklyn,3.5,102,1.0
+44,w8xBvf5SI4NsL4_uzYFJyQ,731 Bagel,731-bagel-brooklyn,4.0,4,
+45,9uhWTKavezO5TKWMui-o3w,La Bagel Delight,la-bagel-delight-brooklyn-7,3.0,170,1.0
+46,TCIUjVxXKausyWWmYqv4xA,Dyker Park Bagels,dyker-park-bagels-brooklyn,3.5,102,1.0
+47,ZO9CKtJ9tvPSwEns-semKA,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-10,3.0,128,1.0
+48,CxGc34Qnqy7U3qyMmt6fFA,Bagel House IV,bagel-house-iv-jackson-heights,3.5,72,1.0
+49,BMRU_o4Gnc2Ghj1JOAXHkw,Village Bagels,village-bagels-whitestone,4.0,11,1.0
+0,GqO2I5acetVHwBszFeHabw,Bagel Pub,bagel-pub-brooklyn-3,4.0,17,
+1,XL32Ml5jcYwZp6CIxUokmw,Bread Brothers Bagel Cafe - Greenpoint,bread-brothers-bagel-cafe-greenpoint-brooklyn,3.0,101,1.0
+2,WkALLrAOqGnMPhWhR4pM8w,Thompson Finest Deli,thompson-finest-deli-new-york,4.0,53,1.0
+3,ra7WT0N2US_xxOLHnAoelQ,Astoria Bagel Shop & Deli,astoria-bagel-shop-and-deli-astoria,4.0,150,1.0
+4,Y-uvH0uctJjAiGfKfE_T1g,Russ & Daughters at the Jewish Museum,russ-and-daughters-at-the-jewish-museum-new-york-4,3.5,108,2.0
+5,EoR1wQbqV0NVEhrB0X8SNg,Brooklyn Bagel & Coffee Company,brooklyn-bagel-and-coffee-company-astoria-2,4.0,419,1.0
+6,7akz4cCMAn0Ze6JKMfU5oQ,Mazzola Bakery,mazzola-bakery-brooklyn,4.5,198,1.0
+7,3xTlLfIwh_IFkxoXNU8tYQ,Bagel Point,bagel-point-brooklyn-2,3.5,121,
+8,_kARxrcTt5HjXQIEalDGWg,Zabar's,zabars-new-york,4.0,987,2.0
+9,ft4-eCqO3kukSCsOChMV_g,Chakra Cafe,chakra-cafe-sunnyside,4.5,69,
+10,T1Kvh7OyCu7aq29r3jZMRQ,Mill Basin Bagel Cafe,mill-basin-bagel-cafe-brooklyn,2.5,56,1.0
+11,uas-gysnqvS_Krx0kmLQ5A,Black Seed Bagels At Hudson Eats,black-seed-bagels-at-hudson-eats-new-york,2.0,186,2.0
+12,L3-1UKU5mUQjowd0Y74Ixw,Bagels & Brew,bagels-and-brew-astoria,4.0,208,1.0
+13,WAnnEwlOcCaFCK1Iu5RKvQ,Hot Bagels and Bialys,hot-bagels-and-bialys-brooklyn-4,4.5,9,
+14,idyZhq9vMaYxQ40hYH2x5g,Cafe Bari,cafe-bari-new-york-3,4.0,88,2.0
+15,2naDr1913zJk7Y1f2wsWYw,Tal Bagels,tal-bagels-new-york-3,3.5,233,1.0
+16,igbJNG6Cf95VhbsfPeWNUA,Pumpernickel Bagel,pumpernickel-bagel-long-island-city,3.0,67,1.0
+17,I0cCH0mw6WGyClL6OSE3Jg,Pick A Bagel,pick-a-bagel-new-york-3,3.0,273,1.0
+18,N76sM-aYku1cOBMXWOvliw,Original Brooklyn Bagel,original-brooklyn-bagel-brooklyn,4.5,33,2.0
+19,Dq_KwjD7WpGmgrXiu0qEOg,Made Fresh Daily,made-fresh-daily-new-york,4.0,194,2.0
+20,VHORZQg5A3YNBptRN92QGg,The Lazy Llama Coffee Bar,the-lazy-llama-coffee-bar-new-york-2,4.5,87,2.0
+21,T4Dz6vmotl5CkleLMSBK9Q,Bergen Bagels,bergen-bagels-brooklyn-5,3.0,168,1.0
+22,Jcd_GQVRncoqXh16eslvhQ,Bake City Bagels,bake-city-bagels-brooklyn,4.0,42,1.0
+23,3il_0gHjCcLeMmoyDrmjUg,Black Seed Bagels,black-seed-bagels-new-york-16,2.5,110,2.0
+24,T0OShnCTfFONVEbDgFlJZA,Shelsky's Brooklyn Bagels,shelskys-brooklyn-bagels-brooklyn-3,3.0,104,
+25,NzHiK8Csmypx4f6jYhSqiQ,Lenny's Bagels,lennys-bagels-new-york-2,4.0,138,1.0
+26,0dO6JJPmkivbK8-Qu5eUYg,Toasties,toasties-new-york-6,4.0,372,1.0
+27,jB4fXyjDvn8Zc6IyDu49YQ,Woodside Deli & Bagel,woodside-deli-and-bagel-woodside,3.5,17,1.0
+28,27aEpgY7F1AnppaulRnGYg,Bagel Express,bagel-express-new-york-4,3.5,310,1.0
+29,vrcfSmyE8orhd0yHSrqvgQ,BKG Coffee Roasters,bkg-coffee-roasters-brooklyn-2,4.5,76,2.0
+30,YjSYeFr3ZDsCFkdlFdL6qA,Bay Bagels,bay-bagels-brooklyn,3.0,39,1.0
+31,lM44NybalPaw3aiw24WOdA,Court Street Grocers,court-street-grocers-brooklyn,4.5,274,2.0
+32,i0pTGtQYAPseFcAryoWj4A,Bagel Supreme,bagel-supreme-brooklyn-2,3.5,56,1.0
+33,amoGEhgkE4xcNXwYqWeoaw,Yonah Schimmel's Knish Bakery,yonah-schimmels-knish-bakery-new-york,4.0,631,1.0
+34,46rXAi6qq8hzdK5M3l4VCA,Just Bagels,just-bagels-bronx,4.0,3,
+35,_0RMTkpPymef5NLh7NUvEw,Milk & Pull,milk-and-pull-ridgewood,3.5,96,1.0
+36,c6UUcUTbwbk0kOpF6jVOJQ,The Doughnut Project,the-doughnut-project-new-york,4.0,453,1.0
+37,aSDGr4NIfm1C6IspWSNaQw,Orwasher's,orwashers-new-york,4.5,392,2.0
+38,ECw2da1I0StgwFzn85_t6w,Bagels on the blvd,bagels-on-the-blvd-staten-island-3,3.0,14,
+39,6dFUAsPQeGkUjEuDGUDg2Q,Bagelsmith,bagelsmith-brooklyn-2,3.0,291,1.0
+40,p1wDwUphBhvQkOuD9ydb_g,Chelsea Bagel Of Tudor City,chelsea-bagel-of-tudor-city-new-york,3.5,101,1.0
+41,P4HX6tjQQK4gbdn_d0cGTw,Ground Support,ground-support-new-york,4.0,509,1.0
+42,DkcVNKDDoUJGkLN9Pe4R0w,H&H Bagels,h-and-h-bagels-new-york-7,2.5,173,2.0
+43,Mkx7wE0Jlb0bFYGhEpulSg,Blackstone Coffee Roasters,blackstone-coffee-roasters-new-york,4.5,62,2.0
+44,VdwsPucTABX4R0GIFOebeg,Park Bagels,park-bagels-brooklyn,4.0,32,2.0
+45,zI0_zyZl-0Xqk8vR9xWiIg,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-3,3.5,68,2.0
+46,3AgtLUyDGFIsMrg25e8LPQ,Brooklyn Bread Cafe,brooklyn-bread-cafe-brooklyn,3.5,132,2.0
+47,-ReVBdHXjJ4qH9Xl2MDq3A,JK Bakery,jk-bakery-flushing,4.0,68,1.0
+48,yMxGI1kcqv6a-aGH-VXg8A,Little Skips East,little-skips-east-brooklyn-2,4.0,61,1.0
+49,Xf8spStI1SvCjwD1AWtMhg,H & L Bagels,h-and-l-bagels-brooklyn,4.0,36,1.0
+0,5o-jorn07AInbmlNlYGC0g,Dear Mama Coffee,dear-mama-coffee-new-york,4.5,270,1.0
+1,A4LBQAfU60G38fOdABbGRw,Bagels by the Park,bagels-by-the-park-brooklyn,2.5,102,1.0
+2,JrpFDo5Ir4IkufRFv80ETw,Black Seed Bagels,black-seed-bagels-brooklyn-2,2.0,38,
+3,4fk4yDJCKh-95RWlKN4VmA,Highway Bagels,highway-bagels-brooklyn,2.5,100,1.0
+4,wuzvmKPUf0xT82f5UdIJ-w,Bagel Tree,bagel-tree-new-york,3.5,39,1.0
+5,1c6_FJie8nGGJHIGYBDyHw,Bagel Club,bagel-club-bayside,3.5,139,1.0
+6,MrBfruGEFt-GXk3AOIdsEA,Bread Brothers Bagel Cafe - Bushwick,bread-brothers-bagel-cafe-bushwick-brooklyn,2.5,202,1.0
+7,zMqPylWzIIPCQtBTosp0tg,Norma's Corner Shoppe,normas-corner-shoppe-ridgewood-2,4.5,278,1.0
+8,VRhEPnjPI64dBC39gDD-Vw,IC Brooklyn Cafe,ic-brooklyn-cafe-brooklyn,4.5,89,1.0
+9,w7zQ47EyJ6R7K_TEWZnInA,Spring Streets Finest Deli,spring-streets-finest-deli-new-york,4.0,13,1.0
+10,3TZsabz3SJicr2ZFXXXaOg,La Luna Cafe,la-luna-cafe-astoria-46,4.0,54,1.0
+11,KCISn0hhX9wH9ChgWRXnDw,Lunch Box,lunch-box-new-york-3,4.0,142,1.0
+12,atmylNI4tEHH2dExuXnhWw,Wow Bagel,wow-bagel-ridgewood,3.5,50,1.0
+13,b44Q3AiTcMyNrDY5X_aS5g,La Bagel Delight,la-bagel-delight-brooklyn-5,3.0,89,1.0
+14,SkGPIen8LUVLCV3ot-DKtw,Marcy & Myrtle Cafe,marcy-and-myrtle-cafe-bedford-stuyvesant,4.5,70,1.0
+15,UtyTBbBL6reUN68CvN5Lnw,Everything Bagels & Deli,everything-bagels-and-deli-bayonne,4.0,11,
+16,WHRHK3S1mQc3PmhwsGRvbw,Bibble & Sip,bibble-and-sip-new-york-2,4.5,4780,1.0
+17,5sWTM3HPS2Bi_ZrVmUgTFg,Boulevard Bagel Cafe,boulevard-bagel-cafe-astoria,2.5,69,1.0
+18,8h3x16M9V5W7_0hSvQnGpw,Gotta Getta Bagel,gotta-getta-bagel-forest-hills,3.0,208,1.0
+19,6dyKXqj3ih8qaZlgSMsXGw,Jerusalem Fresh Bagels,jerusalem-fresh-bagels-forest-hills,4.0,10,
+20,qRaBWmb6GS0Hx8HOr0Zr8w,Optimum Gourmet Deli,optimum-gourmet-deli-new-york,4.5,35,1.0
+21,V3ZvBwLvKBSohMT1j6C-gg,William Greenberg Desserts,william-greenberg-desserts-new-york,4.0,237,2.0
+22,cGsQXm4d2NVHW7jljXPF1Q,O'Bagel,o-bagel-hoboken,3.5,314,1.0
+23,1UOo0w-JNKASCMvSWnle0w,Old Country Coffee,old-country-coffee-new-york,4.5,208,1.0
+24,ARgsqTF1Rayf3rV2uo-3jg,Blue Marble,blue-marble-brooklyn-2,4.0,245,2.0
+25,Qmv4SPta2zx7MhKit8ywag,Absolute Coffee,absolute-coffee-brooklyn,4.5,174,2.0
+26,X3ToKHjzofO8EzfiHYewWg,Brooklyn Blend,brooklyn-blend-brooklyn,4.5,279,2.0
+27,e-eJa6iQ9zTYkNhRhvsZ-g,Heavenly Market And Cafe,heavenly-market-and-cafe-new-york,4.5,17,
+28,7egiLH0paGKy0eINpHgIwg,Nagle's Bagels,nagles-bagels-bedford-stuyvesant-3,2.5,125,1.0
+29,6PQ7CdBJQxQV4E9GO1fA5g,Zucker's Bagels & Smoked Fish,zuckers-bagels-and-smoked-fish-new-york-7,2.5,259,2.0
+30,qQSj2ApbvTsGYz4zzTja9w,57th Bagels And More,57th-bagels-and-more-new-york-2,4.0,7,
+31,cXzNNknQ7lAnowCZmVedFQ,Tal Bagels,tal-bagels-new-york-8,3.0,223,2.0
+32,eeGQN9X96QSeg7HCwhOK1w,Gerritsen Beach Bagels,gerritsen-beach-bagels-brooklyn,4.0,44,1.0
+33,uL709qg0IGe4KsNZk_AjxQ,Lion's Milk,lions-milk-brooklyn-2,4.5,111,1.0
+34,ZjYkL_LdaoY0eTwckgnykQ,Bantam Bagels,bantam-bagels-new-york-2,3.0,281,1.0
+35,7DOgevJnErkLNh4dWVh2zw,Hot Bagel and Deli,hot-bagel-and-deli-bay-ridge,4.0,6,1.0
+36,9ZnOMUYyghQ0Ez_asQMHtA,Classic Coffee Shop,classic-coffee-shop-new-york,5.0,44,1.0
+37,YPjN6qQmkNkMhdShPzfliA,Bagels On The Ave,bagels-on-the-ave-astoria,3.0,182,1.0
+38,-Qo0d-UtDBhUznq1qzsOhw,VR Bagelicious,vr-bagelicious-flushing,3.5,39,2.0
+39,9hL1Wb-OXmHriWaKJBQ6hg,Elim Deli Cafe,elim-deli-cafe-new-york,4.5,86,1.0
+40,RKAK9AuzKR7K36ABcXPjTA,CC's Cafe,ccs-cafe-new-york-2,4.5,140,2.0
+41,CHpmu4N_kRSd-ekynJqIIA,Bingo Deli,bingo-deli-new-york,4.0,79,1.0
+42,eAUJlPfBYeJR_llfL7WAxA,Top Bagel,top-bagel-bayside,3.0,167,1.0
+43,qQG3McQHA6600GhZBgmLLg,AR Hot Bagels,ar-hot-bagels-brooklyn,3.5,7,1.0
+44,v4X0_xdRmVDQ5qgyGAubHw,Pickler,pickler-new-york,4.5,349,2.0
+45,jW1zRsnPs8LB-_ORcgA4mw,Le Café Coffee,le-café-coffee-new-york-8,4.5,58,1.0
+46,XCuN1aLiIRH2sAjE7XEMiA,Bagels Plus,bagels-plus-flushing,3.5,37,1.0
+47,diVwcOhjR3UtUzH6uFI64A,Lot's-O-Bagels,lots-o-bagels-astoria,3.5,153,1.0
+48,L5dAB078WD5mcEhENymhEQ,The Bagel House,the-bagel-house-astoria,4.0,96,1.0
+49,uAeOZBQ5vzBU7IFBhY2uEQ,The Bagel Store,the-bagel-store-carlstadt,3.5,63,1.0
+0,2mp_hMBABMRqW2KjsfhV7g,Bagels For You,bagels-for-you-forest-hills-12,3.0,89,1.0
+1,W9y2SOsnRquseBMGxurJVA,New York City Bagel & Coffee House,new-york-city-bagel-and-coffee-house-astoria-4,4.0,31,1.0
+2,-fRTWjfmTUX15WQANhL9QA,Metro Bagel & Cafe,metro-bagel-and-cafe-brooklyn,3.5,16,1.0
+3,ChloY7v4KGqx_Tl9D7kuEw,Avenue X Bagels,avenue-x-bagels-brooklyn,5.0,2,
+4,DxeD4Jw3gsImI-olCOB0bA,Little Canal,little-canal-new-york-2,4.0,114,1.0
+5,TqlEvUnfW015jDGxxUkFtw,Eddie's Bagels & Coffee,eddies-bagels-and-coffee-astoria,4.5,8,
+6,WtZCvuvO40ExJdpOGeLgqA,Kosher Bagel Hole,kosher-bagel-hole-brooklyn-2,4.0,57,1.0
+7,dxCpjQXuBiy5EqZRIGxA5Q,Marie Blachere - Manhattan,marie-blachere-manhattan-new-york-4,4.0,72,
+8,lXNM9KG2npDfvKb08XPuBg,Jonas Bagels And Sams Pastries,jonas-bagels-and-sams-pastries-new-york,4.0,10,
+9,4Z4BuxX15Fii4n9FO7Bmew,Pick A Bagel,pick-a-bagel-new-york-7,2.5,210,2.0
+10,UeSVH4JyvwfX1WQRE6AWcg,Rahway Bagels,rahway-bagels-rahway,5.0,5,
+11,m5Q27Jx9tkBETs5Ua32Agg,Milk & Pull,milk-and-pull-brooklyn,3.5,104,1.0
+12,qoFxbBRTUHMsBk8JUBeYpA,LIC Bagel & Deli,lic-bagel-and-deli-long-island-city,3.5,31,
+13,4VEgZ7aVUt6oKw8KmXj-jQ,Brooklyn Kolache,brooklyn-kolache-brooklyn,4.5,307,1.0
+14,ROFCA0HkLDA1KZWzAOnCxw,Penny House Cafe,penny-house-cafe-brooklyn,4.5,253,1.0
+15,2XF78XbBg6xFn_5q9mZM8A,Ace Bagels Cafe,ace-bagels-cafe-flushing,3.5,21,1.0
+16,f60zdYj4tEu_y21qftI76w,Slim's,slims-oakland-gardens,4.0,87,1.0
+17,xr6jrXDti7-WGR2gfhF75Q,Bagels & Co.,bagels-and-co-new-york-18,3.0,49,1.0
+18,z1fK6PvRwirX6r4KEkFVaw,Bagel Boss - Queens,bagel-boss-queens-flushing,4.0,35,
+19,TcllxDfvOcv13ztyYalx6g,Jessi's Coffee Shop,jessis-coffee-shop-brooklyn,4.5,94,1.0
+20,SAKxOxvgjT1faNjRZ5e23g,Metro Bagels Company,metro-bagels-company-brooklyn,5.0,5,
+21,ZScp6b6JXLHwVtN3Q27Bqw,Bagel Parlor,bagel-parlor-whitestone-2,4.5,14,
+22,BJL3JbPPX97a58GTURvTxA,The Donut Pub,the-donut-pub-new-york,4.0,915,2.0
+23,9KIelliYKn-5GVRUpP1jwQ,Enjoy My Bagels,enjoy-my-bagels-brooklyn,3.0,50,1.0
+24,cu8xBqgzOvB9ykBdgY-wZw,Avenue U Bagels,avenue-u-bagels-brooklyn,3.5,6,
+25,4DVvKcNIdXxOLbdOm2sRmQ,PLG Coffee House and Tavern,plg-coffee-house-and-tavern-brooklyn,4.0,260,1.0
+26,pSQQ-0nm96PFLwheAsrtlg,Bagels Plus & Deli,bagels-plus-and-deli-secaucus-2,4.5,80,1.0
+27,vgkd_Tl681lSCw7NP6FO4g,Bagels & More,bagels-and-more-new-york-5,3.5,20,
+28,-QWObXy7vRcu0NylKW4Gqw,Bagels Plus,bagels-plus-brooklyn,3.0,33,2.0
+29,A8jRnZGiMJiMpfHt8qKV3w,Fiction,fiction-brooklyn,4.5,84,1.0
+30,HmbSkSwJz1JTyLbb5kGEGQ,Gombo's Heimishe Bakery,gombos-heimishe-bakery-brooklyn,4.5,39,1.0
+31,BewiujBW7QMp6ZHFUDlxxA,Fort Washington Bakery and Deli,fort-washington-bakery-and-deli-new-york,4.0,42,1.0
+32,-6_mNKxOChmZb6qcdMfOtA,Chelsea Bagel & Cafe,chelsea-bagel-and-cafe-new-york,3.0,85,1.0
+33,C5wHXhhX7mjDSA-RJ0AiLg,Inatteso Cafe,inatteso-cafe-new-york-3,3.5,90,1.0
+34,n0MKLSfPWiDCvQsRFAt8HA,NINO'S COFFEE & GRILL,ninos-coffee-and-grill-new-york,4.5,10,
+35,XEmorprWV7gyCInH-1qK6w,Dichter Pharmacy & Soda Shoppe,dichter-pharmacy-and-soda-shoppe-new-york,4.5,46,1.0
+36,6qx9qmfSte3wCUZ2Lqpmow,The Gourmet Bagel Shoppe,the-gourmet-bagel-shoppe-brooklyn,2.5,28,2.0
+37,thlb2FpA_GaC5v89w7Lq9Q,Sam's Bagels,sams-bagels-brooklyn,3.5,33,1.0
+38,f0sqW7BwF_H5r2stkzK7hw,Whitestone Bagels Factory,whitestone-bagels-factory-whitestone,4.0,160,1.0
+39,MGd6HFEq1ALD58XWNviSXw,Time Out Market New York,time-out-market-new-york-brooklyn,3.5,237,2.0
+40,oBjTZOUt-Qqr8wCZJ-BZSg,Sunset Bagels Cafe & Grill,sunset-bagels-cafe-and-grill-brooklyn-3,3.0,15,
+41,p6RecYP3IzMacRVVYeBwkQ,Hot Bagels,hot-bagels-brooklyn-7,3.5,18,1.0
+42,bhhdCdRP7mm0OZtOOJeBMg,Bagelberry,bagelberry-astoria,3.0,109,1.0
+43,RtGdGYRWF0XQnKT2mdAsUw,Clever Blend,clever-blend-long-island-city,4.0,170,1.0
+44,hhgzw_SgN-v1k0rxRUwB0A,Bagel Talk,bagel-talk-new-york,3.0,237,1.0
+45,UQoI7JVzHP3cBO15jA1W8A,7 Bagels & Deli,7-bagels-and-deli-briarwood,4.0,26,1.0
+46,ZnJZ8F17rLIZ3JbJQ2admw,Grounded,grounded-new-york,4.0,726,1.0
+47,EHZKsBee4GT6-6itea3V5g,Oh! Hot Bagels,oh-hot-bagels-long-island-city,3.5,11,1.0
+48,noi4EYAFaINdGBdDLYNPvQ,Paesano,paesano-brooklyn,3.5,30,2.0
+49,zNGOq7moJd6MgsGSRv8wyg,Dale Bagels,dale-bagels-brooklyn,3.5,35,1.0
+0,1aBnxo7NTxHNIt4BOuG51Q,Bagels and Wraps,bagels-and-wraps-brooklyn,3.0,37,1.0
+1,5KqpWLHxLpKZtET-gMYx5Q,Smiley's Bagels,smileys-bagels-staten-island,3.5,23,1.0
+2,tNJObmiHqgVQJoZ2-ZOvmA,The Brothers Deli & Bagel,the-brothers-deli-and-bagel-brooklyn,4.0,44,1.0
+3,z3X0amNJsnLwgYUXAXzTtw,The Bushwick Diner,the-bushwick-diner-brooklyn,2.5,89,2.0
+4,k2bdjrQDGF_yilsCa96NFg,Mikey Bagels,mikey-bagels-staten-island,4.0,25,1.0
+5,lWOkeS-wV4no8qqA9OwwEg,Doughnut Plant,doughnut-plant-new-york-6,4.5,3209,2.0
+6,MN17Htz75s1aZvO5nltzPA,Haven Cafe,haven-cafe-new-york,4.5,53,1.0
+7,D0g1-ICEFh3CIoEQfvmBCA,Hot Bagels,hot-bagels-brooklyn-5,3.5,22,1.0
+8,F487woKE1s-IcPDdJwsdcQ,Atlantic Bagels Cafe,atlantic-bagels-cafe-brooklyn-97,3.0,103,1.0
+9,qn8kAN7VOCx1nJmSJ2FBuQ,Sunny Delicatessen,sunny-delicatessen-brooklyn,4.5,3,1.0
+10,n-hBKsnFFUpe-y00EZrOqg,Amy's Bread,amys-bread-new-york,4.0,1118,1.0
+11,gfgbbPRqVqSj_rxlSwhJhg,Black Star Bakery & Cafe,black-star-bakery-and-cafe-long-island-city,4.0,99,2.0
+12,a7BC1doUjNDqrqTaAMmfZg,Bite,bite-new-york,4.0,266,1.0
+13,2GfP_V04B5eTIviNqsNcFw,What's A Bagel,whats-a-bagel-brooklyn,3.5,5,2.0
+14,v4d2TBqxMmNzWNvShkvRrA,FREEHOLD,freehold-brooklyn,3.5,517,2.0
+15,l56_RXR4UojE4gbpHrv89Q,American New York Bagel,american-new-york-bagel-jackson-heights,3.5,5,
+16,PDLYcA21uXCAlqRAkQLNNw,Ovenly,ovenly-brooklyn,4.0,195,2.0
+17,BtPQRHhzavsP6wpZlQh-sA,Caputo's Bake Shop,caputos-bake-shop-brooklyn,4.5,117,1.0
+18,biapLGctTtB9MDl2UW8bXQ,Eagle Trading,eagle-trading-brooklyn,4.5,133,1.0
+19,R_9naRCabjpSnmiFPeXgrQ,Amy's Bread,amys-bread-new-york-4,4.0,322,1.0
+20,d_SRqHAXYEvKSXj4-nI5Nw,To Laiko,to-laiko-astoria,4.5,21,1.0
+21,dC377KN7y3W_Mc6OzToFZA,Beans and Bagels,beans-and-bagels-brooklyn,3.0,11,
+22,QdMSz1hE1GsN6UGGSCAQ9A,Boardwalk Bagel,boardwalk-bagel-atlantic-beach-2,4.5,25,1.0
+23,prQUP_jDq72ll8jf__TK_w,Black Cat LES,black-cat-les-new-york-2,4.0,297,1.0
+24,pHFrGKOBO2N8yuS8dnkUbQ,Sunset Bagels Cafe & Grill,sunset-bagels-cafe-and-grill-brooklyn-2,2.5,169,2.0
+25,sCgcRjvHgAYFPZoEeZgSxg,Flatbush Bagels,flatbush-bagels-brooklyn,1.0,5,
+26,B5DIEjr0Gy9RKyazkop60Q,The Bagel Factory,the-bagel-factory-brooklyn-2,3.5,39,1.0
+27,lPrP-yl5jMSDRdJc4VL1zA,Coffee Tossy,coffee-tossy-sunnyside,4.0,113,1.0
+28,X5dd1L7DTSV_hb3LhmhZQA,Hand Rolled Bagels,hand-rolled-bagels-new-hyde-park,4.0,228,1.0
+29,crryKo6FO14r5GzCsLtkUQ,Slims Bagels and Bialys,slims-bagels-and-bialys-new-york,2.5,105,1.0
+30,6G0oUbT132BTSo1RN5QufQ,Mott Haven Bagel & Barista Cafe,mott-haven-bagel-and-barista-cafe-bronx,3.5,17,
+31,59-JJp5t2OCFifY7DUQ2rQ,Bricktown Bagel & Cafe,bricktown-bagel-and-cafe-long-island-city-16,3.0,271,1.0
+32,aQxaHfEr2KKwWm5deWztsg,Bagelery,bagelery-flushing,3.5,23,
+33,EFWgKMyT2krr9RpUeCxysA,Gold Street Market,gold-street-market-brooklyn,4.0,42,1.0
+34,Az89sPJXLHZZyRT3f8Dkjw,Hungry Ghost,hungry-ghost-brooklyn-3,4.0,158,1.0
+35,PQAIs-ZPN7QrBvJ-F9pE8w,Awesome Deli,awesome-deli-brooklyn,4.5,14,1.0
+36,MArUsb-rze8TCf8cZhSxJw,Food U Desire,food-u-desire-brooklyn,4.0,12,2.0
+37,4pDEVsC1JGI9Ba9Mjx5aGA,The Chipped Cup,the-chipped-cup-new-york,4.0,379,2.0
+38,Cvcb-ZSNCNmb-pW38j8JFQ,Black Seed Bagels,black-seed-bagels-new-york-18,3.5,13,
+39,uHbnpLSNuOzQ46m5PLOBnA,Bagels & Co,bagels-and-co-new-york-17,3.5,84,1.0
+40,XJ8gJ-J1lElN_mKSjzUI4Q,Skyline Gourmet Deli,skyline-gourmet-deli-new-york,4.0,103,1.0
+41,FIPGiBZOPu2DmHcTdQkt_w,Orwashers,orwashers-new-york-2,3.5,207,2.0
+42,4zQcpHWP9_fjMsG_nr8ALQ,Bagel Story,bagel-story-brooklyn-3,3.0,51,
+43,UsDeDLDJzYp91t6akkueqw,Lassen & Hennigs,lassen-and-hennigs-brooklyn,4.0,178,2.0
+44,_Rpp6IgpkE_UuRsmr4iSaA,Tiny's Giant Sandwich Shop,tinys-giant-sandwich-shop-new-york,4.0,488,1.0
+45,KAXZFgIeAAGmozuNb8iVvg,The Bagel House,the-bagel-house-kearny,4.5,99,1.0
+46,QH9vS9_Q5um3b8sZntZiyw,The Jolly Goat Coffee Bar,the-jolly-goat-coffee-bar-new-york,4.5,341,1.0
+47,fUuy7SqkGJPWpF5NwDklFA,Astoria Provisions,astoria-provisions-long-island-city,4.0,155,2.0
+48,yhwJZKanEnoE_B0tPi-KyA,Daily Bagel,daily-bagel-new-york,2.5,107,1.0
+49,n2L6Ds399AJ_EV0QUbrV-g,Einstein Bros Bagels,einstein-bros-bagels-flushing,3.0,12,1.0
+0,wQw1O619W7Eyjgo9iqV-Mw,Heartland Bagels 2,heartland-bagels-2-staten-island-3,4.0,45,1.0
+1,rqLNXulmryyWxXj2X4rB_A,Bagelicious,bagelicious-brooklyn-2,3.5,22,1.0
+2,ga6sRtE0l85iftw_5-W84Q,Dominique Ansel Bakery,dominique-ansel-bakery-new-york,4.0,4478,2.0
+3,LNV-uST6FKzn7XN-QtFFsQ,Coffee Plus Cake,coffee-plus-cake-new-york-2,4.5,12,
+4,1Jjg8-vQVRQqqtL4sODi5g,Mekelburg's,mekelburgs-brooklyn,4.0,262,2.0
+5,TX4zj_rHFQBwh86XyUuu-g,LIE Bagels,lie-bagels-oakland-gardens,4.5,41,1.0
+6,9tOflki_ULq0TysQ1u4WQA,Goustaro,goustaro-brooklyn,3.5,68,2.0
+7,lwfrB59lvpkCBw2FZD3X6w,Rex,rex-new-york-2,4.5,534,1.0
+8,8dCJwLoT6LqbDElhdxsNjQ,Bagel & Deli,bagel-and-deli-jersey-city,5.0,2,1.0
+9,S1scNP7ijgAXkbD-cIxl5A,K & K Deli,k-and-k-deli-new-york,4.5,4,
+10,pmpGjbZ1fy909wtQE6znYg,GFG Bakery,gfg-bakery-new-york-6,4.0,41,
+11,-AixNVwQogQlGjWKttuw5w,Double Dutch Espresso,double-dutch-espresso-new-york,4.0,221,2.0
+12,Ry04HQ6kNsF1RYTjINDaYw,Blank Slate Coffee + Kitchen,blank-slate-coffee-kitchen-new-york-3,4.0,621,2.0
+13,CwHrTnHVKjJ_OdqFDQ7GVw,Galo Churrasqueira,galo-churrasqueira-jackson-heights,5.0,3,
+14,1TWe-XyitlZDPeAoBHa6oQ,Koala Cafe,koala-cafe-brooklyn,4.5,39,1.0
+15,6BZaK9rk6zT9J2bpZhXxVg,Pio Hot Bagels,pio-hot-bagels-new-york,3.5,37,1.0
+16,QxiSoPQeiiy_tx3vkRJYwg,Cup of Brooklyn,cup-of-brooklyn-brooklyn,4.5,128,2.0
+17,lye9Rj7PZMh0JBL1MuhP_g,Manny's Grill,mannys-grill-brooklyn-2,4.5,4,
+18,omQZC6nfg9_Iwtcri2cPuQ,Gourmet Bagel,gourmet-bagel-new-york,2.5,68,1.0
+19,wWhZvkaFrntlSf1CWvD1Zw,Cafe Patoro,cafe-patoro-new-york,4.5,170,1.0
+20,GJGnRyoZahqSTWKa9pJIOw,Brothers Bagels,brothers-bagels-brooklyn,3.0,79,1.0
+21,HUlbrPvAr6sXuBfp5z1MWA,Urban Backyard,urban-backyard-new-york,5.0,148,2.0
+22,LDWcXffY-amvuhhIJ_FhTg,Blue Cups,blue-cups-woodside-3,4.5,105,1.0
+23,oCLw5cmNfLB0Rpc3DCGD6Q,Bagels By The Bay,bagels-by-the-bay-staten-island,3.5,37,1.0
+24,N7ux8gAg5udFTgZ2Y5P-6A,Ceci-Cela,ceci-cela-new-york-2,4.0,557,2.0
+25,vTQIS8TW-m75XwbPoGpW8g,Java Day Cafe,java-day-cafe-flushing,4.5,305,2.0
+26,T7-BtR3aYps17K7CHiHlOQ,Sanpanino,sanpanino-brooklyn,4.5,26,
+27,RyE_7HUn9wi3O6xwYE8_kQ,Beach Bagel,beach-bagel-rockaway-park,4.0,19,1.0
+28,7wg6pVsqEv78RuB-nDJrxA,Bagel Club,bagel-club-bayside-3,2.5,45,1.0
+29,CKZAuCQePLv6OjDyrmqy-A,Bagels & Buns,bagels-and-buns-staten-island,3.5,40,1.0
+30,ypssRlm_KO3WFrm06vapiw,Kobrick Coffee,kobrick-coffee-new-york,4.0,357,2.0
+31,s_YuHngBngWwzpcKNIM71A,Pi Bakerie,pi-bakerie-new-york-2,4.5,267,2.0
+32,vJfPSlylyPyzM4WKqbKACQ,Twin Towers Bagel Express,twin-towers-bagel-express-brooklyn,4.5,12,1.0
+33,tCYlIZ_43dGs_59nrR1xuw,Holy Bagel,holy-bagel-brooklyn,4.5,8,1.0
+34,Q_7J5E-cYCQfHNCkCyMdLA,Baked,baked-brooklyn,4.0,503,2.0
+35,lj97ObXNguSLtN2ZQFyqcw,Bagelette,bagelette-rego-park,3.5,35,1.0
+36,LCxw7APl13XIenOTmHvi9A,Hot Bagels,hot-bagels-brooklyn-4,4.0,7,1.0
+37,lf0IKPxfcBxqY7puTEdjcw,Crumbs & Coffee,crumbs-and-coffee-brooklyn-2,4.5,23,
+38,zeTFckw10ETydYbL1hn9NQ,Carol's Cafe,carols-cafe-new-york,4.5,34,1.0
+39,VhkXhX5lhurpdrFlA6IFjw,Margaret Palca Bakes,margaret-palca-bakes-brooklyn-2,4.0,51,1.0
+40,ENTEjE5ENDqrVncjoYstyA,Bagels & Co,bagels-and-co-fresh-meadows,3.5,83,2.0
+41,7lO-Ncx_2omtf4Jbg2Agzg,Sugar Hill Cafe,sugar-hill-cafe-new-york,4.5,360,1.0
+42,i065iQeRrGOKPNGVxC4Q1g,JP's Bagel Express,jps-bagel-express-hoboken,3.5,139,1.0
+43,cvH23Ge8IvDVlFZKtwlLKQ,Oh! Bagels and Cafe,oh-bagels-and-cafe-new-york,4.0,9,1.0
+44,2tTbpXscdTtwld5BI1BCYw,Hoboken Hot Bagels,hoboken-hot-bagels-hoboken,3.5,189,1.0
+45,8k5HK-A6gggIwqwmqCqPnQ,Camila's Cafe,camilas-cafe-brooklyn,4.5,40,1.0
+46,UpPXAjKc-CyuCg72chwd3A,Lella Alimentari,lella-alimentari-brooklyn,5.0,194,2.0
+47,iZ_OF8GKvBZh_fPIpwdGKw,Astoria Cafe,astoria-cafe-queens,5.0,14,
+48,V7lXZKBDzScDeGB8JmnzSA,Katz's Delicatessen,katzs-delicatessen-new-york,4.0,12206,2.0
+49,koh-4_SAbshwZ8EBRmXcmg,B&H Dairy,b-and-h-dairy-new-york-2,4.5,465,1.0
+0,S73nEQ1UxV5rr6vcU834vw,Washington Avenue Cafe,washington-avenue-cafe-brooklyn-3,4.0,31,1.0
+1,dj-YSHnS5cSj6iAa3WN4qQ,Park Avenue Bagels,park-avenue-bagels-guttenberg,4.0,74,1.0
+2,jBF0_y-XPHAS0Zd1_ha7uw,Bagel Express III,bagel-express-iii-new-york-2,3.0,183,1.0
+3,vZevXSC1w27dEvXc2EHCEg,Good Thanks NYC,good-thanks-nyc-new-york,4.5,164,2.0
+4,S-WdvEU1X7J33whXWk1zmw,MUD,mud-new-york-3,4.0,1169,2.0
+5,7iGo96YFmL5h3e71aLK9AQ,Fly-By Bagels - TWA Hotel,fly-by-bagels-twa-hotel-queens,5.0,1,
+6,FAUMdhzoesC3PEp0b1ujBg,Broadyke Meat Market,broadyke-meat-market-new-york,4.5,77,2.0
+7,6HhZYdOS4pBL_4RpUPA_Xw,Fulton Bagel House,fulton-bagel-house-brooklyn,3.0,2,
+8,U8cwzchWvTB4tfs-K62bTQ,Bagel Buffet,bagel-buffet-secaucus,3.0,192,1.0
+9,e7ixQGeZrQ-5qwRJucBHXw,Bite Food & Coffee,bite-food-and-coffee-new-york,4.5,24,
+10,k5uLQag3XnKyd_ZwunQuKg,Brooklyn-Heights Deli,brooklyn-heights-deli-brooklyn-2,4.0,43,2.0
+11,7rbOiL4ynd6c4Jf9ASauYA,Sam's Bagels & Cafe,sams-bagels-and-cafe-ridgefield-2,5.0,7,
+12,IC-BoHY-n_THgtJ-COwRHg,JW Real Polish Delicatessen,jw-real-polish-delicatessen-brooklyn,5.0,3,
+13,VyzdJjI0Teh_zOVGUXxAkg,Buongiorno Bagel Cafe,buongiorno-bagel-cafe-glendale,3.5,39,2.0
+14,U9H96-McQ3sVzLaug4eF2A,Fantastic Bagels,fantastic-bagels-brooklyn,3.5,54,1.0
+15,LTUhCA5oSIEMGQe3a2VWtQ,Daniel's Bagels,daniels-bagels-new-york,3.0,230,1.0
+16,LVw8njOyyE9ur_6TzqyNzA,4 Brothers Deli,4-brothers-deli-old-bridge,5.0,11,
+17,o4MpyA_z4Jb-WqJwDk_Szg,We Bagel,we-bagel-long-island-city,4.0,38,
+18,PNPTSkU2HuYKMFmzDX7atA,5th Avenue Market & Gourmet Deli,5th-avenue-market-and-gourmet-deli-brooklyn-3,4.5,111,1.0
+19,5KNzWE-ifswp5u9t7n-gHw,Michael's Bagels,michaels-bagels-forest-hills-3,3.5,40,1.0
+20,euO-c5OpErE3UJCAliC4Bw,Mellow Yellow,mellow-yellow-new-york-3,4.5,280,2.0
+21,gIaMXRb1HFX5KVrAyJHioA,33 Gourmet Deli,33-gourmet-deli-new-york-2,5.0,1,
+22,YnDs59_dEQ61TdCD4fdyEw,Orchard Grocer,orchard-grocer-new-york,4.5,212,2.0
+23,ZYq4ixKvVuNAL-NwOdjxiQ,Baby Skips,baby-skips-brooklyn,4.0,38,1.0
+24,AfZPx4piTmg9dqZpYgYTgg,Moe's Doughs Donut Shop,moes-doughs-donut-shop-brooklyn,4.5,290,1.0
+25,jNRT5vY1Hvp5WDTaHy4Mhw,Sarge's Delicatessen & Diner,sarges-delicatessen-and-diner-new-york-2,4.0,1152,2.0
+26,UwVcyfQk16X7Y-XWuqfhDQ,LIC Bagel,lic-bagel-astoria,3.0,22,1.0
+27,QsRvEv8FgyqE4YHlbnnk2A,My Favorite Bagel,my-favorite-bagel-brooklyn,4.0,13,1.0
+28,Mvvv9yz7zc2ZDYcpKgvr0g,Liebman's Kosher Delicatessen,liebmans-kosher-delicatessen-bronx,4.0,276,2.0
+29,68zV5RYocAQTCqx_UEi2DA,New York Hot & Fresh Bagels,new-york-hot-and-fresh-bagels-new-york,3.0,75,1.0
+30,KhPhG6JrBgXFiLefVGO7qw,Black Seed Bagels,black-seed-bagels-new-york-17,2.0,27,
+31,NTR57L0kEqJyACSDBwPV1Q,Pop’s Deli,pop-s-deli-new-york,4.0,18,
+32,bgoLMIisnv-iIgC0ApBKOA,Wally’s Bagels,wally-s-bagels-new-york,4.0,5,
+33,moLtpz7do56gtgbfcjB8Hg,Murray's Sturgeon Shop,murrays-sturgeon-shop-new-york,4.5,87,2.0
+34,Qu9J_yrZnq07RsnwYEYdtQ,DGGD Coffee Shop,dggd-coffee-shop-downtown-brooklyn,4.5,5,1.0
+35,Bw2ILGtTT9RBcTGNTafV9w,El Barrista Cafe,el-barrista-cafe-new-york-2,4.0,20,
+36,gA0VbcoBLCiD2EpSC6vWeg,Partners Coffee,partners-coffee-long-island-city,4.5,140,2.0
+37,jF94zLvGZTSKQbF6bSewRw,Bergen Boulevard Bagels,bergen-boulevard-bagels-palisades-park,4.0,100,1.0
+38,ygYb7_UtX2x5047uKEWvdQ,M & J Hot Bagel & Deli,m-and-j-hot-bagel-and-deli-north-bergen,4.0,44,1.0
+39,s7CKGPb4eIuCULkR16ZRTw,Blue Sky Bakery,blue-sky-bakery-brooklyn,4.5,234,1.0
+40,RUL5ICRMDWEnJPbviJYVQA,Angela's Sandwich Shop,angelas-sandwich-shop-new-york,4.0,216,1.0
+41,78I3sEnIjKdINgmVKtWt1A,Joan's Bagel And Deli Shop,joans-bagel-and-deli-shop-ridgefield,4.5,17,1.0
+42,iMHYzkhrvREZnGsLCf5Hsg,Everybody Eats,everybody-eats-brooklyn,4.5,43,2.0
+43,N6_qSesaVVrnZ5VDGFpCrg,Telegraphe Cafe,telegraphe-cafe-new-york-3,4.0,336,1.0
+44,jsjJxd8NzEnl19VM94bbGw,Blue Spoon Coffee,blue-spoon-coffee-new-york,4.0,185,1.0
+45,6IdG1EY4qZ_X9GtqIAmQEg,Postmark Cafe,postmark-cafe-brooklyn,4.5,191,1.0
+46,6ZD12J5ZLqKod2ekJDfJQw,K & L Delicatessen,k-and-l-delicatessen-jackson-heights-2,4.0,105,1.0
+47,VPBsmTp4hDErqVSxi8hTTQ,Avenue P Appetizers,avenue-p-appetizers-brooklyn,3.0,1,
+48,aAqdmE9QFLLQsYDMibtbJA,Mama Eatery,mama-eatery-new-york,4.0,126,1.0
+49,ei0Z-6JsQv1DDivzI6UKWA,Bionic Bagel Corporation,bionic-bagel-corporation-brooklyn,3.0,26,1.0
+0,bj7xgiqlhUTs_kOoytDB4A,Bagels 'N' Cream,bagels-n-cream-jamaica,3.0,115,1.0
+1,VF3Ep2NQN8FqSCV8ySulSA,19 Cafe,19-cafe-new-york,4.5,105,1.0
+2,CYf9FmRmjYa2MAnAv1Z4Cw,Blue Spoon Coffee,blue-spoon-coffee-new-york-3,4.0,188,1.0
+3,SFXgb0chXSag8YGNtiLyMA,Holesome Bagels,holesome-bagels-brooklyn-4,2.5,9,1.0
+4,7L3n9TocU4VqaBdDXOBm4A,Finn’s Bagels,finn-s-bagels-new-york,3.5,59,
+5,0i-j7XxlvHc6Xj7_RbH9iA,Andy's Deli,andys-deli-new-york-6,3.5,75,1.0
+6,XfA6CFVVKQ1GK9ZC5J8BFQ,Coney Island Bagels,coney-island-bagels-brooklyn-2,3.0,85,1.0
+7,hWIdOfK1oOHAb8JfOXZkyA,Bagel Shoppe,bagel-shoppe-oakland-gardens,3.5,41,1.0
+8,rSJAtekGHxeixVpTlOBxyg,Flowers Cafe,flowers-cafe-new-york-3,4.0,41,1.0
+9,ok9QnkdrbqE8Kjc-u6Isyg,Liberty Bagel & Deli,liberty-bagel-and-deli-new-york-2,4.0,41,1.0
+10,TzyGxaYLLktPnEi2Vra0OQ,Brooklyn Deli,brooklyn-deli-brooklyn-5,3.5,15,2.0
+11,UGECJrPSWy0n7PXykBBWAQ,Two Little Red Hens,two-little-red-hens-new-york-4,4.5,2585,2.0
+12,Db2zQ3Wm7zW6Sji-nk6usQ,Goldberg's Famous Bagels & Deli,goldbergs-famous-bagels-and-deli-yonkers,4.5,32,1.0
+13,SyMukEpaqTGtC8otaGFR5Q,Rego Park Deli & Pastry,rego-park-deli-and-pastry-rego-park,4.0,43,1.0
+14,KEyhIMAUpj7cceOvG9C1sA,Kabisera,kabisera-new-york-2,4.5,62,1.0
+15,Tyf0mCa2CsYBIlj2vw4nzA,Bagels & More,bagels-and-more-new-york-4,3.0,24,
+16,I9cLwCosV_fzbIaKfLubpg,No Ho Juice Bar & Deli,no-ho-juice-bar-and-deli-new-york,4.5,124,1.0
+17,3o5ABdDmf0oNWwVrzh-ieA,Brooklyn Roasting Company,brooklyn-roasting-company-new-york,4.0,182,1.0
+18,LQI_yvSb4kZcwEZVGwf7Ww,Brothers Bagels,brothers-bagels-brooklyn-3,4.0,14,
+19,_BGO3f92Ys1w0EBQ9jy0lw,Hot Bagels,hot-bagels-flatlands,3.0,10,1.0
+20,1uPB-IOaoWd4s2jNFpZgVw,Poseidon Bakery,poseidon-bakery-new-york,4.5,187,1.0
+21,yt4TpkQ-45A-ZsniITzgVg,Madison Bagel & Grill,madison-bagel-and-grill-new-york,2.5,19,2.0
+22,-zzMDQkhZzrnBUdrfpG3Ng,Ange Noir Cafe,ange-noir-cafe-brooklyn,4.0,104,1.0
+23,5VdUwmUWt8R8EhclxYiZOA,Milk & Pull,milk-and-pull-brooklyn-2,4.0,53,2.0
+24,m6KUH9vS3JQXsAgKPZ9bWg,J & J Bagel,j-and-j-bagel-ridgefield,4.0,52,1.0
+25,xVzRouEsAICjEV0-EBrTUw,Olive's,olives-new-york-4,3.0,72,2.0
+26,b9RW2YCriwuiC5x2Bs-E_Q,Madonia Brothers Bakery,madonia-brothers-bakery-bronx,4.5,246,1.0
+27,_LiezzGnDxKMyqOivtQJxQ,Moduwa York 84,moduwa-york-84-new-york,4.0,22,
+28,1XH47HzrPYmPWHEgS6PH5w,Franklin Corner Cafe,franklin-corner-cafe-brooklyn,4.0,35,1.0
+29,8h89zabx-9QE9fshXLXWDA,Adam's Bagel and Deli,adams-bagel-and-deli-rego-park,3.5,78,1.0
+30,qwUPVBeV6oLdiCKHQvru5w,Tasty Deli,tasty-deli-new-york-2,4.0,273,1.0
+31,HFOiW4RvijuoblE4DD3JwA,Dekalb Market Hall,dekalb-market-hall-brooklyn-2,4.0,665,2.0
+32,vp2DfOrfD1ftbcs_qvSn5Q,Brenda Deli & Grill,brenda-deli-and-grill-queens-2,5.0,1,
+33,QsWuld72cYzdNDP4gXDH7Q,Grand Mars Bagel & Deli,grand-mars-bagel-and-deli-maspeth,4.0,5,
+34,gXX3TJYjX057fHsolYe0Vg,Forest Avenue Bagels,forest-avenue-bagels-staten-island,3.5,27,1.0
+35,XpAZBiSrLNi0t332tWxYcQ,Acme Smoked Fish,acme-smoked-fish-brooklyn,5.0,130,2.0
+36,YR5ahcsRjyK7gd_0QsHTtA,Broadway Hot Bagels,broadway-hot-bagels-bayonne,3.5,40,1.0
+37,1VBeb3BF8R8cwuCYGeMrVg,Zaca Cafe,zaca-cafe-brooklyn,4.5,102,2.0
+38,_LWMUKyw9H1kvFNO9PpP8Q,Queens Bagels & Delicatessen,queens-bagels-and-delicatessen-forest-hills,4.5,26,1.0
+39,v17RAmeyrEzzrzjO9qO6UA,Bagel Bin,bagel-bin-woodhaven,3.0,31,1.0
+40,KVQ0LXmKRUypqj8kNLFy5g,F&M Bagels,f-and-m-bagels-brooklyn,3.5,31,1.0
+41,31MggQt98zopMyERqcStUQ,Royal Deli Grill,royal-deli-grill-brooklyn,5.0,1,
+42,vrrJiOKEfCKnSOnEgagW7Q,Coffee & Green,coffee-and-green-queens,5.0,2,1.0
+43,ycnI-_jWp6h9R4KYFfHvfQ,Hudson Bagel,hudson-bagel-new-york,3.0,56,1.0
+44,-evII9Ur6vnWbmFoUrPfQQ,Hot & Toasty Bagels,hot-and-toasty-bagels-bayonne,3.5,16,1.0
+45,MB1ei80A6bUsnryCy5I2Ww,Metro Finest Deli,metro-finest-deli-brooklyn-2,4.5,11,
+46,s7cttMX_icK-T9HbJPZ1HQ,Riverdale Bagels,riverdale-bagels-bronx,3.5,28,3.0
+47,56qlj1cYlqNzmG0xllGg-w,Westville Dumbo,westville-dumbo-brooklyn,4.0,277,2.0
+48,9lWbPKuJKq-QoSJlkyzTRQ,The Bagel Emporium - Port Chester,the-bagel-emporium-port-chester-port-chester,4.0,53,1.0
+49,12anHG0qFlw8Jkb99RX3Mg,Mile End Delicatessen Brooklyn,mile-end-delicatessen-brooklyn-brooklyn,3.5,768,2.0
+0,GLtOZ-nqNPXxeqtG8cveRQ,Orwashers,orwashers-brooklyn,3.0,32,
+1,5GdVLhENpG_MBDVaP7RgEg,Java Day,java-day-flushing,4.0,34,1.0
+2,SAGXXiDD46O-iV_tFul51Q,Ridge Road Hot Bagel & Deli,ridge-road-hot-bagel-and-deli-lyndhurst,4.5,73,1.0
+3,M2CSxMwbkwJr_G_Bzp7Y5Q,Mah-Ze-Dahr Bakery,mah-ze-dahr-bakery-new-york,4.5,284,2.0
+4,kPWiM9tdCgp7z_iWs9suDg,Rockaway Bagels,rockaway-bagels-rockaway-park,4.0,41,1.0
+5,hGdkg4_1TzYDb4h4CBhS9A,The Bagel Mill,the-bagel-mill-new-york,2.5,116,1.0
+6,SWmQLtea4Cjr4YWWX-MS_Q,Milk 'N Honey NYC,milk-n-honey-nyc-new-york,3.0,107,1.0
+7,NFxYTAOXZ4cQQeX2Bm1GeA,Old Country Bagel,old-country-bagel-howard-beach,3.5,53,1.0
+8,yI-QJOXrhVMZeuDd6_Ur7A,P & C Bagels,p-and-c-bagels-middle-village,3.0,67,1.0
+9,bZc7uxqmmYLxLb14gfCOuw,Cafe Madeline,cafe-madeline-brooklyn,4.0,517,2.0
+10,cSg6wIFrYz_iYddUSV4BVw,Delimarie,delimarie-new-york-2,4.0,102,1.0
+11,9zlJ7CsIe0PpFplZepXaSQ,SMARTWICH,smartwich-new-york,5.0,10,
+12,4jtWfrGODTtbg5sar4cjPA,Cannelle Patisserie,cannelle-patisserie-east-elmhurst,4.5,752,2.0
+13,fGbwb2ELQihOmITsp3koLw,Bagel Nosh of Waldwick,bagel-nosh-of-waldwick-waldwick,4.5,76,1.0
+14,ktncNrHU5gYDFT8056FVCg,Teaneck Road Hot Bagels,teaneck-road-hot-bagels-teaneck,4.5,89,1.0
+15,ZHSSqpcuqzA5xcobuqBNZA,LoHo Gourmet Deli,loho-gourmet-deli-new-york,4.5,22,1.0
+16,dqfHeckcMJLhrRSjlPIynw,Avocaderia,avocaderia-brooklyn,3.5,226,2.0
+17,5Uab_sxfVCWM8neyrSK4Xw,Water Bagel & Deli,water-bagel-and-deli-norwood,4.5,15,1.0
+18,ht3DxDFrvMRSv9WeeX80NA,Lox,lox-new-york,4.0,49,2.0
+19,wuFn0SKmVdTgweA_7O9lVA,L & M Delicatessen & Catering,l-and-m-delicatessen-and-catering-new-york,4.5,93,1.0
+20,ZMQzXIiqdBIuicFySTWGKg,Dough,dough-new-york-2,4.0,1496,1.0
+21,TCYy1ULREceEiEu5h5FHPA,Olympias Finest Deli,olympias-finest-deli-new-york-5,4.0,50,1.0
+22,OUx6Jy5NTOXdCSdxEqycZQ,Pick-A-Bagel,pick-a-bagel-new-york-17,2.5,135,1.0
+23,V-y1DwncOHedKu5mjQxkZg,Bagels R Us,bagels-r-us-staten-island-2,4.0,65,1.0
+24,eqvKgylt-9s0R6hYMoN90g,Bagels R Bakin,bagels-r-bakin-brooklyn-3,2.0,9,1.0
+25,zDgMawyGcNqrknfcGKZZ0A,All American Bagel & Barista Company,all-american-bagel-and-barista-company-howard-beach,3.5,78,1.0
+26,5oL2eTFeSFP1aGj09cnsDA,Plaza Bagel & Deli,plaza-bagel-and-deli-staten-island,4.5,20,1.0
+27,cmOei5M6Vcw3h-j1ZqHHAA,Hillside Hot Bagels,hillside-hot-bagels-hollis-2,3.5,6,2.0
+28,4lBQFduDuS_kkMvfrp3sxQ,Mike's Donuts,mikes-donuts-brooklyn,4.5,130,1.0
+29,E5GYUN-Y5ewHRIE3wQZVEQ,Hello Deli,hello-deli-new-york,4.0,141,1.0
+30,A5YzhzVxX7JigLl5kmYbGg,Adventure Cafe,adventure-cafe-new-york-2,4.5,36,1.0
+31,Smj-UqUvNFneHKkuZ0BN7A,Kona Coffee and Company,kona-coffee-and-company-new-york,4.5,116,2.0
+32,p17WZDWekIuEuB10iPqqew,Cinnamon Girl,cinnamon-girl-brooklyn,3.5,91,1.0
+33,yRnLKQmmGgyUtLf3aw7nAQ,Swallow Cafe,swallow-cafe-brooklyn-3,3.5,194,1.0
+34,8QaVI3EgwfnflOaZRcwxAg,Clementine Bakery,clementine-bakery-brooklyn,4.0,443,2.0
+35,lZxSNPykKKuFrfVe3X4niw,Charlies Bagel & Deli,charlies-bagel-and-deli-woodbridge-township,4.5,47,1.0
+36,rl4rHDWcdDBqZhMA-JCaew,red olive deli,red-olive-deli-new-york,5.0,1,
+37,MHtbBc2np3sR7jiV9GphNg,Tribeca's Kitchen,tribecas-kitchen-new-york,4.0,504,2.0
+38,NJmg1hOn9356xnA6gcYNEA,Baba's Deli,babas-deli-brooklyn,4.0,13,
+39,CsD5A2eIEm3BZ0ETMh0m0w,Not Just Bagels,not-just-bagels-staten-island-2,2.5,129,2.0
+40,H8jXGkiLiv1iGSItqqubXw,Manor Bagels Café,manor-bagels-café-yonkers,4.5,63,1.0
+41,uQ4HZzNarBBNcTKZSIY-vA,Black Fox Coffee,black-fox-coffee-new-york,4.0,192,2.0
+42,0sXTHdwbJ_TEZq2WNjmGXw,Irving Farm New York,irving-farm-new-york-new-york-10,4.0,569,2.0
+43,_nlAcAkUMAxTqHTgHaBK5g,Plaza Bagel & Deli,plaza-bagel-and-deli-clifton,4.5,108,1.0
+44,oAfurJDEkcVozDQnJ5X8vA,Harrison Bagels,harrison-bagels-harrison,4.5,36,1.0
+45,pIQ0oSsZKO-IqOIlYH_pXw,Square Deli,square-deli-new-york-2,4.0,34,1.0
+46,6OSf-XAdH9z-jLiXxTPZKg,The Original Sandwich Shoppe of New York,the-original-sandwich-shoppe-of-new-york-new-york,4.0,185,2.0
+47,RmId9z8FZWDXsvfP0iV-8w,Long Island Bagel Cafe - Glen Cove,long-island-bagel-cafe-glen-cove-glen-cove,3.5,102,1.0
+48,AI_tbHT241OKCRpsUIy4bg,Parva Bakeshop Cafe,parva-bakeshop-cafe-jackson-heights,5.0,8,
+49,U7sxd0hTFhG9igBa0rK2vg,Harrison's Bagel Shop,harrisons-bagel-shop-harrison,4.0,113,1.0
+0,_3qAfCxRRB-C_lfYGuI1bA,The Bettered Bagel,the-bettered-bagel-staten-island,4.0,26,1.0
+1,S9sc-6uSsplyU073_4waTQ,Royal Crown Bakery,royal-crown-bakery-staten-island,4.0,445,2.0
+2,yaxvCNxFH6m86R1vfutMvA,Bagel Buster,bagel-buster-staten-island-2,4.0,3,
+3,abnEZlLrONsjAehT5awbyg,Pick A Bagel,pick-a-bagel-new-york-14,2.5,127,1.0
+4,mvNsJVCaDUcUu16yS23c7w,NY Hot Bagels & Bialys,ny-hot-bagels-and-bialys-forest-hills-2,3.0,27,2.0
+5,eJzVEVIHql5Vyi0jNxT0Xg,Santa Barbara Deli,santa-barbara-deli-manhattan,4.0,21,1.0
+6,18-qEPtsL2lbZH4ianmicg,The Granddaddy,the-granddaddy-new-york-2,4.0,111,2.0
+7,ztjT8hvC4UU35fA96rTkQg,Bonafide Delicatessen & Cafe,bonafide-delicatessen-and-cafe-brooklyn,4.0,26,2.0
+8,mIDV-IEfeZsQtVW1BUHXLA,Indie,indie-long-island-city,4.0,135,2.0
+9,gjVlhXFtyyiOs3POO8nSHQ,Bagels on Kings,bagels-on-kings-brooklyn,2.5,28,2.0
+10,9Xo3owk1WNBYUZaczwXvog,Cozy Deli,cozy-deli-new-york-2,4.0,11,1.0
+11,GE7mEVa1wm6BTLMe-blu7w,Smith Street Deli & Grocery,smith-street-deli-and-grocery-brooklyn,4.5,3,1.0
+12,377T_E91x6WRWjdjd3UyAg,Village Bagels,village-bagels-brooklyn,5.0,3,
+13,zT5vPRCOGFXBAGrFz-qc2g,Corner Grind,corner-grind-brooklyn,4.0,112,1.0
+14,PnIhJd9aWM3ClEFgNop5JA,Dawa 91,dawa-91-new-york,3.0,26,1.0
+15,pQkzgYnGnNzdCWriyGlfdg,Dweebs,dweebs-brooklyn,4.5,85,1.0
+16,LZZSTSgx4eBuv-T3Be9How,Sunset Deli,sunset-deli-brooklyn,4.5,53,1.0
+17,ttBo5Ts_cPKN5wXon4eglw,Broadway Deli & Bagels,broadway-deli-and-bagels-new-york,3.5,33,1.0
+18,OFJ2453VTKMh8Z87uBlV-g,Hot Bagels,hot-bagels-new-york-2,4.0,11,1.0
+19,rF7YK9EubHQ74FwXYmg-eA,Mudpark,mudpark-new-york,4.5,35,1.0
+20,8ZpHqfqSDPnqQ2P81uV4Zg,Lic Deli & Grocery,lic-deli-and-grocery-long-island-city,4.5,33,1.0
+21,wHNw5YMZBsoLd4ob74XSbw,Rolen Bagels,rolen-bagels-bronx,3.0,36,1.0
+22,JD3FFpr-DEl51Jd1IBfdfA,Locust Valley Bagels,locust-valley-bagels-locust-valley,4.5,11,1.0
+23,6BVCbBM9nmr85CEUNgxPaA,Cocoa Grinder,cocoa-grinder-brooklyn-4,4.0,141,1.0
+24,UVtRuihrZF9vwxHXZQOqYw,All American Bagel & Barista ll,all-american-bagel-and-barista-ll-broad-channel,3.5,36,1.0
+25,a0jNCZYlgkPwrgUNSe5UEQ,La Jugueria,la-jugueria-brooklyn,5.0,1,
+26,msoDeEHkvt7mbuYtl2nDmw,Cocoa Grinder,cocoa-grinder-brooklyn-5,3.5,103,2.0
+27,UBUoQ1UDPRioPOb4lJw94w,Rosa's Cafe,rosas-cafe-long-island-city-3,4.0,30,1.0
+28,ieHaRi-zTSLUsARqf8wQhw,Sunrise Bagel,sunrise-bagel-staten-island,4.0,9,1.0
+29,b8eHRzoFDRvpluLab2_RQQ,Bradley Bake Shop,bradley-bake-shop-bogota,4.5,12,
+30,7ivo20IScWLrY_Sp6N--vw,Seymour's Cafe,seymours-cafe-livingston,4.0,144,2.0
+31,5Iq46XSngo4RoUAedDxK5g,Compton's,comptons-astoria,4.5,85,2.0
+32,cCesIqo-LQt0cRlZAnrAZQ,Friedman's,friedmans-new-york-59,4.0,2450,2.0
+33,p7AK3xaLGgyG1jYP8kSzNw,Caffe Bene,caffe-bene-new-york-34,4.0,84,2.0
+34,yAlIuy3M3Fu4MImYQ7q_Fw,Healthy Greens Gourmet Deli,healthy-greens-gourmet-deli-new-york,5.0,7,
+35,GqcTRG5saxT8Db2ViYLheA,1080 Brew,1080-brew-ridgewood,4.5,28,2.0
+36,vlrX_iywV3c3iLrzjN-hMw,Gold Deli,gold-deli-new-york,4.0,6,1.0
+37,NJInr5_XgmewsyFGd3V2AA,The Bagel Shop,the-bagel-shop-hasbrouck-heights,4.0,62,2.0
+38,7XiKltREGe67tEnjRzWgZg,Bagel Nosh,bagel-nosh-butler,3.5,31,1.0
+39,tpPd77hwFlci6jT2E-0VfA,Corvo Coffee,corvo-coffee-new-york-4,4.0,48,1.0
+40,SdiyEqFZ2QBg8m4F1seMgw,Sunset Bagels,sunset-bagels-brooklyn,2.0,172,1.0
+41,VCqNjupCWZ5INzOcyBMJSg,The Grey Dog - Union Square,the-grey-dog-union-square-new-york,4.0,1054,2.0
+42,S-Z66xik60GYEtfD1ZMJpw,Cypress Inn,cypress-inn-ridgewood,4.5,120,1.0
+43,KJ_tU4Cjxvxf4X1YtsPF6w,Sunshine Bagel,sunshine-bagel-ardsley,4.0,85,1.0
+44,x5-HC3RrWY8QKg0e3GYteQ,Boonton Bagels and Gourmet Deli,boonton-bagels-and-gourmet-deli-boonton,4.0,56,1.0
+45,EB9cbdwOaLp4w9h6ocrRng,Lucky 7 Gourmet Deli,lucky-7-gourmet-deli-new-york,3.5,9,3.0
+46,KQwGWzirCIUdGVZQONqeVA,Lamars Bagel Express,lamars-bagel-express-manhattan,3.5,4,1.0
+47,9FTxg528ZSi2UFRSpifWYQ,Bagel Land,bagel-land-staten-island,3.5,19,1.0
+48,508S0MCamtvfLBZyPdg-tA,Ciao Bagel & Deli,ciao-bagel-and-deli-east-rutherford,4.0,64,2.0
+49,2juoC8oKA44U4vw-2CgBEw,Becky's Bites,beckys-bites-new-york,4.5,48,
+0,KSE8qPwGAxaKZEBkLAFLjQ,Big Belly Deli,big-belly-deli-brooklyn,3.5,19,1.0
+1,giuBfo5gckSXmQwV08Piyg,Brancaccio's Food Shop,brancaccios-food-shop-brooklyn,4.5,192,2.0
+2,btieKMUm5KZn9sbHVOqBtw,The Spot,the-spot-ridgewood-3,4.0,82,1.0
+3,XigD6ebv4WNMt7Wew5Ianw,The Bagel Bin,the-bagel-bin-staten-island,3.0,31,1.0
+4,ucGCdO8Q4DkKrVQyvsbd1A,Sofia & Grace Cookie,sofia-and-grace-cookie-brooklyn,4.5,50,1.0
+5,KHTmMPRqpzR2tuGfUTphDQ,Brooklyn Standard,brooklyn-standard-brooklyn-3,3.0,86,2.0
+6,nWckR5pzhJn2beSN7ngZhA,Grimaldi's Bakery,grimaldis-bakery-ridgewood,4.0,72,1.0
+7,M6uMYAfGywJiVNswIH35PA,Bake Shop,bake-shop-east-williamsburg,4.0,102,2.0
+8,eJCAgY59A38zakVXLCCBDQ,Emmons Bagels,emmons-bagels-brooklyn,3.0,21,2.0
+9,aI1yals6ghSQuXS_vMIbPw,Cafe One,cafe-one-new-york,4.0,184,1.0
+10,j7pPLo4MM-ydqFtB_cau4A,Three Guys Bagel,three-guys-bagel-baldwin,5.0,1,
+11,f_LF_IWOKg8t5-LLm2tZgQ,Bookery,bookery-brooklyn,4.0,41,1.0
+12,WEgZKSeh2zdvEsSGoQg3Bg,Brooklyn's Natural Deli,brooklyns-natural-deli-brooklyn,3.5,33,
+13,w4UNzQPHfevyL1AQXn4wVA,Good Vibes Coffee Shop,good-vibes-coffee-shop-forest-hills,5.0,5,
+14,tgxqF7k3jWnBecVjmZEbsA,Bagels & More,bagels-and-more-edgewater-2,3.5,27,1.0
+15,gzHRQ7ucrcriHkqDnqs_DA,Sam's Bagels Deli & Cafe,sams-bagels-deli-and-cafe-north-arlington,3.5,56,1.0
+16,-7mvJpV-gmOCT0HFNOhMNA,The Brothers Cafe,the-brothers-cafe-sunnyside,4.5,101,1.0
+17,9QdKriA9ef0C4ENbjR90NA,Gobo's,gobos-borough-park,3.5,12,2.0
+18,DO91C6baD0RSO-AN6cKCCA,The West,the-west-brooklyn,4.0,218,2.0
+19,vGFCPgKmDqsldeA7qadZbw,Terranova Bakery,terranova-bakery-bronx,4.5,37,2.0
+20,Ww_4_p0BTHQigxtWA6mN2A,Wonder Bagels,wonder-bagels-jersey-city-5,3.5,72,1.0
+21,PIX_ZMG3CLSEk74zyz7kUg,Hungry Ghost,hungry-ghost-brooklyn-4,3.5,28,1.0
+22,V_HFGmoiKLMTKm5Lm4wOwg,Knapp Street Bagels,knapp-street-bagels-brooklyn,3.0,33,1.0
+23,_XWc8K-wrIwuef8Ac0j3tg,Butch & Coco Cafe,butch-and-coco-cafe-bedford-stuyvesant-2,3.5,210,2.0
+24,Wh2K9iqjBmnlqv3T8bu6sA,Simit Sarayi,simit-sarayi-new-york,4.0,342,2.0
+25,sDvP6T7Rvd1DHulbJyuH7w,Breads Bakery,breads-bakery-brooklyn,2.5,4,
+26,rXSg2TOOcAXkXeF7CFRMEQ,Tal Bagels,tal-bagels-new-york-2,3.0,370,1.0
+27,ra-t8lzzy3Q4uE8RaWPK_Q,Konditori,konditori-new-york-9,5.0,5,
+28,J8vYLM7uMNrhiz6RzhX7yQ,Bony's Bagels,bonys-bagels-brooklyn,3.0,20,1.0
+29,r3SmFWVVoBBIIvsAGlTy5Q,Coffee Z,coffee-z-flatbush-ditmas-park-4,4.0,66,1.0
+30,wXiIxbnFRaFBS9RI4wJrdw,Baba Cool,baba-cool-brooklyn,4.0,177,2.0
+31,Zzu6Y6t3UdveFnSpbu2YrA,Bagel Express II,bagel-express-ii-new-york-5,2.0,31,1.0
+32,HyGMiwv6IkT3AYVDZ88QjA,Metro Feast,metro-feast-brooklyn,4.0,40,1.0
+33,Yfn8P_DDB02Z1yueI5-ULA,Schuyler Bagel Deli,schuyler-bagel-deli-north-arlington,3.5,31,1.0
+34,EabbdIeb0D_8UUQ0KmoPlA,The Great American Bagel Bakery,the-great-american-bagel-bakery-new-york,1.5,25,
+35,hz50-p9Oa_RcTYPSjiD_Ig,Long Island Bagel Cafe - Mineola,long-island-bagel-cafe-mineola-mineola,4.0,75,1.0
+36,kvpSqh3q7r3HK3Tw-wXGEQ,Ashbox,ashbox-brooklyn,4.5,127,1.0
+37,XR-ukhC5BvAKDq1oTQrQ9A,Ad Hoc | Collective,ad-hoc-collective-new-york,5.0,63,2.0
+38,p8lfOG4oKeFt95ngi3Qo_g,M&O Bagels,m-and-o-bagels-jamaica-2,3.0,4,
+39,dRUOqgN2Ct7L-vVvkpBBzg,Deli Fusion Cafe & Juice Bar,deli-fusion-cafe-and-juice-bar-brooklyn,4.5,3,
+40,Y5vNDWPehr_MaHiJTYoAFQ,Kosher Bagel Hole,kosher-bagel-hole-brooklyn-3,4.0,7,
+41,4rasslxwedHuFMCjEnlZBA,Farmer in the Deli,farmer-in-the-deli-brooklyn-3,4.5,8,1.0
+42,LJ0y9Kkfpo8RCVYSQIseIw,Hamilton's Cafe Restaurant,hamiltons-cafe-restaurant-new-york-2,3.5,208,2.0
+43,6JCeOkxlueWsVkcEaoq_rA,Eastside Bagel & Appetizing,eastside-bagel-and-appetizing-new-york,2.5,87,1.0
+44,I41VRmgmiQ4kITgFZtJlvQ,Old Poland Bakery,old-poland-bakery-brooklyn-2,3.5,23,1.0
+45,_1SQuOtJI1PXK3DSu7nrWw,Park West Cafe,park-west-cafe-new-york,4.5,67,1.0
+46,jzQNE09rRKz8Ou-bEdEY1Q,The Grey Dog - Nolita,the-grey-dog-nolita-new-york-3,4.0,587,2.0
+47,EtgNqPyHjN2sCi_LTXvAIQ,Bagel Crepas Cafe,bagel-crepas-cafe-west-new-york,2.5,27,1.0
+48,lkH6Osb_YNQzk66GeI7chw,Qathra,qathra-brooklyn,4.0,324,2.0
+49,KGAF6jKzyQ9fDbtUm_iHWQ,Daily Press Coffee,daily-press-coffee-brooklyn-13,4.0,68,2.0
+0,lOzgdc3RareiFMYfNTsBig,C-Xique Cafe,c-xique-cafe-brooklyn,5.0,3,
+1,ayXks_0MqvVjU3eub7y-sw,Yura at Coleman's,yura-at-colemans-new-york,4.0,18,2.0
+2,ZnNyNdhU2tUE07S2P3sF9g,Simply Bagels,simply-bagels-newark,3.5,19,1.0
+3,ml5hBBDsEILy9WsTQyyV-Q,B Cup Café,b-cup-café-new-york-5,4.0,375,1.0
+4,jZZMmT7Mk3S-fNjXcq3Ksg,Devocion,devocion-williamsburg,4.0,437,2.0
+5,xniqwR_HbfITdtTh-MS6Ow,10th Ave Deli,10th-ave-deli-brooklyn,4.0,5,
+6,24YnertUO8mNQTv69OTInQ,Cafe Nala,cafe-nala-flushing-2,4.0,1,
+7,wA5WLYvThEsZc1Te_4Lcbw,Essex Market,essex-market-new-york-2,4.0,262,2.0
+8,dhEM2sJqAxyVg4FFjV9q-g,Not Just Bagel Store,not-just-bagel-store-brooklyn,3.0,2,
+9,urH_DOStE-SkScFn6uVwQQ,Bagels on Park,bagels-on-park-weehawken,4.5,33,
+10,9-15fqwnOxi99KuN8rRx8Q,Bravo's Cafe,bravos-cafe-ridgewood,4.5,28,1.0
+11,xn_Ve3wONHTAVBVtSNXYSg,Le Cafe Coffee,le-cafe-coffee-new-york-4,4.0,56,1.0
+12,QG8pqZsrnr-wTCMLn3UeBQ,The Fillmore Delicatessen,the-fillmore-delicatessen-new-york-2,4.0,91,2.0
+13,kA98xP8HiJ_-fVaM7RECLw,Laughing Man Coffee & Tea,laughing-man-coffee-and-tea-new-york-3,4.5,231,2.0
+14,Q2R8CqeK0B3gDAPf4a_qTQ,Bagels on the Run,bagels-on-the-run-new-rochelle,5.0,1,
+15,l5sLJ9KVAt2E7wonuyXrUg,Good Morning Brooklyn,good-morning-brooklyn-brooklyn-2,4.5,50,2.0
+16,wIAuuao7hVDYVJA1mCPa3g,Syrena Bakery,syrena-bakery-brooklyn,3.5,90,1.0
+17,CNKQ7K0FW4pRh83VHma2aQ,Bagels by Jarrett,bagels-by-jarrett-west-orange-3,4.0,14,
+18,zwFS-FcGe062to_rWWkLCw,Bouchon Bakery,bouchon-bakery-new-york-2,4.0,793,2.0
+19,rKbnm4TOYB1rqY4DCO_1kg,Legal Grounds Coffee Company,legal-grounds-coffee-company-jersey-city,4.0,154,1.0
+20,D8kLhn0QRqsMEaaRmq1v-Q,Brooklyn Barista,brooklyn-barista-new-york,4.5,54,1.0
+21,tvZFDotgUGBZLSFQAkvbsw,Wonderful Bagel,wonderful-bagel-union-city,3.5,10,
+22,nHt_KvHIxR6k8ljgZzO6xA,My NY Bakery Cafe,my-ny-bakery-cafe-new-york-2,3.5,137,1.0
+23,Pxa-Lu2gPyuDnURCQCYh5g,Hot Bagels,hot-bagels-rego-park,4.0,1,
+24,IKjwBQ_x1n05aWl0pVgdhw,Brother's Bakery Cafe,brothers-bakery-cafe-new-york,3.0,69,2.0
+25,WrKMiUnPRKiUwSJKIfH7qg,Uncle Zack of Brooklyn,uncle-zack-of-brooklyn-brooklyn,4.5,4,
+26,0IWkuFkLzL6lFKRGApZpHg,New York Bagels Deli & Catering,new-york-bagels-deli-and-catering-yonkers-5,4.0,86,1.0
+27,uVltnWMbz2rbovVB_ykMXg,Smith Food Express,smith-food-express-brooklyn,4.0,4,
+28,7-Rr97T-mcgVvL1yTTCAXg,Jack's Stir Brew Coffee,jacks-stir-brew-coffee-new-york-2,4.0,195,1.0
+29,KYetiiGL419Ds85eSgbsLQ,Mr Bagelsworth,mr-bagelsworth-edgewater-2,2.5,121,1.0
+30,wnyX_yg4ddSDkupwFKftIA,Bonafini,bonafini-brooklyn-2,4.0,349,2.0
+31,m9Ud-Z_3AnRca9gUe95crQ,Gansevoort Market,gansevoort-market-new-york-2,4.0,265,2.0
+32,cfL1Wje0_seF0wK5Fg28Eg,Big John's Coffee Shop & Grill,big-johns-coffee-shop-and-grill-brooklyn,4.0,85,1.0
+33,yfA52uk39F81HWUgHBTP0g,Communitea,communitea-long-island-city-6,4.0,123,1.0
+34,OgD0x62tGI00MIfsiDBo5A,Ziggy Deli & Grill,ziggy-deli-and-grill-brooklyn,5.0,1,
+35,zGm5wcEjhtTe-oXXxUxbZg,Queens Bagels,queens-bagels-queens,4.0,6,
+36,4GBqDgTYsV7owGzNMyAFKA,Sullivan Street Bakery,sullivan-street-bakery-new-york-3,4.0,499,2.0
+37,_NSJIRNz353rdfnrrFHfNA,Bagel Plus,bagel-plus-whitestone,3.5,9,1.0
+38,Bz2mmDbLkZrGvOP32z78Xw,Dale Bagels On Fifth,dale-bagels-on-fifth-brooklyn,3.0,1,
+39,sMs617fQhkbT_P_0jdycfw,Bagel and Bagel,bagel-and-bagel-ridgefield,4.0,5,1.0
+40,yaBrQbt7kMrbXAo6qrzpYw,By the Way Bakery,by-the-way-bakery-new-york,4.5,226,1.0
+41,iJtJ3W_o0uHtHmLkcjI3Gw,Cafe Frederick,cafe-frederick-new-york,4.0,115,2.0
+42,0LtLFRGu0SYc3i4nGIabmA,The Bagel Shoppe,the-bagel-shoppe-hackensack,3.5,65,1.0
+43,Etg2R7kFSSExsvki0sOqug,The Original John's Deli,the-original-johns-deli-brooklyn,4.0,319,2.0
+44,8a4gmh_gjbB9tKcroYYGeA,Gabe's Bagels,gabes-bagels-east-hanover,4.5,19,1.0
+45,Vm5IE56Cs-j-9vL5pM-ZjA,Friendly Bakery,friendly-bakery-east-elmhurst,4.0,12,1.0
+46,qJKpT5IBm5q3b4BbskWpZw,Clove Road Bagels,clove-road-bagels-staten-island,3.5,18,1.0
+47,EjnhjQqJtSgR9jrE3e3Zsw,High Ridge Bagel Factory,high-ridge-bagel-factory-yonkers,4.0,50,1.0
+48,89CU-YUwK-4cXJmgAbBmIg,TK's Deli,tks-deli-brooklyn,5.0,20,1.0
+49,57qSiQxn2KV6Q4HFsud04Q,Gotta Getta Bagel Of Woodmere,gotta-getta-bagel-of-woodmere-woodmere,4.0,19,1.0
+0,ZkzfvzknQN5qdslUWARIqQ,Cute Cat Cafe,cute-cat-cafe-ridgewood,4.0,89,1.0
+1,VDPU_uI93xjbyRjxYUAQ2g,New York City Bagels & Deli Cafe,new-york-city-bagels-and-deli-cafe-union-5,4.5,42,1.0
+2,5wPuuBi8fxhgpfAjYG2O8w,B & B 47,b-and-b-47-new-york-2,5.0,1,
+3,ZjURVd4EPAQccOJPULfzDQ,D'oh Bagels,d-oh-bagels-rahway,4.0,76,1.0
+4,-xsfZuzXvjGZefnMMvlL5w,Bklyn Bagel,bklyn-bagel-new-york,4.0,1,2.0
+5,39g9pylx-xeIHihTe76HbA,Fermento,fermento-brooklyn-2,4.5,49,2.0
+6,kTSejIjmKGsK1Erwdser4g,Broadway Au Lait,broadway-au-lait-new-york,4.0,46,1.0
+7,iF1wqaFU-JgElX1lCGda6A,Ama Coffee,ama-coffee-ridgewood-8,4.0,57,1.0
+8,wHKe53FbmN4RXltt_-VG8A,Plaza 4A Cafe,plaza-4a-cafe-jersey-city,5.0,2,1.0
+9,X__xiM9Vdf_s2afHgVogCw,Bagel Boy,bagel-boy-old-bridge,4.0,99,1.0
+10,sR60I9PI_63noBQcGoIrbw,Pause Cafe,pause-cafe-new-york,4.5,395,1.0
+11,NQsjljhkgdFUDma2KarC4g,Bagels Convenience Store,bagels-convenience-store-brooklyn,2.5,7,1.0
+12,KWPqhblxnHeuwN7fFqGkHg,Konditori,konditori-brooklyn-4,3.5,138,1.0
+13,-ZXuigrnHtaNHjyQukOAQg,ELK Cafe,elk-cafe-brooklyn,3.5,87,1.0
+14,8sPvW08yqz4i5pWsJyM3Zw,Bagel Supreme,bagel-supreme-rutherford,3.5,86,1.0
+15,Btt2qfT58Xms9ACmtUPa9g,Hot Bagels & Deli,hot-bagels-and-deli-parsippany-troy-hills-2,4.5,55,1.0
+16,6gPTgbbfQ8s4g-V6o80Bbw,Continental Luncheonette & Deli,continental-luncheonette-and-deli-forest-hills,4.5,19,1.0
+17,huxqhCdgThmY-r5x1cVrrA,The Market Place,the-market-place-brooklyn,4.5,8,1.0
+18,XT_5b_PQvYivc1T9RPdS3A,Champs Gourmet Deli,champs-gourmet-deli-new-york-3,3.5,49,1.0
+19,ZpM4wyUdWJFdd9ICtJJm8Q,Butterfield Market,butterfield-market-new-york,4.0,120,2.0
+20,nU4XBdvxDABXqZ6CnB8Dig,Clinton Street Baking Company,clinton-street-baking-company-new-york-5,4.0,5064,2.0
+21,yuADDB0087gWVzo9Zep9FA,Cinnamon Girl,cinnamon-girl-brooklyn-2,3.0,68,2.0
+22,bMepacmKDTwCdHJAU860bQ,Le Café Coffee,le-café-coffee-new-york-2,4.5,169,2.0
+23,MWfq0o_U6UrcAJjcV-JlAQ,Sunset Bagels,sunset-bagels-new-york,2.0,103,1.0
+24,fNzbSHk9DLAcGj0FzDMskw,Long Island Bagel Cafe - Long Beach,long-island-bagel-cafe-long-beach-long-beach,3.0,125,1.0
+25,6PwI_HV9JB8ZM0vbgfVGdA,Scarsdale Bagels,scarsdale-bagels-scarsdale,4.0,79,1.0
+26,saUL4G6DkpacnQlAwDNDjw,Glendale Bake Shop,glendale-bake-shop-maspeth,4.0,38,1.0
+27,5HUIrr9wip_mdxh4toFXZg,Bagel Road,bagel-road-brooklyn,2.0,23,1.0
+28,TGzunE1-s5F2f7L2xDXNaA,Nature's Gourmet Deli & Organic Food,natures-gourmet-deli-and-organic-food-brooklyn,5.0,3,1.0
+29,_G6lH3rUyhyIxXHyQWFlag,Bien Cuit,bien-cuit-brooklyn,4.0,388,2.0
+30,eQz7gXepvLQBFapDckic2g,New York Bagel Stop,new-york-bagel-stop-new-hyde-park,4.5,31,1.0
+31,ysqgdbSrezXgVwER2kQWKA,Juliana's Pizza,julianas-pizza-brooklyn-5,4.5,2176,2.0
+32,GH-NVjwfBvCmA9vSci_ehg,Parkview Market,parkview-market-williamsburg,4.0,19,
+33,5Cl4fAdMcMwHh36iCn52eQ,Rispoli Pastry Shop & Cafe,rispoli-pastry-shop-and-cafe-staten-island,4.0,24,1.0
+34,cBHGXowGSw3XB4mq8ELo9g,Sunrise Deli & Grill,sunrise-deli-and-grill-brooklyn-2,5.0,1,
+35,SGkJanKe0-T1C3Fp4SSdYQ,Pizza & Bagel on 3rd,pizza-and-bagel-on-3rd-brooklyn,3.0,16,1.0
+36,VLZVwG3EHlEsQa2zgtM5RQ,Central Market,central-market-new-york-6,2.0,8,4.0
+37,Uc2RN5pw1tsPI3uIqJfw1Q,Cafe 28,cafe-28-brooklyn,4.0,9,1.0
+38,x0mkbKy70EhEXOIsJGkc4w,Mike's Coffee and Deli,mikes-coffee-and-deli-new-york,4.5,27,1.0
+39,MYYWU9rEIRZw43lACKXzTQ,Yours Truly,yours-truly-new-york-4,4.0,88,2.0
+40,oXcklrwG266XY3qyADCTWw,Root Hill Cafe,root-hill-cafe-brooklyn-4,3.5,174,2.0
+41,l8PImEQKEdN03CVij9AE6g,Bagelicious,bagelicious-ridgewood,4.5,63,1.0
+42,yPtkSI5C_ksc1jD0dLuTpQ,Parade Cafe,parade-cafe-brooklyn,4.0,56,2.0
+43,R8OGE7C4u_22y8KL8zdHyQ,The Mill Coffee Company,the-mill-coffee-company-long-island-city,4.0,87,2.0
+44,eY39Q5fJJMaMiF6sS1S5Hg,East Side Gourmet Deli,east-side-gourmet-deli-new-york,4.0,19,1.0
+45,Y2ozBryp-FognnApUuzkGg,Daily Press Coffee,daily-press-coffee-brooklyn-8,3.5,157,2.0
+46,LJzLqA7uQVS-zHF2TzHKLA,Bagel Cafe,bagel-cafe-staten-island-2,2.5,19,2.0
+47,VX9XPnQ3-k7vdGKLxu1qBw,Hunky Dory,hunky-dory-brooklyn,4.0,69,2.0
+48,B2OFn3oyBJL6qq89thCe0g,Gold Star Deli & Grocery,gold-star-deli-and-grocery-brooklyn,5.0,2,
+49,4ADum3m4i7MXzqDEjb0l5Q,Hot Bagels & More,hot-bagels-and-more-staten-island-2,3.0,16,1.0
+0,qr65Uti0kx89xmCmZBsC1A,Queens Bagel Town,queens-bagel-town-forest-hills-2,2.5,20,1.0
+1,-wlJgbNPpPv5PWtvIDL6rQ,Giacomo Fine Foods,giacomo-fine-foods-new-york,4.0,36,1.0
+2,FaSL5EkhXfmaRG1T7w4ZNg,Bagels-4-u,bagels-4-u-springfield-6,5.0,1,
+3,Fq54Vwq3GsBjWJ0o0xdAlA,Dough,dough-new-york-5,3.5,177,1.0
+4,UuCci7d95CAYSSvWbB30-g,Luna Coffee Shop,luna-coffee-shop-new-york,4.5,236,1.0
+5,M_ldoaPR-pZlrnO47jDpPA,Willoughby General,willoughby-general-brooklyn,4.5,28,2.0
+6,cotF48UHQE3V-4sLwNu5IQ,Bagel Corner,bagel-corner-bronx,3.0,96,1.0
+7,Wg-Tn-Z2Ck6PbYuIiNYXpg,Hungry Ghost,hungry-ghost-brooklyn-2,3.0,75,1.0
+8,VoIhz-TKteJi_V-Z2ZDelA,9th Ave Deli,9th-ave-deli-new-york,4.0,1,
+9,C7eNzsZ-3ni4SHwwR_zg9Q,Flor Cafe,flor-cafe-brooklyn,4.5,14,
+10,WBQPnEuUm8BfAylBov_MGg,Matto Espresso,matto-espresso-new-york-20,4.5,32,1.0
+11,vxtqCBTxwtEv64AqGFmNcQ,Bagel One & Deli,bagel-one-and-deli-edison-2,5.0,4,
+12,9FS4IF4NcflcfICXd0MPyQ,Bagel Bistro Diner & Grill,bagel-bistro-diner-and-grill-staten-island,2.5,87,2.0
+13,GlPJPpKvPR4d8dmcSEYpdA,Takahachi Bakery,takahachi-bakery-new-york,4.0,899,2.0
+14,MaqOf2swTH-HnXqL7kUPjg,Hidden Grounds Coffee,hidden-grounds-coffee-jersey-city-2,4.5,106,1.0
+15,Zt5cZJ1x8VvmfsN__aFLxA,Lil Jay's,lil-jays-new-york-2,4.0,4,
+16,BpXlQ2Ra_namHlrCgT6dYg,The Corner Cafe,the-corner-cafe-new-york,2.5,134,1.0
+17,1YIwVc2Djh6FFFBbmtdUHw,Little Zelda,little-zelda-brooklyn,4.0,193,1.0
+18,XaIPH8-rO_KIrDYkthXQLw,Le Cafe Coffee,le-cafe-coffee-new-york-11,2.0,6,
+19,igQ9CK71aQZyNXNbfNhVtQ,Cafe 11,cafe-11-new-york-4,4.5,35,2.0
+20,jBn3NZmLK9uFT9QeeIcfvw,Irving Farm New York,irving-farm-new-york-new-york-14,3.0,86,1.0
+21,_cIkwJKWMWINC5lTcLn91A,Fallsburg Bagels,fallsburg-bagels-borough-park,3.0,6,1.0
+22,lxKFLdnWRglNVQg7O20-RQ,Sweet Life Pastry,sweet-life-pastry-new-york,4.5,113,1.0
+23,6HN8buUEzI2tz1daq5ivKw,Jillys Off the Corner,jillys-off-the-corner-flatlands,4.0,47,2.0
+24,qFmSF08s_9OYPPokDU5X2Q,Holmdel Bagel Market,holmdel-bagel-market-holmdel,4.5,20,1.0
+25,OijOkEDjBlIw7v9tbBTGVQ,Lenz Delicatessen,lenz-delicatessen-new-york-39,3.5,33,1.0
+26,ZDtyYo8S3vsUB_hmBma-rw,Rutherford Bagels & Deli,rutherford-bagels-and-deli-rutherford-2,4.0,15,1.0
+27,J1ociP0f_wRyb3uY8H2AeA,Cafe Fresco,cafe-fresco-new-york-3,3.0,101,1.0
+28,Gam--Dhp7kQOmbTJZYt_kg,Blue & Gold Deli,blue-and-gold-deli-new-york-2,4.0,25,1.0
+29,sgKSQUu1ISc8kni6z_v3Jw,Catania Bakery,catania-bakery-brooklyn,4.0,51,1.0
+30,GqQ5J5nfBp0Q4FkKwvvqKw,Martha's,marthas-jersey-city-2,4.5,49,1.0
+31,sduwD90MCPMeeZeS5XixWw,Bagels On The Hudson,bagels-on-the-hudson-hoboken-3,2.0,266,1.0
+32,YLVvBYOumnR9ewrrqQbcxA,Anthony & Son Panini Shoppe,anthony-and-son-panini-shoppe-brooklyn,4.0,319,2.0
+33,86d1dsvm9dyARtaAQmjfUg,Rudy's Pastry Shop,rudys-pastry-shop-ridgewood,4.5,221,1.0
+34,rMpfR1WeL01Up3Jw6Kcnsw,Pompton Lakes Hot Bagels & Deli,pompton-lakes-hot-bagels-and-deli-pompton-lakes,4.5,18,1.0
+35,fFbbQLGkb8DAtZXWeiC8YA,One For The Road,one-for-the-road-flushing,4.5,35,1.0
+36,dkTY6w-Cl4spq-AIXFDDPw,Bagel Pantry,bagel-pantry-metuchen,4.0,109,1.0
+37,QlRrzhwmJVtf3xlDGKez7g,The Winners Circle Deli,the-winners-circle-deli-yonkers,4.0,2,
+38,hRR5al7MQ-Pn3xXq6OIMqg,Bagel Box,bagel-box-little-ferry-2,4.5,40,1.0
+39,KJGj2BhJ61oNuToxCCijcg,Crocus Juice Bar and Cafe,crocus-juice-bar-and-cafe-brooklyn,4.0,45,1.0
+40,b5x-Fw7I7Y88TdFIzvbsnw,Supermoon Bakehouse,supermoon-bakehouse-new-york,4.0,706,2.0
+41,0vuzpq5d_KdFHDmBblKuVg,Your Way Cafe,your-way-cafe-brooklyn-2,4.0,102,1.0
+42,pg-crIvq6f5Cl6mGohzkTA,UGC eats!,ugc-eats-new-york,4.5,85,1.0
+43,Xb5TPvCRdjXtkaj1YhMM1g,Lords Bakery,lords-bakery-brooklyn-2,4.0,179,2.0
+44,U5hCNNyJmb7f3dmC1HTzSQ,Junior's Restaurant & Bakery - 45th St.,juniors-restaurant-and-bakery-45th-st-new-york,4.0,4619,2.0
+45,6yxptRwmmGd0rpKLW7TZig,M & O Bagels,m-and-o-bagels-ny,3.0,17,1.0
+46,VKKXe8TdToQN5vXfxj5csg,Mani Market Place,mani-market-place-new-york,4.5,70,1.0
+47,HBYFOVaIl_RMWRamjwOjYg,Stage Door Deli,stage-door-deli-new-york-2,3.5,133,2.0
+48,JTTwxCJ8SZxnPTmmjt8e9w,Bagel Hut,bagel-hut-great-neck,4.0,63,1.0
+49,1KS8IU6SY_bN6L595KG6pQ,Black Rail Coffee,black-rail-coffee-hoboken,4.5,112,1.0
+0,pcZPzVJ9DRYXKji-OdWGPg,Bagels Bread & Butter,bagels-bread-and-butter-staten-island,2.0,21,2.0
+1,eq_jhDw9D38RAhyv09axTg,Effy's Cafe,effys-cafe-new-york-7,4.0,230,2.0
+2,RwKdOmt4ebKb773FBEZ3rw,Oh! Bagel Cafe,oh-bagel-cafe-brooklyn,3.0,15,2.0
+3,PdcB4daCohIe1kvUNspmJA,Oakwood Bagels,oakwood-bagels-staten-island,5.0,1,
+4,hH5PbL-5BpYKKhJhkD_kqA,Broadway Bagel,broadway-bagel-new-york,4.0,176,1.0
+5,w8Mv4_Yiw5JGPV5BP0N5og,Corvo Coffee,corvo-coffee-new-york-2,4.0,107,1.0
+6,ipygjHXH9PqQS6aqU54RcQ,Partners Coffee,partners-coffee-brooklyn,4.0,469,2.0
+7,FICG_p7mO509HRE-VewuKw,Angelica's Bakery,angelicas-bakery-bronx,4.0,13,2.0
+8,r0rFKMVM8Mpsztx50FZg9Q,Lexler Deli,lexler-deli-new-york,4.5,25,1.0
+9,AFc0FcQ5D0rTLATtWbD_Jw,GFG Bakery Cafe,gfg-bakery-cafe-new-york-3,4.0,50,2.0
+10,46z14Ecw4FafVjlgo2RS1A,Old Fashioned Malatesta Deli Italy,old-fashioned-malatesta-deli-italy-union-city,5.0,1,
+11,CXgpu7gm6ofb_ldC_q9GmA,BB Cafe,bb-cafe-long-island-city,4.5,16,1.0
+12,ApF_UL51-gi8lRcv5fn-IQ,Traditional Bagel Café,traditional-bagel-café-new-rochelle,4.5,42,1.0
+13,hmicWRy8GryJVu1agXzDyQ,US Bagels,us-bagels-valley-stream,4.0,42,1.0
+14,E2Pil7qZLKNdK0wuKzkFTA,Zabka Coffee,zabka-coffee-brooklyn,4.5,82,1.0
+15,ufxPNPXGdOwq51kXjOnmqg,Hole Lot Of Bagels,hole-lot-of-bagels-middletown,4.0,22,1.0
+16,YnU0iNHkOZ1FgDGGNzJ5-Q,Tin Cup Cafe,tin-cup-cafe-greenwood,4.5,76,1.0
+17,ip733nbgjaMMazfQ-Ibhgg,Fiat Cafe,fiat-cafe-new-york,4.0,573,2.0
+18,FFQ6Ie0Mat3I9W7X4W6b2A,Wonder Bagels,wonder-bagels-jersey-city-2,4.0,101,1.0
+19,H2_mpDKae_hILgi0AG_9_A,Tap NYC,tap-nyc-new-york,4.0,182,2.0
+20,OkMo8pzx8RuGs16ngYBoSw,Jack's Stir Brew Coffee,jacks-stir-brew-coffee-new-york,4.0,240,2.0
+21,hJTvq7akdVyH8-pt19xs1A,South Shore Hot Bagels,south-shore-hot-bagels-staten-island,3.5,11,1.0
+22,uiq5ORHkzOa71MUwPdhf0w,Sunrise Hot Bagels,sunrise-hot-bagels-belleville,3.5,74,1.0
+23,F8hD8eWZKBts0s3A09vomQ,Hot Bagels Abroad,hot-bagels-abroad-bloomfield,4.0,142,1.0
+24,2AZdpFlCCNyxmL-d58ZRsA,94 Corner Cafe,94-corner-cafe-new-york,3.0,130,1.0
+25,zV1_EFMN4VY7Rxpv7P-ajg,Sunflower Cafe,sunflower-cafe-new-york-5,4.5,91,2.0
+26,jF2iygogFDhvY-54GQbf7A,Matto Espresso,matto-espresso-new-york-15,4.5,70,1.0
+27,yXdw3AZIp1Rk9ps2iqsFyw,Simon Sips,simon-sips-new-york-4,4.5,205,2.0
+28,gPattIGuKxCgeNjxfEMDjg,Punjabi Junction Of 87th,punjabi-junction-of-87th-new-york,5.0,1,
+29,Yv4bJB1CFW51q8cWCaCFrw,Jessie's Express Cafe,jessies-express-cafe-new-york,4.5,33,1.0
+30,ByH84cSMYH-zgPCiU7W5gg,Nature's Vida,natures-vida-woodside,3.0,25,2.0
+31,XvUI9Hs4ssljXf4u91geOA,World Famous Deli,world-famous-deli-brooklyn,4.5,12,
+32,p0Q6wmBzOw7f3NAyVP3gbQ,Kosher Bagels Avenue M,kosher-bagels-avenue-m-brooklyn,3.0,6,2.0
+33,MjkCDpn7zYYXj2bBP3Oadw,Black Star Bakery & Cafe,black-star-bakery-and-cafe-new-york-2,4.0,28,
+34,xs6umHYXU6S5oGEFY_VNsQ,Bean & Bean,bean-and-bean-new-york,4.0,177,2.0
+35,gz3NdExvgLuhZTs4wqTzfQ,Green Island Gourmet,green-island-gourmet-brooklyn,4.0,1,
+36,FYTYlcDiqidBZfl0lNibMg,Corner Cafe and Bakery,corner-cafe-and-bakery-new-york-3,3.5,277,2.0
+37,QsFq1abNnINgrvOO6hIK3Q,Cafeccino Bakery,cafeccino-bakery-bronx,4.0,25,1.0
+38,IReRSHK0JWe2JjwKdQV1sA,Tre Jolie Cafe,tre-jolie-cafe-new-york,4.0,5,
+39,lSeEbTefwsBytTjOigFLlQ,D&D Coffee Shop,d-and-d-coffee-shop-brooklyn,4.0,125,2.0
+40,S6IQCCdE-HW_RTzdlJdOjQ,Barry's Bagel & Deli,barrys-bagel-and-deli-clifton,4.5,90,1.0
+41,zmpeq71GTWfiub4cpBLvVA,Wally Bagel Nosh,wally-bagel-nosh-river-vale,5.0,1,
+42,qQyknbv7ndx0HslLZd7xyg,a.cafe,a-cafe-new-york-3,4.0,271,2.0
+43,ljyoKg8UYnAbXiZ6xCN8UA,The Bagel House,the-bagel-house-lodi-2,4.5,80,1.0
+44,a4X1S6_9uB-08tIAjkMgSg,Bagel Depot,bagel-depot-staten-island,3.0,39,2.0
+45,jcZC0RPaCV9nQWR-Gr2wTg,The Chameleon BK,the-chameleon-bk-brooklyn,4.0,8,
+46,ngrgNE6xT54amiZvxGttWw,Aubergine Cafe,aubergine-cafe-woodside-3,3.5,325,2.0
+47,wwiA9nw0PStaMUPOkm1eYA,Ave L Fish Market,ave-l-fish-market-brooklyn,3.0,1,
+48,HxZflyUo1VWE6lF_b_rHVA,Choice Market,choice-market-brooklyn-6,3.5,420,2.0
+49,JmMRyBzsu49Inhr7ifEWlA,Dunkin',dunkin-glendale-5,5.0,1,
+0,Yw6HeHZ0OutaEHlcQY35GA,Willoughby Food Bar,willoughby-food-bar-brooklyn,2.5,3,
+1,MsJPsCkbhXkuTy7ph4AqMA,Aminas Cafe,aminas-cafe-bronx-2,5.0,10,
+2,4kiTp1WyohpXl-DKvi0WGQ,Hearts Coffee Bushwick,hearts-coffee-bushwick-brooklyn,4.5,52,2.0
+3,9BM1-Obd5Dr8pErgyBbQAQ,The Commons Chelsea,the-commons-chelsea-new-york,4.0,227,2.0
+4,4EUiVxf2XxfwI9iVVpeWsw,PROOF Coffee Roasters,proof-coffee-roasters-new-york-11,4.0,102,1.0
+5,KE8DUBYGMz77qWQ-M6RvMQ,Ben's Bagel Barn,bens-bagel-barn-little-ferry,3.5,52,1.0
+6,vKysdsE8IjOtNgSmEQd0og,Capri Bakery Corp,capri-bakery-corp-new-york,3.5,62,1.0
+7,HZRxPgfZRt6Fk6xITFLUhA,Shop & Save Superette,shop-and-save-superette-staten-island,4.5,7,
+8,j4hNAUnUId3uEhIQ6H7YgA,NY Bagel Cafe & Deli,ny-bagel-cafe-and-deli-brooklyn,3.0,8,
+9,gB_t2bkDs-uirtHEF-3D3Q,Zaro's Family Bakery - Grand Central Terminal Track 19,zaros-family-bakery-grand-central-terminal-track-19-new-york,3.0,280,1.0
+10,3-FFgn_V1xLRqQ6YnQ2eZQ,Merit Deli & Restaurant,merit-deli-and-restaurant-long-island-city,3.0,12,1.0
+11,w3rPFqs3rE0-7BWfFP23iw,Delectica,delectica-new-york,4.0,243,2.0
+12,yQtRrd89SOrvVDaNCWTAZA,Heights Deli & Convenience,heights-deli-and-convenience-brooklyn,4.0,8,2.0
+13,PVnBdZsxd9EdSUxkyZB_xw,The Caffeine Underground,the-caffeine-underground-brooklyn,4.5,62,2.0
+14,E-GX-rlK5cfzROGr215lDg,The Point Cafe and Bascom Catering,the-point-cafe-and-bascom-catering-new-york,4.5,8,1.0
+15,xRM1-_CXdJUZeQkMz6Jv4g,Hot Bagels Abroad,hot-bagels-abroad-montclair,4.0,89,1.0
+16,59dulpe8fTkvAtDVIdAW4Q,Brooklyn Whiskers Bakery,brooklyn-whiskers-bakery-brooklyn-2,3.5,162,1.0
+17,ewqjBbfqSivCuRmeEqulbA,Europe Bakery,europe-bakery-brooklyn,4.5,7,1.0
+18,_a934XViNUHvqt-WccXCzg,One Two Cup Cafe,one-two-cup-cafe-jersey-city,4.5,16,
+19,oqeeOpA2S6U02nUGa8Ot7g,Alison,alison-new-york,4.5,28,2.0
+20,kND0VNLb0XeP_-alnZOV-Q,Main Street Bagels,main-street-bagels-flushing,3.0,35,1.0
+21,rUmYzsdlt8K6f_x7qH3SsQ,Nostrand Donut Shop,nostrand-donut-shop-brooklyn,4.0,36,1.0
+22,9leK2QhjSicEvaLqDSYO7Q,Terry's Coffee Shop,terrys-coffee-shop-union-city,4.0,34,1.0
+23,gyYMq04u0O7nS9SHgnioIw,The Brooklyn Commons,the-brooklyn-commons-brooklyn-2,3.5,37,1.0
+24,dKgMlvm_kcm6eLxCjkCwGw,Forest superette and bagels,forest-superette-and-bagels-staten-island,2.5,3,1.0
+25,Ae0pvFVwDRYMno-6O99_WA,Cafe to Go,cafe-to-go-astoria-4,4.0,90,1.0
+26,fvnFS0CRkLSVXy-SWhC3pQ,NY Grill & Deli,ny-grill-and-deli-new-york-3,4.5,13,
+27,F2TE6sQpywj3bkVi8L_nLw,Toasties,toasties-new-york-9,3.5,177,1.0
+28,OuOZvwj78ve_r9F-cRNdIg,Bagel House,bagel-house-staten-island-7,2.5,27,1.0
+29,kkp7VKm-A-IOeFyXNFAM2w,Brooklyn Standard,brooklyn-standard-brooklyn-5,3.0,246,1.0
+30,fArdIQZgU875aQSxI2FscQ,Manhattan Bagel Co,manhattan-bagel-co-spotswood,4.5,32,1.0
+31,64yrGc7EDNd09ZmhUrizCw,Birch Coffee,birch-coffee-new-york-8,4.0,238,2.0
+32,N10LsPnytFChTWzIcoh4Iw,Boxcar Bagel & Deli,boxcar-bagel-and-deli-bogota,4.5,76,1.0
+33,1mCgyPRtmng-AUKKeUreNg,Between The Bun,between-the-bun-south-richmond-hill-11,3.5,25,1.0
+34,FUBeHLbephckTEfK95Tiow,Boogie Woogie Bagel Boys,boogie-woogie-bagel-boys-weehawken,2.5,11,1.0
+35,8MG8mxoa11qsTwZivLfHJg,Peter's Hot Bagels,peters-hot-bagels-bayside,3.0,30,1.0
+36,OEgCPGT4WJkDE1-q8I1TzQ,Sam's Deli,sams-deli-new-york-2,4.5,28,1.0
+37,6OWMji5GiqRlRPZSb1lJ4A,Fay Da Bakery,fay-da-bakery-new-york-10,4.0,231,1.0
+38,szM1B9tHQixNsmTZTfKoWA,Lincoln Station,lincoln-station-brooklyn,4.0,267,2.0
+39,2norbboVSm9YJ8vEgpK_SQ,Tal Bagels,tal-bagels-new-york,2.5,195,1.0
+40,gZeMNO7BlD_M-hk63LWPzw,Best Coffee Shop,best-coffee-shop-brooklyn-4,4.0,35,1.0
+41,m-9ryU6cAZ-bhqdffnjpXw,The Bagel Mania,the-bagel-mania-matawan,4.0,29,1.0
+42,ke3IQX15VGwmGWjPmoWf3w,Bagel Base,bagel-base-elmwood-park,4.0,56,1.0
+43,xnbdnyTjUwoHS5c8UA1P5A,Finest Deli & Smokeshop,finest-deli-and-smokeshop-brooklyn,5.0,1,
+44,-3EzItPeAwR_6aAIbFAlDA,Green Basket & More,green-basket-and-more-brooklyn,5.0,11,1.0
+45,qe_jQ6BDPkwM6wcxl7KyxA,The Bagel House,the-bagel-house-verona,5.0,18,
+46,ac-bOjdAufgOnRHg_6gr1g,Wonder Bagels,wonder-bagels-jersey-city-3,3.5,50,1.0
+47,kruWPcsITSaIlFieL1gGhg,Chatham Bagels,chatham-bagels-chatham,4.5,23,1.0
+48,S3Fw7s_GA94lJLbLFrqZrw,Bouchon Bakery & Cafe,bouchon-bakery-and-cafe-new-york-2,4.0,1372,2.0
+49,Y7wQB78Rv7W8Pvw-MZTRGA,Cafe Social 68,cafe-social-68-new-york,5.0,9,
+0,qg2lEM3NH-NmmqeTyDZtBw,Salvo's Family Market,salvos-family-market-new-york,4.5,3,
+1,ioU-u4PIgRcq_RwoFXg4hw,Nordic Preserves Fish and Wildlife Company,nordic-preserves-fish-and-wildlife-company-new-york,4.5,27,2.0
+2,dHJIN0ED7cDhO5YlWupW8g,S.k. Deli Market,s-k-deli-market-new-york,4.0,55,1.0
+3,mn28ggssMqUYqDBqpbGpoQ,City Bagels,city-bagels-staten-island,4.0,4,1.0
+4,RzSh7m8-PEiYYVrxsYcL_g,Celebrity Bagels & Restaurant,celebrity-bagels-and-restaurant-tenafly,3.5,93,1.0
+5,5QszELqJFqeFgpeujfknlQ,Filicori Zecchini,filicori-zecchini-new-york-5,4.0,190,1.0
+6,uOPewxBt6js1jWnYqtbZ9g,Espresso 77,espresso-77-jackson-heights,3.0,398,2.0
+7,q6SEFWagzMD5HYJXi-_Lfg,Fort Place Deli,fort-place-deli-staten-island,4.0,4,1.0
+8,KcEibAoIUQp6rl81u77vRA,River Road Hot Bagels,river-road-hot-bagels-fair-lawn,4.5,141,1.0
+9,0gHKcrQlEuDUsCr3YuWSDA,Idea Coffee,idea-coffee-new-york-2,4.0,156,1.0
+10,396bGT_3GVtQmz8oCFr5pg,Tony's Metro Bagel Grill & Cafe,tonys-metro-bagel-grill-and-cafe-jersey-city,4.5,3,
+11,kSNAky2m13fG4Y3Q0arqFg,Everyman Espresso,everyman-espresso-new-york-2,4.0,171,2.0
+12,UNSdhsl2KL6w92ovHlFh9A,Eisenberg's Sandwich Shop,eisenbergs-sandwich-shop-new-york,3.5,616,2.0
+13,1BpJdbEdJzfIqpmbqxv0wg,Round The Clock Deli,round-the-clock-deli-new-york-2,5.0,3,
+14,I2SzUeVcsGBN5RIf-NYqKg,Bagel Plus,bagel-plus-scotch-plains,4.0,14,
+15,2xb7iTP8NcW-Wf0fZfnBJQ,House Party Cafe & Lounge,house-party-cafe-and-lounge-brooklyn-2,4.0,51,1.0
+16,sSOz6HN00_jjE9ncvyqJAQ,Palisade Bagel,palisade-bagel-fort-lee,3.0,59,1.0
+17,5UR2nOXYZAakXAoHHoBqNg,7th Avenue Donuts,7th-avenue-donuts-brooklyn-36,3.5,242,1.0
+18,Jv1bkS4Nfst1fu1PY7UvmA,Bakery Boys of New York,bakery-boys-of-new-york-corona,4.0,16,1.0
+19,30y7mq7RQzln0GslEfobAQ,Common Good Harlem,common-good-harlem-new-york,4.5,43,1.0
+20,rmySpu2HR1ieFVeDa7bj_A,Yura on Madison,yura-on-madison-new-york,3.5,142,2.0
+21,PSvmKoXb8vpLgh-LbcEvXQ,Grey Cafe,grey-cafe-flushing,4.5,21,1.0
+22,uk34HIU-ILX2A-FRs1Or3g,Kaffe 1668 South,kaffe-1668-south-new-york,4.0,689,2.0
+23,NXvuc-Fjt1-GiloP_b5JsA,Summit Bagel,summit-bagel-summit,3.0,28,2.0
+24,doBm7WkYKNG-KRExevrRtA,DTUT,dtut-new-york,4.0,493,1.0
+25,D4bIrw8mKjec-1Q-341lww,Nyc Bagel,nyc-bagel-new-york,4.0,4,1.0
+26,OMHH97xIajGoCK_G-X3x_Q,The Coffee Inn,the-coffee-inn-new-york,4.0,156,1.0
+27,qcvGRJT3QedXz7p3_CDmmA,Bel Ami,bel-ami-new-york-2,4.0,189,2.0
+28,MQa-1Xg_sZA_XMgiNPn7Iw,Gotan - Williamsburg,gotan-williamsburg-brooklyn-2,4.0,133,2.0
+29,31PVkhg390bKOnkGxD8kRw,Howard Beach Bagel Cafe,howard-beach-bagel-cafe-howard-beach-3,3.5,85,1.0
+30,XFZ2amp5ROae_scM9Wxhkg,Knapp Street Bagel Cafe,knapp-street-bagel-cafe-brooklyn,2.5,48,1.0
+31,dFPLilNrMi9KhhXQTEix5w,1 Up Bistro,1-up-bistro-new-york,3.5,5,
+32,2l0dBpaoPVQ1JwD7CaQu-w,Madman Espresso,madman-espresso-new-york-4,4.0,273,2.0
+33,mekpRq6Iak0kuUUNWxcC3A,Balducci's Gourmet On The Go,balduccis-gourmet-on-the-go-new-york-2,3.5,98,2.0
+34,5WdsgeCz2WwN57B-eYZi7w,The Grey Dog,the-grey-dog-new-york-6,4.0,319,2.0
+35,dscslnybf6U6T8NNaiQ6lw,The Corner Spot,the-corner-spot-astoria,4.0,42,1.0
+36,OoUNzhhUtWDZ9rHtUy8IUg,Toasties,toasties-new-york-3,3.5,131,1.0
+37,vROhrixoUwnGr3rgAqGNyw,TB Coffee House,tb-coffee-house-brooklyn-2,4.5,21,
+38,qdmqhIYedl_AFR_sXyYfKA,East Way Gourmet,east-way-gourmet-new-york,4.0,5,2.0
+39,DV8rKmyE2OtBfyGnP_GAqg,NB National Bakery,nb-national-bakery-bronx,4.5,3,
+40,jOE0_m13vCS2V8D1TbfwUA,SHM Bagel Coffee Shop,shm-bagel-coffee-shop-brooklyn,4.5,2,
+41,iCMeFG8EazuLlq5ZWlODFw,Ike's Bagel Cafe,ikes-bagel-cafe-livingston,4.0,68,1.0
+42,jUPnFlGck-qlxnJjfHb2Qw,Mrs. Bagelsworth,mrs-bagelsworth-fort-lee,3.5,26,1.0
+43,_VCzzLUyZ_jGhHq3Ju2RkQ,Magic Bagels,magic-bagels-valley-stream,4.0,86,1.0
+44,ZVjz_dLXbWlkx26G0-3gNQ,Sonny's Bagels,sonnys-bagels-south-orange,4.0,92,1.0
+45,X50NTjRHh90rwwF3nO-9og,Manhattan Bagel,manhattan-bagel-bayonne,2.0,52,1.0
+46,o2oT5CHhCBxkBOIokAizrQ,Bagel Bistro Grill,bagel-bistro-grill-little-falls,4.0,48,1.0
+47,0N-FjFd15FuD4eTGhSUCFQ,Columbus Cafe,columbus-cafe-new-york,3.5,50,1.0
+48,0tTv7zhaXi_T9053mHXzxg,Glow Joe Cafe,glow-joe-cafe-bayside,4.5,37,1.0
+49,yJdzvnFvCHeVrnOdEOWGvw,Lenwich,lenwich-new-york-33,4.5,3,
+0,nx-3KRyQfJ0Bjimdh3gNEA,Andy's Delicatessen,andys-delicatessen-middle-village,4.0,88,1.0
+1,avvK7h7t3lBK_0UKU5XUfw,S & T Bagels & Deli,s-and-t-bagels-and-deli-staten-island,3.0,5,
+2,y4NLu4YIlqs-74U52r7oXQ,Pleroma,pleroma-new-york-2,3.5,35,
+3,MEH6UxnBDhzPl47DDd56KA,Bond St. Coffee & Goods,bond-st-coffee-and-goods-brooklyn,5.0,11,
+4,n3SS-2ZzZwd1tr_yYysYkA,Dunkin',dunkin-brooklyn-2,3.0,1,
+5,CGIoJRaFzm0piEr44WEZyg,Simit Sarayi,simit-sarayi-new-york-2,5.0,1,
+6,-ic13XJ9ekpEfshQFPKL4A,Grandchamps Kitchen & Market,grandchamps-kitchen-and-market-brooklyn,4.0,219,2.0
+7,SHA7V91Pg7CB_JLFE4T-xw,Zaro's Family Bakery - Penn Station 7th Ave Entrance,zaros-family-bakery-penn-station-7th-ave-entrance-new-york,3.0,237,2.0
+8,EyVUBI2vHJ0ZX2WU0D21BA,Bagel Power,bagel-power-scarsdale,4.0,23,1.0
+9,Qyluj1pQN3QAwaslpJSQ3g,The Grind Shop,the-grind-shop-jersey-city,4.5,123,2.0
+10,rAjrbtoJ9RMZSGbOiJUNPw,Wonder Bagels,wonder-bagels-bayonne,3.5,42,1.0
+11,Z0vgO-JoBL5bZ5U_8DfMfQ,Firefly Petite Café Bistro,firefly-petite-café-bistro-sunnyside,4.0,118,2.0
+12,UO2o8SxxDTixFIEFICdQQQ,Lincoln Gourmet Deli,lincoln-gourmet-deli-new-york,4.5,6,
+13,7WaoCgLZZUE4Gbv-AbQi3Q,Bagelwich Bagel Bakery,bagelwich-bagel-bakery-verona-2,4.0,103,1.0
+14,sSQ3dtC8nbfeT6srFiiIlA,Stumptown Coffee Roasters,stumptown-coffee-roasters-new-york,4.5,1401,2.0
+15,xiLQyzHpq7gOrdYheDwmVw,K C's Bagel Express,k-cs-bagel-express-pompton-plains,4.0,59,1.0
+16,LTx8jkXzTTqZRMOIEQ0lmw,Think Coffee,think-coffee-new-york-15,3.0,52,1.0
+17,MUSEeKLhwKe9aWXi0UBPBg,Brooklyn's Best Bagels,brooklyns-best-bagels-newark,3.0,13,1.0
+18,2vKlin66aGXTsLeqoHLELA,Vittles Cafe,vittles-cafe-brooklyn,4.0,36,1.0
+19,BAPjyr1XCBU1A2766wdpNg,Familiars Vegan Coffee Shop,familiars-vegan-coffee-shop-brooklyn-2,4.5,24,
+20,39U7fyFziKnbG9h-Tb9AdA,L Stop gourmet deli,l-stop-gourmet-deli-brooklyn,5.0,7,
+21,96uKJMiLA-evrXcH_n0MjQ,The BGL,the-bgl-nutley,4.0,188,1.0
+22,nLftrsCMZX_k43jSWgnKUA,Sit & Wonder,sit-and-wonder-brooklyn,4.0,241,1.0
+23,L-xJ4MIzPRfvL3LgLEWTOA,Le Basket,le-basket-new-york,3.5,92,1.0
+24,RgXT9Pkui7IuWua2K9yuHA,Rossy's Bakery,rossys-bakery-new-york,4.0,61,1.0
+25,66teFLJ_J_-I3a-46RkEkg,Toasted Bagels & Deli,toasted-bagels-and-deli-jersey-city,3.0,25,1.0
+26,UO9pQyyFw3mxgRf8HJXZsw,Heritage Bakers,heritage-bakers-glen-cove,4.5,24,2.0
+27,050d9NQK31HvuLHe1w7W_w,Tenafly Hot Bagels,tenafly-hot-bagels-tenafly,4.0,12,2.0
+28,hx1wXss808N4dDoGQRAC3w,Bueno East Mart,bueno-east-mart-new-york,4.5,3,
+29,asW_ljefQQam9zjc9ZQaMw,Oslo Coffee Roasters,oslo-coffee-roasters-new-york,4.0,247,1.0
+30,EpnNykINCMkRMJmDUL8GdA,In Between Dos Cafe,in-between-dos-cafe-queens-2,4.5,14,
+31,cBxp4jTpdzuhH4h8FXHhWQ,The Muffins Cafe,the-muffins-cafe-new-york,3.5,135,1.0
+32,h7M1s9arHO5dcMf-XxzOLA,Ebb & Flow,ebb-and-flow-brooklyn,3.5,9,
+33,qFb-KpcmH9-ejR6z-s97hQ,Hillside Bagels & Deli,hillside-bagels-and-deli-hillside,4.0,10,
+34,kQYr5gMsHB-n0cQr8G6TCQ,Everything Bagel,everything-bagel-paramus,4.0,24,
+35,gAPKLYpgVwpbVRzCAVmRbA,The Craftsman,the-craftsman-new-york-2,4.0,130,2.0
+36,MGpLWMlnZhAvlxItueKKng,Jefferson Midtown,jefferson-midtown-brooklyn,5.0,1,
+37,XskangHFq3JD9klJFuGH8w,Doughnut Plant,doughnut-plant-new-york-2,4.0,2494,2.0
+38,ZfW9wwVYsY5H5-CmxePs1Q,The Skilled Archer,the-skilled-archer-brooklyn-2,4.0,3,
+39,UURce9vJvMsM4DF7BAKs0A,Zaro’s Family Bakery,zaro-s-family-bakery-new-york,4.5,6,
+40,uWvId20JfT0R9Jz-9f1dIw,Veritable,veritable-new-york,3.5,76,1.0
+41,cdFNd99vsgCHjLBjICtfgA,Bagel Plus & Cafe,bagel-plus-and-cafe-nutley,4.0,23,1.0
+42,QKAm46V40Af7faLSUi0hrQ,Howard's Bagels,howards-bagels-montville-2,4.0,23,1.0
+43,AV-5_5fLf_W0-MJbIb1boA,4th Avenue Food,4th-avenue-food-brooklyn,3.0,1,
+44,b9eB9hyMKDZ2yuRy0PGI9A,Delgado News,delgado-news-new-york,5.0,12,1.0
+45,vB58wINYM8j2BR6_7emzDg,Cafe Bora Bora,cafe-bora-bora-rego-park,3.0,18,2.0
+46,N8Y9fFwPprct8fBQEceG9g,Murray's Cheese Shop,murrays-cheese-shop-new-york,4.5,672,2.0
+47,wFDu6tIho2HPjhNlcgRQlg,Jenny's Coffee Shop,jennys-coffee-shop-brooklyn,3.0,19,1.0
+48,tUr113zDUJh3ujwvRv62Sg,Brunswick Bagels and more,brunswick-bagels-and-more-east-brunswick,3.5,60,1.0
+49,X-CjZu0SesP_pVHMN3Ik1g,Cafe La Cerra,cafe-la-cerra-new-york-2,4.5,3,
